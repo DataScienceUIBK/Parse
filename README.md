@@ -15,7 +15,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 </div>
 
----
+
 
 ## ✨ Highlights
 
@@ -24,7 +24,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
 
----
+
 
 ## 🤗 Dataset
 
@@ -43,14 +43,14 @@ This repository also contains the dataset as JSON files under `dataset/`:
 
 > Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
 
----
+
 
 ## 📌 Task Coverage
 
 ### Question Types & Subtypes
 
 | Question Type | Subtypes (Categories) |
-|---|---|
+|||
 | **Boolean** | Reasoning: *Simple, Negation, Comparative*  <br> Multihop: *Simple, Negation, Comparative* |
 | **Factoid** | Reasoning: *Simple, NonAnswerable, ListBased* <br> Multihop: *Simple, NonAnswerable, ListBased* |
 | **Multiple-choice** | Reasoning: *SingleAnswer, MultiAnswer, NonAnswerable* <br> Multihop: *SingleAnswer, MultiAnswer, NonAnswerable* |
@@ -58,12 +58,12 @@ This repository also contains the dataset as JSON files under `dataset/`:
 ### Benchmark Dimensions
 
 | Dimension | Values |
-|---|---|
+|||
 | **Reasoning Types** | Reasoning, Multihop |
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
 
----
+
 
 ## 📈 Benchmark Statistics
 
@@ -78,7 +78,7 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 ### Taxonomy Breakdown (Table 2 in the paper)
 
 | QA Type | Dimension | Subtypes | # per subtype | Total |
-|---|---|---|---:|---:|
+||||:|:|
 | Boolean | Reasoning | Simple / Negation / Comparative | 600 | 1,800 |
 | Boolean | Multihop | Simple / Negation / Comparative | 600 | 1,800 |
 | Multiple-choice | Reasoning | Single-Ans / Multi-Ans / Non-Ans | 600 | 1,800 |
@@ -88,7 +88,7 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 
 > Overall: 6 blocks × 1,800 = **10,800 questions**. 
 
----
+
 
 ## 🧪 Benchmarking Results (Paper Summary)
 
@@ -106,7 +106,7 @@ Key findings:
 
 > Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
 
----
+
 
 ## 🚀 Quick Start
 
@@ -128,7 +128,7 @@ example = ds["train"][0]
 print(example)
 ```
 
----
+
 
 ## 📦 Repository Overview
 
@@ -164,7 +164,7 @@ Annotation interfaces and guide:
 - `difficulty_evalation_interface.html`
 - `QA_Annotation_Guide.pdf`
 
----
+
 
 ## 🔁 Reproducibility (Minimal Setup)
 
@@ -185,7 +185,7 @@ pip install prettytable termcolor together tenacity datasets
 
 > If you use API-based models, ensure you have your TogetherAI API key configured.
 
----
+
 
 ## 🧪 Evaluation (TogetherAI)
 
@@ -231,7 +231,7 @@ Example:
 evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
----
+
 
 ## 📊 Scoring
 
@@ -246,7 +246,7 @@ Example:
 python evaluate_results.py
 ```
 
----
+
 
 ## 🔧 Fine-tuning
 
@@ -262,7 +262,7 @@ Key script:
 Output example:
 - `finetune/together_ai_data_format/train_together.jsonl`
 
----
+
 
 ## 👥 Human Evaluation Summary
 
@@ -278,7 +278,7 @@ Annotators evaluated:
 Average scores across groups:
 
 | Metric | Avg. Score (1–5) |
-|---|---:|
+||:|
 | Ambiguity | **4.404** |
 | Readability | **4.669** |
 | Correctness | **4.389** |
@@ -289,7 +289,7 @@ These results indicate high linguistic quality and strong factual correctness.
 
 Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. 
 
----
+
 
 ## 📁 Repository Structure (Short)
 
@@ -304,7 +304,7 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 └── README.md
 ```
 
----
+
 
 ## 📜 Citation
 
@@ -313,7 +313,7 @@ If you use Parse, please cite:
 ```bibtex
 ```
 
----
+
 
 ## 📄 License
 
