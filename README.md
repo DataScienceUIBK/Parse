@@ -15,7 +15,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 </div>
 
-
+---
 
 ## ✨ Highlights
 
@@ -24,7 +24,37 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
 
+---
 
+## 📌 Task Coverage
+
+| Dimension | Values |
+|-|--|
+| **Question Types** | Boolean, Factoid, Multiple-choice |
+| **Reasoning Types** | Reasoning, Multihop |
+| **Difficulty** | Easy, Medium, Hard |
+| **Languages** | Persian + English prompts supported |
+
+---
+
+## 🤗 Dataset
+
+Parse is publicly available on HuggingFace:
+
+- **Dataset:** `JamshidJDMY/Parse`
+- Link: https://huggingface.co/datasets/JamshidJDMY/Parse
+
+### Local dataset files (`dataset/`)
+
+This repository also contains the dataset as JSON files under `dataset/`:
+
+- `full.json` → the complete Parse benchmark
+- `train.json` → training split (used for fine-tuning experiments)
+- `test.json` → test split (used for fine-tuning evaluation)
+
+> Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
+
+---
 
 ## 🚀 Quick Start
 
@@ -46,167 +76,78 @@ example = ds["train"][0]
 print(example)
 ```
 
+---
 
+## 🧪 Evaluation (Zero-shot / Few-shot / Chain-of-Thought)
 
-## 📦 What’s Inside This Repository?
+All automatic evaluation code is located under:
 
-This repository contains the dataset, evaluation scripts, fine-tuning utilities, and human evaluation materials used in our Parse benchmark experiments.
+```bash
+evaluation/
+```
 
-### `dataset/`
-This directory includes three JSON files:
+This directory includes implementations for evaluating different prompting approaches:
+- `zero_shot/`
+- `few_shot/`
+- `chain_of_thought/`
 
-- `full.json` → the complete Parse benchmark
-- `train.json` → training split used for fine-tuning experiments
-- `test.json` → test split used for evaluation in fine-tuning experiments
+We use the **TogetherAI platform** for:
+- inference with LLMs
+- fine-tuning models
 
-> Note: `train.json` and `test.json` are mainly provided for reproducibility of fine-tuning experiments.
+### Running experiments
 
+Each evaluation setting includes three scripts (one per question type):
 
-
-### `evaluation/`
-This directory contains all scripts required to reproduce our evaluation results under three settings:
-
-- **Zero-shot**
-- **Few-shot**
-- **Chain-of-Thought (CoT)**
-
-Each evaluation setting contains:
 - `boolean_sh.sh`
 - `factoid_sh.sh`
 - `multichoice_sh.sh`
 
-These scripts evaluate Parse for each question type using the **TogetherAI platform**, which we use both for **inference** and **fine-tuning**.
+You can reproduce experiments by running:
 
-Results are stored under:
+#### ✅ Zero-shot
+```bash
+cd evaluation/zero_shot
+bash boolean_sh.sh
+bash factoid_sh.sh
+bash multichoice_sh.sh
+```
+
+#### ✅ Few-shot
+```bash
+cd evaluation/few_shot
+bash boolean_sh.sh
+bash factoid_sh.sh
+bash multichoice_sh.sh
+```
+
+#### ✅ Chain-of-Thought (CoT)
+```bash
+cd evaluation/chain_of_thought
+bash boolean_sh.sh
+bash factoid_sh.sh
+bash multichoice_sh.sh
+```
+
+### Results storage
+
+All raw prediction outputs are stored under:
 
 ```bash
 prompt_results/<task>/<language>/
 ```
 
-If you want to reproduce the experiments, simply rerun the corresponding `.sh` files.
-
-To compute final scores and aggregate evaluation results, use:
-- `evaluate_results.py`
-- `evaluate_finetuned_results.py`
-
-
-
-### 👥 Human Evaluations
-
-In addition to automatic evaluation, the repository includes two human-based validation experiments:
-
-#### `human_difficulty_validation/`
-Human validation of **question difficulty**, including shuffled evaluation questions and collected human responses.
-
-#### `human_quality_evaluation/`
-Human-based assessment of benchmark **quality**, where participants evaluate question-answer correctness and overall quality.
-
-
-
-### `finetune/`
-This directory includes scripts and prompts needed to fine-tune models on Parse using TogetherAI.
-
-Main script:
-- `to_together_ai.py` → converts the benchmark into TogetherAI-compatible fine-tuning format
-
-Output format example:
-- `together_ai_data_format/train_together.jsonl`
-
-
-
-### `interface/`
-Contains the web interfaces used for human evaluation/validation, including the annotation guide:
-
-- `quality_evaluation_interface.html`
-- `difficulty_evalation_interface.html`
-- `QA_Annotation_Guide.pdf`
-
-
-
-### `prompts/`
-Contains all prompt templates used during benchmark creation (question generation), organized by:
-
-- Question type (Boolean / Factoid / Multichoice)
-- Reasoning type (Reasoning / Multihop)
-- Sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
-
-
-
-## 📌 Task Coverage
-
-| Dimension | Values |
-|-|--|
-| **Question Types** | Boolean, Factoid, Multiple-choice |
-| **Reasoning Types** | Reasoning, Multihop |
-| **Difficulty** | Easy, Medium, Hard |
-| **Languages** | Persian + English prompts supported |
-
-
-
-## 🔁 Reproducibility (Minimal Setup)
-
-This repository provides ready-to-run evaluation pipelines under:
-- **Zero-shot**
-- **Few-shot**
-- **Chain-of-Thought (CoT)**
-
-### 1) Environment
-
-Recommended: **Python 3.10+**
+Example:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate   # Linux/Mac
-# .venv\Scripts\activate    # Windows
+evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
-Install core requirements:
-
-```bash
-pip install -U pip
-pip install prettytable termcolor together tenacity
-```
-
-> If you use API-based models (Together / OpenAI / etc.), you may need extra SDKs and API keys depending on your setup.
-
-
-
-## 🧪 Evaluation
-
-All evaluation scripts follow the same structure and produce JSON predictions under `prompt_results/`.
-
-### ✅ Zero-shot
-
-```bash
-cd evaluation/zero_shot
-bash boolean_sh.sh
-bash multichoice_sh.sh
-bash factoid_sh.sh
-```
-
-### ✅ Few-shot
-
-```bash
-cd evaluation/few_shot
-bash boolean_sh.sh
-bash multichoice_sh.sh
-bash factoid_sh.sh
-```
-
-### ✅ Chain-of-Thought (CoT)
-
-```bash
-cd evaluation/chain_of_thought
-bash boolean_sh.sh
-bash multichoice_sh.sh
-bash factoid_sh.sh
-```
-
-
+---
 
 ## 📊 Scoring
 
-Each evaluation setting contains:
+Each evaluation setting includes the scoring scripts:
 
 - `evaluate_results.py`
 - `evaluate_finetuned_results.py`
@@ -217,55 +158,88 @@ Example:
 python evaluate_results.py
 ```
 
-
-
-## 🗂️ Output Format
-
-Predictions are stored here:
-
-```bash
-evaluation/<setting>/prompt_results/<task>/<language>/
-```
-
-Example:
-
-```bash
-evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
-```
-
-
+---
 
 ## 🔧 Fine-tuning
 
-Fine-tuning helper scripts and prompts are available in:
+Fine-tuning utilities are located under:
 
 ```bash
 finetune/
 ```
 
-Key script:
-- `to_together_ai.py` → converts dataset into TogetherAI-compatible JSONL
+This directory provides code to convert the benchmark into the format required by TogetherAI fine-tuning.
+
+Main script:
+- `to_together_ai.py` → converts Parse into TogetherAI-compatible JSONL
 
 Output example:
+- `finetune/together_ai_data_format/train_together.jsonl`
+
+---
+
+## 👥 Human Evaluation
+
+In addition to automatic evaluation, the repository includes two human-based validation experiments:
+
+### 1) Difficulty validation (`human_difficulty_validation/`)
+Human validation of **question difficulty**, including shuffled questions and collected human answers.
+
+### 2) Benchmark quality evaluation (`human_quality_evaluation/`)
+Human evaluation of benchmark **quality**, where annotators assess question-answer correctness and overall quality.
+
+---
+
+## 🖥️ Annotation Interfaces & Guide
+
+The human evaluation HTML interfaces and annotation guide are in:
 
 ```bash
-finetune/together_ai_data_format/train_together.jsonl
+interface/
 ```
 
+Includes:
+- `quality_evaluation_interface.html`
+- `difficulty_evalation_interface.html`
+- `QA_Annotation_Guide.pdf`
 
+---
 
-## 👥 Human Evaluation Interfaces
+## 🧾 Prompts Used for Question Generation
 
-Annotation interfaces used in our human evaluations:
+All prompts used for generating questions are stored under:
 
-- `interface/quality_evaluation_interface.html`
-- `interface/difficulty_evalation_interface.html`
+```bash
+prompts/
+```
 
-Annotation guide:
+They are organized by:
+- question type (Boolean / Factoid / Multichoice)
+- reasoning type (Reasoning / Multihop)
+- sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
 
-- `interface/QA_Annotation_Guide.pdf`
+---
 
+## 🔁 Reproducibility (Minimal Setup)
 
+Recommended: **Python 3.10+**
+
+```bash
+python -m venv .venv
+source .venv/bin/activate   # Linux/Mac
+# .venv\Scripts\activate    # Windows
+```
+
+Install dependencies:
+
+```bash
+pip install -U pip
+pip install prettytable termcolor together tenacity datasets
+```
+
+> If you use API-based models, ensure you have your TogetherAI API key configured.
+
+---
 
 ## 📁 Repository Structure (Short)
 
@@ -280,7 +254,7 @@ Annotation guide:
 └── README.md
 ```
 
-
+---
 
 ## 📜 Citation
 
@@ -295,7 +269,7 @@ If you use Parse, please cite:
 }
 ```
 
-
+---
 
 ## 📄 License
 
