@@ -67,7 +67,7 @@ This repository also contains the dataset as JSON files under `dataset/`:
 
 ## 📈 Benchmark Statistics
 
-Parse contains **10,800 questions**, designed with a balanced and fully-controlled taxonomy. fileciteturn0file0
+Parse contains **10,800 questions**, designed with a balanced and fully-controlled taxonomy. 
 
 ### Dataset Size & Balance
 
@@ -86,7 +86,7 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 | Factoid | Reasoning | Simple / List-based / Non-Ans | 600 | 1,800 |
 | Factoid | Multihop | Simple / List-based / Non-Ans | 600 | 1,800 |
 
-> Overall: 6 blocks × 1,800 = **10,800 questions**. fileciteturn0file0
+> Overall: 6 blocks × 1,800 = **10,800 questions**. 
 
 ---
 
@@ -95,16 +95,16 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 We benchmark multilingual and Persian LLMs under:
 - **Zero-shot**
 - **Few-shot**
-- **Chain-of-Thought (CoT)** fileciteturn0file0
+- **Chain-of-Thought (CoT)** 
 
 Key findings:
 - **Persian prompts** generally improve results compared to English prompts.
 - **Structured prompting** helps:
   - **CoT** is most effective for **Boolean** and **Multiple-choice**
   - **Few-shot** is most effective for **Factoid**
-- **Fine-tuning improves performance**, particularly for Persian-specialized models. fileciteturn0file0
+- **Fine-tuning improves performance**, particularly for Persian-specialized models. 
 
-> Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). fileciteturn0file0
+> Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
 
 ---
 
@@ -266,7 +266,7 @@ Output example:
 
 ## 👥 Human Evaluation Summary
 
-We conducted two human evaluation studies to validate benchmark quality and difficulty labels. fileciteturn0file0
+We conducted two human evaluation studies to validate benchmark quality and difficulty labels. 
 
 ### ✅ Quality Evaluation (1–5 rating)
 
@@ -283,11 +283,11 @@ Average scores across groups:
 | Readability | **4.669** |
 | Correctness | **4.389** |
 
-These results indicate high linguistic quality and strong factual correctness. fileciteturn0file0
+These results indicate high linguistic quality and strong factual correctness. 
 
 ### ✅ Difficulty Validation
 
-Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. fileciteturn0file0
+Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. 
 
 ---
 
