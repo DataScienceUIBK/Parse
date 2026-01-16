@@ -1,0 +1,4017 @@
+[
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_276",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که سازمانی که هیچ پروژه زیست‌محیطی انجام نداده، نهاد حفاظت از محیط زیست نیست؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_4",
+    "difficulty": "Easy",
+    "question": "کدام ورزش در سالن با تور میانی و تیم‌های شش‌نفره انجام می‌شود؟",
+    "options": [
+      "والیبال",
+      "هندبال",
+      "بسکتبال",
+      "هیچ‌کدام"
+    ],
+    "answer": "والیبال",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_3",
+    "difficulty": "Easy",
+    "question": "دو بازی فکری کلاسیک که با مهره انجام می‌شوند را نام ببرید.",
+    "answer": [
+      "شطرنج",
+      "نرد"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_451",
+    "difficulty": "Hard",
+    "question": "کدام مدل اتمی ساختار الکترونی را به‌صورت مدارهای دایره‌ای توضیح داد؟",
+    "options": [
+      "هیچ‌کدام",
+      "مدل تامسون",
+      "مدل رادرفورد",
+      "مدل بور"
+    ],
+    "answer": "مدل بور",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_32",
+    "difficulty": "Easy",
+    "question": "فردی که فرم اولیه قبض تلفن را طراحی کرد، چگونه در سیستم‌های اعلان هوشمند در لسوتو همکاری داشته است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_123",
+    "difficulty": "Easy",
+    "question": "اگر هر ذوزنقه دو ضلع موازی دارد و این شکل هیچ ضلع موازی ندارد، آیا ذوزنقه است؟",
+    "answer": false,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_579",
+    "difficulty": "Hard",
+    "question": "در صورتی که یک ساعت ۱۲۰ درجه حرکت کرده باشد، چند دقیقه گذشته؟",
+    "options": [
+      "هیچ‌کدام",
+      "۲۰",
+      "۱۵",
+      "۳۰"
+    ],
+    "answer": "۲۰",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_152",
+    "difficulty": "Easy",
+    "question": "چه کشوری دارای شهر معروف نایروبی و پارک‌های حیات وحش است؟",
+    "answer": "کنیا",
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.418Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_298",
+    "difficulty": "Medium",
+    "question": "اگر کشوری جمهوری باشد ولی شاه دارد، نظام آن چیست؟",
+    "options": [
+      "متناقض",
+      "هیچ‌کدام",
+      "دموکراسی",
+      "پادشاهی مشروطه"
+    ],
+    "answer": "متناقض",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_61",
+    "difficulty": "Easy",
+    "question": "آیا درست است که سازمانی که در آمریکا قرار ندارد و مخفف آن NASA نیست، ناسا است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_238",
+    "difficulty": "Medium",
+    "question": "در طراحی سیاست‌های آموزشی، چه فاکتورهایی باید ترکیب شوند؟",
+    "options": [
+      "سطح سواد والدین",
+      "خط‌کش مهندسی",
+      "دسترسی منطقه‌ای",
+      "عدالت آموزشی"
+    ],
+    "answer": [
+      "سطح سواد والدین",
+      "دسترسی منطقه‌ای",
+      "عدالت آموزشی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_408",
+    "difficulty": "Hard",
+    "question": "آیا ورزشکاران المپیک فقط از یک کشور می‌توانند در تمام دوره‌ها شرکت کنند و تغییر ملیت غیرممکن است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_306",
+    "difficulty": "Medium",
+    "question": "آیا درک الگوی ریاضی همیشه منجر به حل معادله می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_201",
+    "difficulty": "Medium",
+    "question": "در صورت ناپیوستگی در داده‌ها، کدام روند معنادارتر است؟",
+    "options": [
+      "صعودی",
+      "نزولی",
+      "ثابت",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_405",
+    "difficulty": "Hard",
+    "question": "اگر عددی بر ۶ بخش‌پذیر باشد، بر ۲ و ۳ نیز بخش‌پذیر است. اگر ۱۲ بر ۶ بخش‌پذیر باشد، آیا بر ۳ بخش‌پذیر است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_40",
+    "difficulty": "Easy",
+    "question": "شخصی که درباره تغذیه سالم در دوران بارداری کتاب نوشته، چگونه در شبیه‌سازی سیستم‌های تشخیص درد در نیجر شرکت کرده است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_26",
+    "difficulty": "Easy",
+    "question": "در زمانی که فوتبال بانوان در ایران راه‌اندازی شد، کدام یک از این مجلات مد در ایران توزیع می‌شدند؟",
+    "options": [
+      "مد و زیبایی",
+      "هیچ‌کدام",
+      "نیم‌رخ",
+      "سلامت و خانواده"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_456",
+    "difficulty": "Hard",
+    "question": "کدام تمدن باستانی در منطقه امروز مکزیک وجود داشت و به تقویم دقیق مشهور است؟",
+    "answer": "مایا",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_593",
+    "difficulty": "Hard",
+    "question": "کارگردانی که تئاتری درباره نجوم زرتشتی اجرا کرد، چگونه در پروژه‌ی طراحی الگوریتم‌های تعامل چندحسی در لسوتو شرکت داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_347",
+    "difficulty": "Medium",
+    "question": "شخصی که ساختار نقش قالیچه‌های محلی را مستندسازی کرد، چگونه در طراحی الگوریتم‌های زیبایی‌شناسی فرهنگی در لیبریا همکاری کرده است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_168",
+    "difficulty": "Easy",
+    "question": "اگر هیچ منطقه‌ای با بیش از دو زبان رسمی منطقه‌ای نباشد، آیا منطقه‌ای با یک زبان رسمی معتبر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_357",
+    "difficulty": "Medium",
+    "question": "نام خلبانی که نخستین پرواز انسان با هواپیما را انجام داد و اهل آمریکا بود چیست؟",
+    "answer": "برادران رایت",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_94",
+    "difficulty": "Easy",
+    "question": "آیا کوه اورست از دماوند بلندتر است و در قاره آسیا قرار دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_134",
+    "difficulty": "Easy",
+    "question": "کدام عبارت بیشترین تناقض را با مفهوم توالی دارد؟",
+    "options": [
+      "نقطه پایان",
+      "ترتیب حروف تصادفی",
+      "دایره در دایره",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_292",
+    "difficulty": "Medium",
+    "question": "وقتی هواداران ساکت باشند، کدام حرکت ورزشی مهربان‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "پاس",
+      "تکل",
+      "شوت"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_103",
+    "difficulty": "Easy",
+    "question": "کدام عنصر در معماری ایرانی برای خنک کردن خانه‌ها در کویر استفاده می‌شود؟",
+    "options": [
+      "طاق",
+      "هیچ‌کدام",
+      "بادگیر",
+      "گنبد"
+    ],
+    "answer": "بادگیر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_68",
+    "difficulty": "Easy",
+    "question": "آیا همه ورزش‌ها نیازمند رقابت مستقیم با دیگران هستند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_274",
+    "difficulty": "Medium",
+    "question": "اگر هر سمت مثلث زاویه ۶۰ درجه داشته باشد، نوع آن چیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "بی‌قاعده",
+      "زاویه‌قائم",
+      "متساوی‌الاضلاع"
+    ],
+    "answer": "متساوی‌الاضلاع",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_142",
+    "difficulty": "Easy",
+    "question": "در مجموعه اعداد زوج: ۲، ۴، ۶، ... کدام‌یک عضو مجموعه‌اند؟",
+    "options": [
+      "۱۱",
+      "۱۰",
+      "۹",
+      "۸"
+    ],
+    "answer": [
+      "۸",
+      "۱۰"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_20",
+    "difficulty": "Easy",
+    "question": "نام کشوری که پایتخت آن لیسبون است و زبان رسمی آن پرتغالی است چیست؟",
+    "answer": "پرتغال",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_58",
+    "difficulty": "Easy",
+    "question": "اگر هوا بارانی باشد، زمین خیس می‌شود. اکنون زمین خیس است. آیا قطعاً هوا بارانی بوده؟",
+    "options": [
+      "خیر",
+      "هیچ‌کدام",
+      "بله",
+      "نمی‌دانم"
+    ],
+    "answer": "خیر",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_135",
+    "difficulty": "Easy",
+    "question": "اگر تبلت جدید باشد، کدام نقاشی بهتر حافظه دارد؟",
+    "options": [
+      "مونالیزا",
+      "جیغ",
+      "هیچ‌کدام",
+      "شب پرستاره"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_169",
+    "difficulty": "Easy",
+    "question": "آیا بودا که بنیان‌گذار آیین بودیسم است، در هند متولد شد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_69",
+    "difficulty": "Easy",
+    "question": "کدام سبک‌های هنری در هنر معاصر شناخته شده‌اند؟",
+    "options": [
+      "مینیمالیسم",
+      "اکسپرسیونیسم انتزاعی",
+      "پاپ آرت",
+      "رئالیسم قرون وسطی"
+    ],
+    "answer": [
+      "مینیمالیسم",
+      "اکسپرسیونیسم انتزاعی",
+      "پاپ آرت"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_550",
+    "difficulty": "Hard",
+    "question": "چهار عالم ایرانی را نام ببرید که در چند رشته علمی هم‌زمان فعالیت داشته‌اند.",
+    "answer": [
+      "ابوریحان بیرونی",
+      "خیام",
+      "ابن‌سینا",
+      "خواجه نصیر"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_216",
+    "difficulty": "Medium",
+    "question": "اگر ایران در جنگ جهانی اول بی‌طرف بود ولی اشغال شد، وضعیت سیاسی آن چگونه بود؟",
+    "answer": "بی‌طرفِ اشغال‌شده",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_556",
+    "difficulty": "Hard",
+    "question": "آیا درست است که کشوری که هیچ رشته‌کوهی ندارد، به‌عنوان کشور کوهستانی شناخته شود؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_528",
+    "difficulty": "Hard",
+    "question": "کدام شاعر زن ایرانی قرن بیستم در شعر نو فعال بود و اثر «تولدی دیگر» را نوشت؟",
+    "answer": "فروغ فرخزاد",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_562",
+    "difficulty": "Hard",
+    "question": "کدام فیلسوفان غربی در قرن بیستم نظریات اجتماعی ارائه داده‌اند و ساختارگرا شناخته می‌شوند؟",
+    "options": [
+      "لوی‌استراوس",
+      "بارت",
+      "فوکو",
+      "کانت"
+    ],
+    "answer": [
+      "لوی‌استراوس",
+      "بارت",
+      "فوکو"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_242",
+    "difficulty": "Medium",
+    "question": "آیا خاک حاصلخیز از سنگ خالص تشکیل شده و بدون مواد آلی است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_400",
+    "difficulty": "Medium",
+    "question": "آیا تحلیل تأثیر یک متغیر در دو معادله هم‌مرتبه ساده‌تر از دو معادله با مرتبه متفاوت است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_393",
+    "difficulty": "Medium",
+    "question": "کدام یک از حرکات نمایشی آیینی ایرانی دارای الگویی است که در هنرهای نمایشی آفریقایی استفاده نمی‌شود و در شرق آسیا نیز رایج نیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "حرکات هماهنگ با نوحه",
+      "نمایش تک‌نفره دعایی",
+      "اجرا در حلقه بی‌تماشاگر"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_600",
+    "difficulty": "Hard",
+    "question": "کدام کشورها در منطقه خاورمیانه قرار دارند؟",
+    "options": [
+      "ایران",
+      "عراق",
+      "پاکستان",
+      "سوریه"
+    ],
+    "answer": [
+      "ایران",
+      "عراق",
+      "سوریه"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_237",
+    "difficulty": "Medium",
+    "question": "اگر هیچ بازیکنی نتواند بیش از یک‌بار تعویض شود، آیا بازیکن تعویض شده برای بار دوم مجاز است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_571",
+    "difficulty": "Hard",
+    "question": "آیا عدد اول باید فرد باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_291",
+    "difficulty": "Medium",
+    "question": "اگر هیچ متوازی‌الاضلاع با زوایای نابرابر تعریف نشود، آیا متوازی با دو زاویه ۸۰ و دو زاویه ۱۰۰ تعریف شده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_527",
+    "difficulty": "Hard",
+    "question": "کدام فرض نتیجه دقیق‌تری دارد اگر اثبات منطقی حذف شود؟",
+    "options": [
+      "اگر A آنگاه B",
+      "هیچ‌کدام",
+      "A یا B",
+      "نه A و نه B"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_497",
+    "difficulty": "Hard",
+    "question": "اگر الکترون‌ها دارای اسپین هستند، چرا ساختارهای ترکیبی زبان فارسی در جهت‌گیری اسپین بررسی نمی‌شوند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_395",
+    "difficulty": "Medium",
+    "question": "آیا کشوری که در آفریقا قرار دارد، می‌تواند بخشی از اتحادیه عرب نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_431",
+    "difficulty": "Hard",
+    "question": "در صورتی که x² - 4x + 3 = 0، مقدار x چیست؟",
+    "options": [
+      "۱ و ۳",
+      "۱ و ۴",
+      "۰ و ۳",
+      "هیچ‌کدام"
+    ],
+    "answer": "۱ و ۳",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_465",
+    "difficulty": "Hard",
+    "question": "کدام متفکر اسلامی در قرون وسطی کتاب 'تهافت التهافت' را در پاسخ به غزالی نوشت؟",
+    "options": [
+      "ابن‌رشد",
+      "هیچ‌کدام",
+      "ابن‌سینا",
+      "فارابی"
+    ],
+    "answer": "ابن‌رشد",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_452",
+    "difficulty": "Hard",
+    "question": "اگر یک سیستم حمل‌ونقل عمومی منظم نباشد، اثر آن بر ترافیک شهری چیست؟",
+    "answer": "افزایش ترافیک",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_107",
+    "difficulty": "Easy",
+    "question": "کدام یک از گیاهان دارویی ایران در طب سنتی برای رفع سردرد استفاده می‌شود اما در درمان‌های آلوپاتیک منع مصرف دارد؟",
+    "options": [
+      "گل گاوزبان",
+      "هیچ‌کدام",
+      "بابونه",
+      "آویشن"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_340",
+    "difficulty": "Medium",
+    "question": "چهار ابزار یادگیری را نام ببرید که یکی تصویری، یکی شنیداری، یکی لمسی، و دیگری نوشتاری است.",
+    "answer": [
+      "ویدیو",
+      "پادکست",
+      "ماکت",
+      "جزوه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_458",
+    "difficulty": "Hard",
+    "question": "چهار مفهوم را نام ببرید که در تحلیل سیستم‌های پیچیده طبیعی یا اجتماعی مشترک هستند.",
+    "answer": [
+      "بازخورد",
+      "وابستگی",
+      "پویایی",
+      "سازگاری"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_430",
+    "difficulty": "Hard",
+    "question": "اگر آموزش عالی در ایران گسترش یافته، چه میزان از پایان‌نامه‌های بین‌رشته‌ای علوم طبیعی و زبان‌شناسی بین ۱۳۷۰ تا ۱۳۹۰ ثبت شده‌اند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_573",
+    "difficulty": "Hard",
+    "question": "کدام ابزارهای تحلیلی در مدیریت داده‌محور کاربرد دارند؟",
+    "options": [
+      "داده‌کاوی",
+      "تحلیل پیش‌بین",
+      "آهنگ‌سازی",
+      "یادگیری ماشینی"
+    ],
+    "answer": [
+      "داده‌کاوی",
+      "تحلیل پیش‌بین",
+      "یادگیری ماشینی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_513",
+    "difficulty": "Hard",
+    "question": "چهار غذای خیابانی که در کشورهای مختلف محبوب هستند را نام ببرید.",
+    "answer": [
+      "هات‌داگ",
+      "سمبوسه",
+      "تاکو",
+      "پیده"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_279",
+    "difficulty": "Medium",
+    "question": "کدام رود در آفریقا یکی از طولانی‌ترین رودهای جهان است و در معرض آلودگی قرار دارد؟",
+    "answer": "نیل",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_265",
+    "difficulty": "Medium",
+    "question": "سه شهر با جمعیت بالا که در مجاورت دریا قرار دارند را نام ببرید.",
+    "answer": [
+      "توکیو",
+      "نیویورک",
+      "بمبئی"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_288",
+    "difficulty": "Medium",
+    "question": "کدام توابع بهتر خواب می‌بینند اگر متغیر مستقل نداشته باشند؟",
+    "options": [
+      "هیچ‌کدام",
+      "log(x)",
+      "x^2",
+      "√x"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_323",
+    "difficulty": "Medium",
+    "question": "سه نوع هزینه پنهان را نام ببرید که در خرید یک خودرو وجود دارد.",
+    "answer": [
+      "بیمه",
+      "سوخت",
+      "هزینه تعمیرات"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_590",
+    "difficulty": "Hard",
+    "question": "چهار رودخانه بزرگ آسیا که نقش حیاتی در کشاورزی دارند را نام ببرید.",
+    "answer": [
+      "سند",
+      "گنگ",
+      "مکونگ",
+      "یانگ‌تسه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_497",
+    "difficulty": "Hard",
+    "question": "آیا موقعیت خورشید در آسمان در هنگام ظهر در نیمکره شمالی همیشه در شمال قرار دارد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_334",
+    "difficulty": "Medium",
+    "question": "کدام یک از سیستم‌های حمل‌ونقل شهری در ایران دارای شیوه عملکردی است که در شهرهای غربی وجود ندارد و در آسیای جنوب شرقی نیز نیست؟",
+    "options": [
+      "ون با پرداخت نقدی روزانه",
+      "تاکسی گردشی چندمرحله‌ای",
+      "مینی‌بوس ایستگاهی پرسرعت",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_550",
+    "difficulty": "Hard",
+    "question": "نام رئیس‌جمهوری که در ایالت ایلینوی خدمت کرد و در جنگ داخلی آمریکا نقش مهمی داشت چیست؟",
+    "answer": "آبراهام لینکلن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_339",
+    "difficulty": "Medium",
+    "question": "کدام عبارات برای x=3 مقدار ۹ می‌دهند؟",
+    "options": [
+      "x^2",
+      "2x+4",
+      "3x",
+      "x+7"
+    ],
+    "answer": [
+      "x^2",
+      "3x"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_30",
+    "difficulty": "Easy",
+    "question": "اگر جمع دو عدد ۱۰ باشد و هر دو برابر باشند، آن عدد چیست؟",
+    "options": [
+      "۵",
+      "هیچ‌کدام",
+      "۴",
+      "۶"
+    ],
+    "answer": "۵",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_247",
+    "difficulty": "Medium",
+    "question": "کدام نرم‌افزارها در تحلیل داده‌های حجیم به‌کار می‌روند؟",
+    "options": [
+      "پایتون",
+      "هدوپ",
+      "اسپارک",
+      "فوتوشاپ"
+    ],
+    "answer": [
+      "پایتون",
+      "هدوپ",
+      "اسپارک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_242",
+    "difficulty": "Medium",
+    "question": "کدام یک از رسم‌های مربوط به نوروز هم منشأ زرتشتی دارد و هم در قرآن یا منابع اسلامی اشاره‌ای به آن نشده است؟",
+    "options": [
+      "سفره هفت‌سین",
+      "هیچ‌کدام",
+      "عیدی دادن",
+      "خانه‌تکانی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_423",
+    "difficulty": "Hard",
+    "question": "کدام شاه ساسانی در جنگ با رومیان پیروز شد و امپراتور روم را اسیر کرد؟",
+    "options": [
+      "شاپور اول",
+      "هرمز",
+      "اردشیر بابکان",
+      "هیچ‌کدام"
+    ],
+    "answer": "شاپور اول",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_515",
+    "difficulty": "Hard",
+    "question": "آیا ملت‌هایی با سابقه طولانی‌تر دولت-ملت‌سازی، تنوع را بهتر مدیریت می‌کنند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_79",
+    "difficulty": "Easy",
+    "question": "کدام یک از ابزارهای سنتی آشپزی در ایران از جنسی ساخته می‌شود که در مناطق مرطوب جنوب ایران استفاده نمی‌شود و در آشپزی آسیای شرقی کاربرد ندارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "تابه مسی",
+      "ساج سفالی",
+      "قابلمه نمدی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_531",
+    "difficulty": "Hard",
+    "question": "کدام شاخه‌های فلسفه در اخلاق کاربرد دارند؟",
+    "options": [
+      "وظیفه‌گرایی",
+      "اخلاق فضیلت",
+      "فایده‌گرایی",
+      "مکانیک کلاسیک"
+    ],
+    "answer": [
+      "وظیفه‌گرایی",
+      "اخلاق فضیلت",
+      "فایده‌گرایی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_319",
+    "difficulty": "Medium",
+    "question": "کدام عنصر شیمیایی در ساخت دماسنج‌های قدیمی استفاده می‌شد؟",
+    "options": [
+      "هیچ‌کدام",
+      "قلع",
+      "سرب",
+      "جیوه"
+    ],
+    "answer": "جیوه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_226",
+    "difficulty": "Medium",
+    "question": "اگر هیچ کتابی که کمتر از ۵۰ صفحه دارد، رمان نباشد، و کتاب X فقط ۴۰ صفحه دارد، آیا X می‌تواند رمان باشد؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_421",
+    "difficulty": "Hard",
+    "question": "اگر حجم مکعب برابر با a^3 باشد، کدام ساختار قانونی حجیم‌تر به‌نظر می‌رسد؟",
+    "options": [
+      "کد مدنی",
+      "قانون کار",
+      "هیچ‌کدام",
+      "قانون مجازات"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_567",
+    "difficulty": "Hard",
+    "question": "در تفکر سیستمی، کدام عناصر وجود دارند؟",
+    "options": [
+      "بازخورد",
+      "مرز سیستم",
+      "وابستگی متقابل",
+      "خطی بودن"
+    ],
+    "answer": [
+      "بازخورد",
+      "وابستگی متقابل",
+      "مرز سیستم"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_445",
+    "difficulty": "Hard",
+    "question": "کدام یک از افعال مرکب در زبان فارسی دارای معنایی است که در ساخت زبان فرانسوی وجود ندارد و در ساختار آلمانی نیز ترجمه مستقیم ندارد؟",
+    "options": [
+      "به دل ماندن",
+      "به چشم دیدن",
+      "به گوش رفتن",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_452",
+    "difficulty": "Hard",
+    "question": "چهار نویسنده ادبیات ضد جنگ در قرن بیستم را نام ببرید.",
+    "answer": [
+      "ارنست همینگوی",
+      "اریش ماریا رمارک",
+      "ویلیام گلدینگ",
+      "کورت ونه‌گات"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_573",
+    "difficulty": "Hard",
+    "question": "اگر هیچ B ای C نباشد و A ⊆ B، آیا A ⊆ C؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_352",
+    "difficulty": "Medium",
+    "question": "کدام‌یک از ابزارهای دیجیتال برای محاسبه استفاده می‌شوند؟",
+    "options": [
+      "ماشین حساب",
+      "چرتکه",
+      "چاپگر",
+      "کامپیوتر"
+    ],
+    "answer": [
+      "ماشین حساب",
+      "کامپیوتر",
+      "چرتکه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_155",
+    "difficulty": "Easy",
+    "question": "آیا صادرات نفت عربستان بیشتر از ایران است و هر دو عضو اوپک هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_70",
+    "difficulty": "Easy",
+    "question": "آیا سبک نقاشی کوبیسم با فرم‌های هندسی و چند زاویه‌ای شناخته می‌شود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_244",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان گفت شرکتی که هیچ محصول صنعتی ندارد و در نمایشگاه‌های صنعتی حاضر نشده، شرکت صنعتی نیست؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_258",
+    "difficulty": "Medium",
+    "question": "آیا می‌توان از رنگ آجرهای مسجد جامع یزد نتیجه گرفت که ستارگان در حال خوابیدن هستند؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_524",
+    "difficulty": "Hard",
+    "question": "آیا همبستگی ملی در شرایط فشاری مانند جنگ قوی‌تر از شرایط عادی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_412",
+    "difficulty": "Hard",
+    "question": "آیا تعداد تیم‌های فوتبال حرفه‌ای در ایتالیا از آلمان و فرانسه کمتر است و هر سه در لیگ‌های اروپایی رقابت دارند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_561",
+    "difficulty": "Hard",
+    "question": "چهار کشور که دارای طرح‌های جامع شهرسازی مشارکتی بوده‌اند را نام ببرید.",
+    "answer": [
+      "هلند",
+      "دانمارک",
+      "برزیل",
+      "هندوستان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_78",
+    "difficulty": "Easy",
+    "question": "آیا شخصی که دستور پخت آش رشته را برای اولین بار در تلویزیون ارائه داد، در پروژه‌ای از هوش مصنوعی خوراکی در لیبریا نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_191",
+    "difficulty": "Easy",
+    "question": "اگر صدای زیاد آزاردهنده است و در یک اتاق آرام هستیم، چه ویژگی دارد؟",
+    "answer": "بی‌صدا یا آرام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_250",
+    "difficulty": "Medium",
+    "question": "اگر مربی تنها افراد بالای ۱۸ سال را ثبت‌نام کند و علی ۱۷ ساله است، آیا او ثبت‌نام می‌شود؟",
+    "options": [
+      "شاید",
+      "هیچ‌کدام",
+      "نمی‌دانم",
+      "خیر"
+    ],
+    "answer": "خیر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_269",
+    "difficulty": "Medium",
+    "question": "کدام یک از رسم‌های نام‌گذاری نوزاد در ایران الگویی دارد که در فرهنگ‌های غربی یا شرقی رایج نیست؟",
+    "options": [
+      "نام‌گذاری با مشورت درویش",
+      "هیچ‌کدام",
+      "اسم‌گذاری پس از استخاره",
+      "اسم‌گذاری با فال حافظ"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_311",
+    "difficulty": "Medium",
+    "question": "فردی که روش‌های شفاگری محلی ایرانی را مستندسازی کرد، در چه پروژه‌ای برای مدیریت سلامت از راه دور در سیشل همکاری داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_183",
+    "difficulty": "Easy",
+    "question": "آیا همه شهروندان یک کشور لزوماً هویت ملی یکسانی دارند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_190",
+    "difficulty": "Easy",
+    "question": "شخصی که اولین بار درباره تفاوت پنیر لیقوان و پنیر تبریز مقاله نوشته، در پروژه‌ای برای طراحی نرم‌افزار مالی در گینه حضور داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_73",
+    "difficulty": "Easy",
+    "question": "کدام ورزش‌ها در مسابقات پارالمپیک نیز برگزار می‌شوند و دارای دسته‌بندی خاص هستند؟",
+    "options": [
+      "تنیس روی میز",
+      "وزنه‌برداری",
+      "شنا",
+      "دوومیدانی"
+    ],
+    "answer": [
+      "تنیس روی میز",
+      "وزنه‌برداری",
+      "شنا",
+      "دوومیدانی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_259",
+    "difficulty": "Medium",
+    "question": "کدام‌یک از گازها در تنفس سلولی نقش دارند؟",
+    "options": [
+      "نیتروژن",
+      "دی‌اکسیدکربن",
+      "هیدروژن",
+      "اکسیژن"
+    ],
+    "answer": [
+      "اکسیژن",
+      "دی‌اکسیدکربن"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_77",
+    "difficulty": "Easy",
+    "question": "دو ماده را نام ببرید که در دمای اتاق جامدند ولی در بدن انسان به‌سرعت جذب و تغییر شکل می‌دهند.",
+    "answer": [
+      "شکر",
+      "نمک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_581",
+    "difficulty": "Hard",
+    "question": "آیا جمعیت شهر استانبول بیشتر از مجموع جمعیت دو شهر آنکارا و ازمیر است و هر سه در ترکیه قرار دارند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_510",
+    "difficulty": "Hard",
+    "question": "کدام یک از تفسیرهای عرفانی قرآن دارای ساختاری است که بیشتر از تحلیل بلاغی استفاده می‌کند تا تفسیر روایی؟",
+    "options": [
+      "روح‌الجنان و روح‌الریاحین",
+      "التبیان فی تفسیر القرآن",
+      "هیچ‌کدام",
+      "مجمع‌البیان"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_476",
+    "difficulty": "Hard",
+    "question": "اگر هیچ نتیجه‌ای بدون تأیید ناظر نهایی اعتبار نداشته باشد، آیا نتیجه تأییدشده معتبر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_42",
+    "difficulty": "Easy",
+    "question": "دو کشور در جنوب اروپا که صنعت گردشگری قوی دارند را نام ببرید.",
+    "answer": [
+      "ایتالیا",
+      "یونان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_520",
+    "difficulty": "Hard",
+    "question": "اگر ماتریس متقارن برابر با ترانهاده‌اش باشد، کدام ماتریس بیشتر متغیر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "ماتریس همانی",
+      "ماتریس قطری",
+      "ماتریس مثلثی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_252",
+    "difficulty": "Medium",
+    "question": "آیا ممکن است عددی هم صحیح و هم کسری باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_127",
+    "difficulty": "Easy",
+    "question": "آیا زرافه که گردن بلندی دارد، در اقیانوس زندگی می‌کند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_264",
+    "difficulty": "Medium",
+    "question": "کدام زبان‌ها هم الفبای خاص خود را دارند و هم در چند کشور رسمی‌اند؟",
+    "options": [
+      "روسی",
+      "چینی",
+      "لاتین",
+      "عربی"
+    ],
+    "answer": [
+      "روسی",
+      "چینی",
+      "عربی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_384",
+    "difficulty": "Medium",
+    "question": "آیا تیم ملی فرانسه که قهرمان جام جهانی ۲۰۱۸ شد، در فینال با تیم کرواسی بازی کرد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_566",
+    "difficulty": "Hard",
+    "question": "چهار عنصر زیبایی‌شناسی را نام ببرید که در نقد ادبیات کلاسیک فارسی بررسی می‌شوند.",
+    "answer": [
+      "وزن",
+      "قافیه",
+      "تصویرسازی",
+      "زبان‌آرایی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_473",
+    "difficulty": "Hard",
+    "question": "آیا تحلیل دو مدل انتخاب در شرایط پرابهام مانند شرایط شفاف انجام‌پذیر است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_371",
+    "difficulty": "Medium",
+    "question": "کدام زبان رومی‌تبار است و در آمریکای جنوبی و اروپا صحبت می‌شود؟",
+    "options": [
+      "پرتغالی",
+      "هیچ‌کدام",
+      "فرانسوی",
+      "لاتین"
+    ],
+    "answer": "پرتغالی",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_259",
+    "difficulty": "Medium",
+    "question": "چهار عامل محیطی را نام ببرید که بر کیفیت خواب افراد تأثیر می‌گذارند.",
+    "answer": [
+      "نور",
+      "صدا",
+      "دمای محیط",
+      "سختی تخت"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_588",
+    "difficulty": "Hard",
+    "question": "آیا میزان تولید برق خورشیدی در امارات در سال ۲۰۲۳ بیشتر از مجموع ایران و عربستان بوده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_97",
+    "difficulty": "Easy",
+    "question": "چرا نمی‌توان مسیر حرکت یک دایره را به صورت جمله خبری بیان کرد؟",
+    "options": [
+      "توصیفی",
+      "پرسشی",
+      "امری",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_42",
+    "difficulty": "Easy",
+    "question": "اگر هیچ کشور کمونیستی پادشاه نداشته باشد، آیا کشوری با پادشاه می‌تواند کمونیستی باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_448",
+    "difficulty": "Hard",
+    "question": "پژوهشگری که درباره تمایز افسانه و اسطوره در ادبیات فارسی مقاله نوشت، در چه رویدادی درباره سیستم‌های ادراکی مصنوعی در چاد حضور یافته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_369",
+    "difficulty": "Medium",
+    "question": "دو دلیل فنی را نام ببرید که باعث گرفتن خطای شخصی در بسکتبال می‌شوند.",
+    "answer": [
+      "تماس شدید بدنی",
+      "سد کردن مسیر حریف"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_462",
+    "difficulty": "Hard",
+    "question": "اگر آینه نور را بازتاب می‌دهد و شما جلوی آینه بایستید، چه چیزی خواهید دید؟",
+    "answer": "تصویر خود",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_147",
+    "difficulty": "Easy",
+    "question": "کدام واژگان رایج در ادبیات معاصر ایران ریشه در نمادهای معماری زرتشتی دارند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_173",
+    "difficulty": "Easy",
+    "question": "کدام عناصر در گزارش‌های تحقیقی خبری اساسی‌اند؟",
+    "options": [
+      "تحقیق میدانی",
+      "مصاحبه",
+      "طنز",
+      "بررسی اسناد"
+    ],
+    "answer": [
+      "تحقیق میدانی",
+      "مصاحبه",
+      "بررسی اسناد"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_214",
+    "difficulty": "Medium",
+    "question": "کدام کشور باستانی، زبان هیروگلیف را به‌کار می‌برد و رود نیل از آن می‌گذرد؟",
+    "options": [
+      "هیچ‌کدام",
+      "مصر",
+      "بین‌النهرین",
+      "یونان"
+    ],
+    "answer": "مصر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_269",
+    "difficulty": "Medium",
+    "question": "چه تعداد از اصطلاحات حقوقی رایج در ایران در دهه ۹۰ با گرامر حالت‌نمای زبان لاتین کلاسیک قابل تطبیق هستند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_84",
+    "difficulty": "Easy",
+    "question": "اگر در کشتی دو نفر مبارزه می‌کنند و یک نفر برنده است، نتیجه نهایی چیست؟",
+    "answer": "یک برنده و یک بازنده",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_358",
+    "difficulty": "Medium",
+    "question": "آیا اگر هیچ جمله‌ای که دروغ است قابل اعتماد نباشد، برخی جمله‌های دروغ قابل اعتمادند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_282",
+    "difficulty": "Medium",
+    "question": "آیا در کشوری که دین رسمی آن بودیسم است، جشن کریسمس به عنوان تعطیلات رسمی برگزار می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_381",
+    "difficulty": "Medium",
+    "question": "کاپیتانی که نخستین بار تیم ملی فوتبال ایران را به جام ملت‌ها برد، در چه طرحی برای شبیه‌سازی تاکتیک‌های تیمی در چاد حضور داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_382",
+    "difficulty": "Medium",
+    "question": "آیا کشورهای تازه استقلال‌یافته همبستگی ملی ضعیف‌تری نسبت به کشورهای کهن دارند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_298",
+    "difficulty": "Medium",
+    "question": "اگر بازی طبق زمان تعیین‌شده تمام شده و هنوز ادامه دارد، آیا زمان رعایت شده؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_324",
+    "difficulty": "Medium",
+    "question": "اگر تعداد احزاب کشور به عدد اول محدود شود، چرا زبان انگلیسی در ایران وارونه خوانده می‌شود؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_377",
+    "difficulty": "Medium",
+    "question": "سه اختراع علمی مهم که در قرون وسطی توسط دانشمندان مسلمان معرفی شدند را نام ببرید.",
+    "answer": [
+      "آسترب",
+      "تقطیر",
+      "جبر"
+    ],
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_477",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان نتیجه گرفت که کشوری که عضو سازمان ملل نیست و روابط بین‌المللی ندارد، کشور مستقل نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_184",
+    "difficulty": "Easy",
+    "question": "چه تعداد از رستوران‌های سنتی شیراز بین سال‌های ۱۳۸۰ تا ۱۳۹۰ از واژگان برگرفته از متون مثنوی برای توصیف غذاها استفاده کرده‌اند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_261",
+    "difficulty": "Medium",
+    "question": "مورخی که تاریخچه قلعه‌های اسماعیلیه را نوشته، چگونه در طراحی الگوریتم‌های تحلیل ویدئو در کامرون نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_320",
+    "difficulty": "Medium",
+    "question": "آیا افرادی که کمتر صحبت می‌کنند، همیشه کمتر فهمیده می‌شوند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_139",
+    "difficulty": "Easy",
+    "question": "آیا نادرست نیست که بازیکنی که نه قرارداد دارد و نه در تیمی ثبت شده، بازیکن حرفه‌ای نباشد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_452",
+    "difficulty": "Hard",
+    "question": "آیا مصرف سالانه گاز طبیعی در آمریکا از مجموع چین و هند کمتر بوده است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_149",
+    "difficulty": "Easy",
+    "question": "اگر توکیو پایتخت ژاپن است، مرکز اداری کشور ژاپن کدام شهر است؟",
+    "answer": "توکیو",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_59",
+    "difficulty": "Easy",
+    "question": "اگر هیچ تیمی که کمتر از ۵ امتیاز دارد صعود نکند، آیا تیمی با ۳ امتیاز می‌تواند صعود کند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_397",
+    "difficulty": "Medium",
+    "question": "اگر در سال کبیسه فوریه ۲۹ روز داشته باشد، چند روز بیشتر از سال عادی دارد؟",
+    "options": [
+      "۳",
+      "هیچ‌کدام",
+      "۱",
+      "۲"
+    ],
+    "answer": "۱",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_137",
+    "difficulty": "Easy",
+    "question": "کدام وسایل نقلیه در هوا حرکت می‌کنند و برای حمل مسافر طراحی شده‌اند؟",
+    "options": [
+      "گلایدر",
+      "هلیکوپتر",
+      "هواپیما",
+      "کشتی"
+    ],
+    "answer": [
+      "گلایدر",
+      "هلیکوپتر",
+      "هواپیما"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_549",
+    "difficulty": "Hard",
+    "question": "کدام مؤلفه‌ها در طراحی سیستم آموزشی عدالت‌محور مهم هستند؟",
+    "options": [
+      "سنجش منصفانه",
+      "دسترسی برابر",
+      "تنوع فرهنگی",
+      "برندسازی"
+    ],
+    "answer": [
+      "سنجش منصفانه",
+      "دسترسی برابر",
+      "تنوع فرهنگی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_583",
+    "difficulty": "Hard",
+    "question": "کدام‌یک از مقادیر زیر برای حل معادله e^x = 5 نزدیک‌ترین هستند؟",
+    "options": [
+      "1.609",
+      "1.414",
+      "2.302",
+      "1.098"
+    ],
+    "answer": [
+      "1.609",
+      "2.302"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_242",
+    "difficulty": "Medium",
+    "question": "آیا میزان تولید شیر در هند از ایران بیشتر است و هر دو کشور دام‌پروری سنتی دارند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_50",
+    "difficulty": "Easy",
+    "question": "دو زبان برنامه‌نویسی را نام ببرید که برای یادگیری اولیه مناسب هستند ولی رویکرد متفاوت دارند.",
+    "answer": [
+      "پایتون",
+      "Scratch"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_252",
+    "difficulty": "Medium",
+    "question": "کدام ترکیب زبانی در برخورد با مفاهیم متضاد دچار اشکال در توالی می‌شود؟",
+    "options": [
+      "سفید-سیاه",
+      "سرد-گرم",
+      "بلند-کوتاه",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_47",
+    "difficulty": "Easy",
+    "question": "وقتی توپ از زمین خارج می‌شود، کدام مجسمه بیشتر داوری می‌کند؟",
+    "options": [
+      "مجسمه آزادی",
+      "هیچ‌کدام",
+      "تندیس داوود",
+      "تندیس حافظ"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_252",
+    "difficulty": "Medium",
+    "question": "کدام‌یک از شهرهای زیر در دوره سلجوقیان اهمیت سیاسی داشتند؟",
+    "options": [
+      "تهران",
+      "تبریز",
+      "نیشابور",
+      "اصفهان"
+    ],
+    "answer": [
+      "نیشابور",
+      "اصفهان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_17",
+    "difficulty": "Easy",
+    "question": "اگر دو کار مشابه یکی در سکوت کامل و دیگری در محیط پر سر و صدا انجام شوند، آیا کار اول احتمال دقت بیشتری دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_421",
+    "difficulty": "Hard",
+    "question": "آیا در هر مسابقه‌ای تیم با بیشترین تمرین حتماً برنده می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_482",
+    "difficulty": "Hard",
+    "question": "آیا تعیین اثربخشی یک مدل علمی نیازمند مقایسه با مدل‌های جایگزین است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_112",
+    "difficulty": "Easy",
+    "question": "اگر فرهنگ لغت دهخدا یکی از منابع مرجع زبان فارسی است، چه تعداد از مدخل‌های آن در شعر محلی بوشهر استفاده شده‌اند؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_561",
+    "difficulty": "Hard",
+    "question": "سه مؤلفه را نام ببرید که در آموزش تفکر انتقادی باید تقویت شوند.",
+    "answer": [
+      "سؤال‌سازی",
+      "تحلیل فرض",
+      "استدلال منطقی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_193",
+    "difficulty": "Easy",
+    "question": "کدام یک از نوشیدنی‌های سنتی ایران از گیاهی تهیه می‌شود که در اقلیم‌های سرد نمی‌روید و در فرهنگ اروپایی استفاده نمی‌شود؟",
+    "options": [
+      "عرق کاسنی",
+      "هیچ‌کدام",
+      "دمنوش زعفرانی",
+      "عرق خارخاسک"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_178",
+    "difficulty": "Easy",
+    "question": "کدام استان‌ها در شمال ایران قرار دارند؟",
+    "options": [
+      "گیلان",
+      "خوزستان",
+      "مازندران",
+      "گلستان"
+    ],
+    "answer": [
+      "گیلان",
+      "مازندران",
+      "گلستان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_426",
+    "difficulty": "Hard",
+    "question": "اگر انرژی جنبشی برابر نصف جرم ضربدر مجذور سرعت است، چه بخشی از آموزش فیزیک در مدارس ایران به بررسی این فرمول در پروژه‌های عملی اختصاص یافته؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_43",
+    "difficulty": "Easy",
+    "question": "آیا گوشت مرغ در رژیم غذایی ایرانی بیشتر از گوشت گاو استفاده می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_35",
+    "difficulty": "Easy",
+    "question": "چه کشوری به خاطر جنگ داخلی و شهر دمشق شناخته می‌شود؟",
+    "answer": "سوریه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_477",
+    "difficulty": "Hard",
+    "question": "چه میزان از تعاملات گفتاری در مناظره‌های انتخاباتی ایران با مدل‌های رفتاری سیستم‌های هوشمند تطابق دارند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_596",
+    "difficulty": "Hard",
+    "question": "آیا یونانی که افلاطون در آن می‌زیست، در دوره‌ای تحت حکومت امپراتوری عثمانی بود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_32",
+    "difficulty": "Easy",
+    "question": "کشوری که به عنوان سرزمین هزار دریاچه شناخته می‌شود و در شمال اروپا قرار دارد، کدام است؟",
+    "options": [
+      "سوئد",
+      "هیچ‌کدام",
+      "فنلاند",
+      "دانمارک"
+    ],
+    "answer": "فنلاند",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_355",
+    "difficulty": "Medium",
+    "question": "در صورتی که شهر هوشمند باشد، کدام شکل هندسی بیشتر برنامه‌ریزی می‌کند؟",
+    "options": [
+      "مربع",
+      "هیچ‌کدام",
+      "مثلث",
+      "شش‌ضلعی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_481",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان نتیجه گرفت که کسی که در هیچ رقابت ریاضی شرکت نکرده و مدرک ندارد، ریاضی‌دان نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_2",
+    "difficulty": "Easy",
+    "question": "اگر عدد ۵ بین ۴ و ۶ باشد، کدام حرف بیشتر بین دو عدد است؟",
+    "options": [
+      "الف",
+      "ل",
+      "هیچ‌کدام",
+      "م"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_81",
+    "difficulty": "Easy",
+    "question": "آیا منطقی است که فردی بدون هیچ تمرین رزمی و بدون کمربند، قهرمان کاراته باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_88",
+    "difficulty": "Easy",
+    "question": "آیا گورکن که در خاک لانه می‌سازد، در زیستگاهی زندگی می‌کند که روباه نیز در آن زندگی می‌کند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_91",
+    "difficulty": "Easy",
+    "question": "کدام رنگ در پرچم ایتالیا در کنار سفید و قرمز قرار دارد؟",
+    "options": [
+      "سبز",
+      "زرد",
+      "مشکی",
+      "هیچ‌کدام"
+    ],
+    "answer": "سبز",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_227",
+    "difficulty": "Medium",
+    "question": "سه کشور در اروپا که به دلیل تاریخی زبان آن‌ها در کشورهای دیگر رایج است را نام ببرید.",
+    "answer": [
+      "بریتانیا",
+      "فرانسه",
+      "اسپانیا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_330",
+    "difficulty": "Medium",
+    "question": "سه مکتب ادبی که در قرن نوزدهم رواج داشتند را نام ببرید.",
+    "answer": [
+      "رمانتیسم",
+      "رئالیسم",
+      "طبیعت‌گرایی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_523",
+    "difficulty": "Hard",
+    "question": "چهار شاعر و نویسنده ایرانی معاصر که در خارج از کشور فعالیت فرهنگی داشته‌اند را نام ببرید.",
+    "answer": [
+      "رضا براهنی",
+      "منصوره شجاعی",
+      "بیژن جزنی",
+      "بهرام بیضایی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_456",
+    "difficulty": "Hard",
+    "question": "اگر بودن یعنی ادراک و چیزی درک نمی‌شود، آیا وجود دارد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_7",
+    "difficulty": "Easy",
+    "question": "کدام استان‌ها بیشتر خشک و بیابانی هستند؟",
+    "options": [
+      "گیلان",
+      "کرمان",
+      "یزد",
+      "قم"
+    ],
+    "answer": [
+      "یزد",
+      "کرمان",
+      "قم"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_109",
+    "difficulty": "Easy",
+    "question": "آیا تهران پایتخت ایران است و جمعیت بیشتری نسبت به شیراز دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_544",
+    "difficulty": "Hard",
+    "question": "اگر داستان‌ها برای آموزش غیرمستقیم استفاده می‌شوند، داستانی درباره دروغ‌گویی چه هدفی دارد؟",
+    "answer": "آموزش صداقت",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_94",
+    "difficulty": "Easy",
+    "question": "دو آیتم پوششی را نام ببرید که در فرهنگ رسمی معنای کاملاً متفاوتی نسبت به پوشش راحتی دارند.",
+    "answer": [
+      "کت رسمی",
+      "دمپایی"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_206",
+    "difficulty": "Medium",
+    "question": "آیا ۷ ≡ 2 (mod 5) برقرار است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_19",
+    "difficulty": "Easy",
+    "question": "اگر هیچ عددی که در الگوی ضرب دو برابر پیشینش نیست، عضوی از دنباله نباشد، آیا ۴، ۸، ۱۶ معتبرند؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_274",
+    "difficulty": "Medium",
+    "question": "اگر در داستان گرگ همیشه حیوان خطرناکی باشد، حضور گرگ چه چیزی القا می‌کند؟",
+    "answer": "تهدید یا خطر",
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_136",
+    "difficulty": "Easy",
+    "question": "اگر در شب ماه دیده می‌شود، در روز چه چیزی در آسمان است؟",
+    "answer": "خورشید",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_555",
+    "difficulty": "Hard",
+    "question": "کدام پادشاه ساسانی منشور معروف 'عدالت‌نامه' را صادر کرد؟",
+    "options": [
+      "هیچ‌کدام",
+      "بهرام",
+      "اردشیر",
+      "انوشیروان"
+    ],
+    "answer": "انوشیروان",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_179",
+    "difficulty": "Easy",
+    "question": "دو احساس را نام ببرید که می‌توانند هم‌زمان در تضاد با هم ظاهر شوند.",
+    "answer": [
+      "شادی",
+      "غم"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_342",
+    "difficulty": "Medium",
+    "question": "اگر گیاهان برای فتوسنتز به نور خورشید نیاز دارند، چه مقدار از پوشش گیاهی استان گلستان به دلیل تغییر زاویه تابش خورشید کاهش یافته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_7",
+    "difficulty": "Easy",
+    "question": "اگر a = F / m و m = 1 و F = 5، آیا a = 5؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_76",
+    "difficulty": "Easy",
+    "question": "کدام کشورها دارای خطوط ساحلی هستند و در قاره آسیا قرار دارند؟",
+    "options": [
+      "ایران",
+      "هند",
+      "افغانستان",
+      "چین"
+    ],
+    "answer": [
+      "ایران",
+      "هند",
+      "چین"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_241",
+    "difficulty": "Medium",
+    "question": "کدام بیماری عفونی از طریق پشه آنوفل منتقل می‌شود؟",
+    "options": [
+      "سرخک",
+      "مالاریا",
+      "هیچ‌کدام",
+      "هاری"
+    ],
+    "answer": "مالاریا",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_579",
+    "difficulty": "Hard",
+    "question": "شخصی که نحوه انتخاب نام مغازه‌ها در دهه ۶۰ را تحلیل کرد، چگونه در الگوریتم‌های تحلیل رفتار برند در کومور نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_307",
+    "difficulty": "Medium",
+    "question": "اگر کسی که مسافرت می‌رود خوشحال است و علی خوشحال نیست، آیا علی مسافرت رفته است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_500",
+    "difficulty": "Hard",
+    "question": "نویسنده‌ای که درباره نقش ته‌دیگ در سفره‌های ایرانی کار کرده، چگونه در الگوریتم‌های تعامل مزه و تصویر در نیجر دخالت داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_486",
+    "difficulty": "Hard",
+    "question": "آیا معادله x⁴ = 16 دارای بیش از دو ریشه حقیقی دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_463",
+    "difficulty": "Hard",
+    "question": "چه کسی بنیان‌گذار هند مدرن بود و جنبش عدم خشونت را رهبری کرد؟",
+    "answer": "مهاتما گاندی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_117",
+    "difficulty": "Easy",
+    "question": "دو حیوان که در جنگل‌های شمال ایران زندگی می‌کنند را نام ببرید.",
+    "answer": [
+      "خرس قهوه‌ای",
+      "گراز"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_403",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان پذیرفت که کسی که موسیقی سنتی عربی را نمی‌شناسد و زبان عربی نمی‌داند، لبنانی نباشد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_581",
+    "difficulty": "Hard",
+    "question": "چه کسی اولین زنی بود که به عنوان نخست‌وزیر در بریتانیا خدمت کرد؟",
+    "answer": "مارگارت تاچر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_93",
+    "difficulty": "Easy",
+    "question": "آیا سرعت نور از سرعت صوت بیشتر است و هر دو از مفاهیم فیزیکی هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_290",
+    "difficulty": "Medium",
+    "question": "اگر در هر نیم‌ساعت ۱۵ صفحه کتاب خوانده شود، در دو ساعت چند صفحه خوانده می‌شود؟",
+    "options": [
+      "هیچ‌کدام",
+      "۶۰ صفحه",
+      "۵۰ صفحه",
+      "۴۵ صفحه"
+    ],
+    "answer": "۶۰ صفحه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_89",
+    "difficulty": "Easy",
+    "question": "اگر توپ بدون عبور از خط گل، گل حساب نمی‌شود و توپ از خط عبور نکرده، آیا گل است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_190",
+    "difficulty": "Easy",
+    "question": "نام کشوری که در آمریکای شمالی قرار دارد و پایتختش مکزیکوسیتی است چیست؟",
+    "answer": "مکزیک",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_462",
+    "difficulty": "Hard",
+    "question": "اگر هیچ ملت تاریخی بدون خاطره جمعی زنده نباشد، آیا ملت فاقد حافظه جمعی ادامه دارد؟",
+    "answer": false,
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_369",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان گفت کشوری که هیچ میراث فرهنگی ثبت‌شده در یونسکو ندارد و در خاورمیانه نیست، کشور تاریخی نباشد؟",
+    "answer": true,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_335",
+    "difficulty": "Medium",
+    "question": "چه کسی فلسفه شک‌گرایی را در قرون وسطی اروپا احیا کرد و اهل فرانسه بود؟",
+    "answer": "رنه دکارت",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_26",
+    "difficulty": "Easy",
+    "question": "آیا کار گروهی بدون هماهنگی می‌تواند بهتر از کار فردی باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_597",
+    "difficulty": "Hard",
+    "question": "آیا نه تمدن بین‌النهرین از اولین تمدن‌های بشری بود و نه در عراق امروزی شکل گرفت؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_414",
+    "difficulty": "Hard",
+    "question": "اگر کسی مخالف هرگونه خشونت باشد ولی در تظاهرات خشونت‌آمیز شرکت کند، چه تناقضی دارد؟",
+    "options": [
+      "رفتارش با باورش مغایر است",
+      "هیچ‌کدام",
+      "تظاهرات بی‌ارتباط است",
+      "معلوم نیست"
+    ],
+    "answer": "رفتارش با باورش مغایر است",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_210",
+    "difficulty": "Medium",
+    "question": "در الگوی عددی: ۳، ۶، ۱۲، ۲۴، ... کدام‌ها ادامه دارند؟",
+    "options": [
+      "۹۶",
+      "۴۸",
+      "۷۲",
+      "۶۰"
+    ],
+    "answer": [
+      "۴۸",
+      "۹۶"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_174",
+    "difficulty": "Easy",
+    "question": "اگر علی از رضا بزرگ‌تر و رضا از نازنین بزرگ‌تر باشد، آیا علی از نازنین بزرگ‌تر است؟",
+    "options": [
+      "نامشخص",
+      "بله",
+      "خیر",
+      "هیچ‌کدام"
+    ],
+    "answer": "بله",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_211",
+    "difficulty": "Medium",
+    "question": "آیا در چین برای کنترل ترافیک، برخی خودروها در روزهای خاص اجازه تردد ندارند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_223",
+    "difficulty": "Medium",
+    "question": "اگر برج ایفل در پاریس قرار دارد، بنای مشهور فرانسه چیست؟",
+    "answer": "برج ایفل",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_469",
+    "difficulty": "Hard",
+    "question": "اگر اندازه‌گیری دما با دماسنج انجام می‌شود، چرا واژه‌سازی در زبان فارسی بر افت فشار هوا تأثیر ندارد؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_75",
+    "difficulty": "Easy",
+    "question": "کدام کشور اروپایی به خاطر موسیقی کلاسیک و موتزارت مشهور است و پایتخت آن وین است؟",
+    "answer": "اتریش",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_233",
+    "difficulty": "Medium",
+    "question": "اگر فردی در زمستان لباس نازک بپوشد، چه احتمالی بیشتر است؟",
+    "answer": "سرما خوردن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_531",
+    "difficulty": "Hard",
+    "question": "پزشکی که در دوران صفویه به مداوای بیماران طاعون مشغول بود، در چه پروژه‌ای از ناسا نقش مشاوره‌ای داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_153",
+    "difficulty": "Easy",
+    "question": "آیا نمی‌توان پذیرفت که کسی که نه آموزش دیده و نه سابقه‌ی تدریس دارد، معلم تایید شده نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_320",
+    "difficulty": "Medium",
+    "question": "آیا استفاده از انرژی زمین‌گرمایی در ایسلند بیشتر از ژاپن است و هر دو دارای منابع زیرزمینی هستند؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_385",
+    "difficulty": "Medium",
+    "question": "اگر x² < 0، آیا x عدد حقیقی است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_177",
+    "difficulty": "Easy",
+    "question": "در سالی که جام جهانی فوتبال در آفریقای جنوبی برگزار شد، چند شرکت ایرانی در بورس تهران ثبت شدند؟",
+    "options": [
+      "۱۰",
+      "۱۲",
+      "۱۵",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_246",
+    "difficulty": "Medium",
+    "question": "اگر هیچ تیمی بدون برد مقابل تیم پایین‌تر از جدول سقوط نکند، آیا تیمی با تساوی سقوط نکرده؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_423",
+    "difficulty": "Hard",
+    "question": "اگر هیچ نماد رسمی بدون پیشینه معنایی مصوب نشود، آیا نماد دارای پیشینه قابل تصویب است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_583",
+    "difficulty": "Hard",
+    "question": "اگر در دو ۴۰۰ متر چهار نفر شرکت کنند و سه نفر زودتر از نفر آخر برسند، مقام نفر آخر چیست؟",
+    "answer": "چهارم",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_348",
+    "difficulty": "Medium",
+    "question": "کدام کشورها دارای جمعیت بالای ۸۰ میلیون نفر هستند و در آسیا قرار دارند؟",
+    "options": [
+      "ایران",
+      "بنگلادش",
+      "افغانستان",
+      "پاکستان"
+    ],
+    "answer": [
+      "ایران",
+      "بنگلادش",
+      "پاکستان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_385",
+    "difficulty": "Medium",
+    "question": "آیا تولید خودرو در چین بیشتر از ژاپن است و هر دو جزو بزرگ‌ترین تولیدکنندگان جهان هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_592",
+    "difficulty": "Hard",
+    "question": "کدام نمادها در منطق نمادین کاربرد دارند؟",
+    "options": [
+      "¬",
+      "∧",
+      "→",
+      "∑"
+    ],
+    "answer": [
+      "¬",
+      "∧",
+      "→"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_198",
+    "difficulty": "Easy",
+    "question": "سه حواس انسان را نام ببرید که اطلاعات محیطی را دریافت می‌کنند.",
+    "answer": [
+      "بینایی",
+      "شنوایی",
+      "لامسه"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_551",
+    "difficulty": "Hard",
+    "question": "آیا انقلاب فرهنگی چین در قرن نوزدهم رخ داد و توسط امپراتوری چین هدایت شد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_387",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که کسی که در هیچ روزنامه‌ای مطلب منتشر نکرده، روزنامه‌نگار شناخته‌شده نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_91",
+    "difficulty": "Easy",
+    "question": "آیا مطالعه منظم بهتر از مطالعه شب امتحان است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_297",
+    "difficulty": "Medium",
+    "question": "کدام مفاهیم انسان‌شناسی به مطالعه فرهنگ و زبان می‌پردازند؟",
+    "options": [
+      "زبان‌شناسی",
+      "خویشاوندی",
+      "زیست‌فیزیک",
+      "فرهنگ مادی"
+    ],
+    "answer": [
+      "زبان‌شناسی",
+      "خویشاوندی",
+      "فرهنگ مادی"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_295",
+    "difficulty": "Medium",
+    "question": "سه کشور که در ورزش‌های آبی مانند شنا یا واترپلو موفق بوده‌اند را نام ببرید.",
+    "answer": [
+      "آمریکا",
+      "استرالیا",
+      "هنگری"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.419Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_459",
+    "difficulty": "Hard",
+    "question": "آیا کشوری که در دوران استعمار تحت سلطه بریتانیا بوده، ممکن است امروزه از نظام حقوقی متفاوتی استفاده کند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_177",
+    "difficulty": "Easy",
+    "question": "اگر با چاقو دستت را ببری، چه اتفاقی می‌افتد؟",
+    "answer": "خون می‌آید",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_291",
+    "difficulty": "Medium",
+    "question": "کدام یک از مراسم سوگواری در ایران الگویی دارد که در آیین‌های عزاداری غربی یا آسیایی استفاده نمی‌شود؟",
+    "options": [
+      "سینه‌زنی حلقه‌ای با نوحه",
+      "هیچ‌کدام",
+      "خواندن شعر حافظ در مراسم",
+      "پخت نذری خانوادگی خاص"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_573",
+    "difficulty": "Hard",
+    "question": "کدام متفکر ایرانی‌الاصل در بغداد فلسفه نوافلاطونی را بسط داد؟",
+    "options": [
+      "ابن رشد",
+      "فارابی",
+      "هیچ‌کدام",
+      "سهروردی"
+    ],
+    "answer": "سهروردی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_518",
+    "difficulty": "Hard",
+    "question": "کدام یک از آیین‌های ورزشی آیینی ایرانی دارای الگویی است که در مراسم المپیک دیده نمی‌شود و در ورزش غربی هم پذیرفته نیست؟",
+    "options": [
+      "اذکار دسته‌جمعی قبل از مبارزه",
+      "هیچ‌کدام",
+      "دعای خطی در زمین مسابقه",
+      "چرخش نمادین با پرچم محلی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_276",
+    "difficulty": "Medium",
+    "question": "کدام ورزش آبی با شیرجه از بلندی به داخل آب انجام می‌شود؟",
+    "answer": "شیرجه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_359",
+    "difficulty": "Medium",
+    "question": "کدام زیست‌شناس انگلیسی، پایه‌گذار طبقه‌بندی علمی جانوران بود؟",
+    "options": [
+      "هیچ‌کدام",
+      "داروین",
+      "لینه",
+      "مندل"
+    ],
+    "answer": "لینه",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_461",
+    "difficulty": "Hard",
+    "question": "آیا تولید برق هسته‌ای در فرانسه از مجموع سوئیس و جمهوری چک در سال ۲۰۲۳ بیشتر بوده است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_535",
+    "difficulty": "Hard",
+    "question": "اگر برخی حیوانات پستاندار هستند و همه پستانداران خون‌گرم هستند، چه نتیجه‌ای می‌توان گرفت؟",
+    "options": [
+      "هیچ‌کدام",
+      "همه حیوانات پستاندارند",
+      "برخی حیوانات خون‌گرم هستند",
+      "پستانداران خون‌سردند"
+    ],
+    "answer": "برخی حیوانات خون‌گرم هستند",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_19",
+    "difficulty": "Easy",
+    "question": "اگر کتاب قرمز از ماشین سریع‌تر باشد، چرا مداد نمی‌خندد؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_509",
+    "difficulty": "Hard",
+    "question": "اگر هیچ‌چیز قطعی نباشد، کدام سوال بهتر تصمیم می‌گیرد؟",
+    "options": [
+      "چه باید کرد؟",
+      "چرا من؟",
+      "کِی تمام می‌شود؟",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_502",
+    "difficulty": "Hard",
+    "question": "کدام یک از شگردهای بلاغی در نثر عرفانی ایرانی دارای الگویی است که در زبان لاتین وجود ندارد و در عربی هم سابقه ندارد؟",
+    "options": [
+      "تمثیل شهودی لایه‌دار",
+      "قیاس نفی‌شده‌ی مضاعف",
+      "اشاره سکوتی پارادوکسی",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_300",
+    "difficulty": "Medium",
+    "question": "آیا زلزله‌ای که در سال ۲۰۰۴ در اقیانوس هند رخ داد، موجب سونامی در چندین کشور آسیایی شد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_comparative_217",
+    "difficulty": "Medium",
+    "question": "آیا احساسات شدید تصمیم‌گیری منطقی را سخت‌تر می‌کنند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_443",
+    "difficulty": "Hard",
+    "question": "سه عامل فرهنگی-اجتماعی را نام ببرید که در رشد تمدن علمی ایران در سده‌های میانی موثر بودند.",
+    "answer": [
+      "ترجمه متون یونانی",
+      "حمایت درباریان",
+      "نظام مدرسه‌ای"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_comparative_358",
+    "difficulty": "Medium",
+    "question": "آیا رئال مادرید جام‌های قهرمانی بیشتری نسبت به بارسلونا در لیگ قهرمانان اروپا دارد و هر دو تیم اسپانیایی‌اند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_169",
+    "difficulty": "Easy",
+    "question": "اگر همه گربه‌ها گوشت‌خوار باشند و تام یک گربه باشد، تام چه می‌خورد؟",
+    "options": [
+      "هیچ‌کدام",
+      "علف",
+      "شیرینی",
+      "گوشت"
+    ],
+    "answer": "گوشت",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_non_answerable_478",
+    "difficulty": "Hard",
+    "question": "زمانی که اولین عملیات فضایی ایران انجام شد، کدام یک از این دانشمندان ایرانی در حال تدریس در دانشگاه‌های غربی بودند؟",
+    "options": [
+      "مریم میرزاخانی",
+      "کامران وفا",
+      "کاظم احمدزاده",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_88",
+    "difficulty": "Easy",
+    "question": "اگر x × y = 0، آیا حداقل یکی از آن‌ها صفر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_7",
+    "difficulty": "Easy",
+    "question": "کسی که اولین بار شیر پاکتی را بسته‌بندی کرد، در چه پروژه‌ای برای شبیه‌سازی جریان زنجیره‌های غذایی در بورکینافاسو دخیل بوده است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_147",
+    "difficulty": "Easy",
+    "question": "اگر ناپلئون امپراتور فرانسه بود، کشور او چه بود؟",
+    "options": [
+      "ایتالیا",
+      "فرانسه",
+      "هیچ‌کدام",
+      "انگلیس"
+    ],
+    "answer": "فرانسه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_326",
+    "difficulty": "Medium",
+    "question": "چگونه می‌توان از ترکیب اقوام ایرانی نتیجه گرفت که فرمول‌های شیمیایی اشتباه هستند؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_172",
+    "difficulty": "Easy",
+    "question": "اگر هیچ تیمی بدون زدن گل نتواند برنده شود، آیا تیمی که هیچ گلی نزده می‌تواند برنده باشد؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_listbased_377",
+    "difficulty": "Medium",
+    "question": "سه ماده غذایی را نام ببرید که در گروه پروتئین حیوانی قرار می‌گیرند و نیاز به پخت دارند.",
+    "answer": [
+      "مرغ",
+      "ماهی",
+      "گوشت گاو"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_358",
+    "difficulty": "Medium",
+    "question": "اگر حاصل‌ضرب یک عدد در ۰ برابر صفر است، ۹۸ × ۰ چیست؟",
+    "answer": "۰",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_428",
+    "difficulty": "Hard",
+    "question": "در اقتصاد کلان، کدام‌یک شاخص‌های اصلی تحلیلی‌اند؟",
+    "options": [
+      "تولید ناخالص داخلی",
+      "نرخ تورم",
+      "نرخ بیکاری",
+      "درآمد شخصی"
+    ],
+    "answer": [
+      "نرخ تورم",
+      "نرخ بیکاری",
+      "تولید ناخالص داخلی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_519",
+    "difficulty": "Hard",
+    "question": "اگر هیچ ماتریسی بدون دترمینان صفر معکوس‌پذیر نباشد، آیا ماتریس با دترمینان صفر معکوس دارد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_457",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان پذیرفت که کشوری که در قاره اروپا قرار ندارد و پرچم آن آبی و زرد نیست، اوکراین نیست؟",
+    "answer": true,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_nonanswerable_358",
+    "difficulty": "Medium",
+    "question": "نویسنده‌ای که درباره تفاوت شکل خنده کودکان و بزرگسالان نوشته، در چه پروژه‌ای برای آموزش احساسات غیرکلامی در تیمور شرقی نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_120",
+    "difficulty": "Easy",
+    "question": "دو کشور که در تولید خودروهای الکتریکی پیشرو هستند را نام ببرید.",
+    "answer": [
+      "چین",
+      "آلمان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_nonanswerable_13",
+    "difficulty": "Easy",
+    "question": "آیا اگر وزرای کشور لباس زرد بپوشند، صدای پل‌ها قطع می‌شود؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_44",
+    "difficulty": "Easy",
+    "question": "کدام وسایل زیر از برق استفاده می‌کنند؟",
+    "options": [
+      "کتاب",
+      "تلویزیون",
+      "یخچال",
+      "چراغ"
+    ],
+    "answer": [
+      "تلویزیون",
+      "چراغ",
+      "یخچال"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_simple_161",
+    "difficulty": "Easy",
+    "question": "اگر همه ماشین‌ها چرخ دارند و کامیون ماشین است، آیا کامیون چرخ دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_multi_5",
+    "difficulty": "Easy",
+    "question": "کدام ورزش‌ها در فضای باز برگزار می‌شوند؟",
+    "options": [
+      "تنیس خاکی",
+      "فوتبال",
+      "شنا استخر",
+      "دو و میدانی"
+    ],
+    "answer": [
+      "دو و میدانی",
+      "فوتبال",
+      "تنیس خاکی"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_negation_344",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که کشوری که خط ریلی ندارد و قطار در آن حرکت نمی‌کند، دارای شبکه راه‌آهن نیست؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_reasoning_negation_542",
+    "difficulty": "Hard",
+    "question": "اگر هیچ دنباله‌ای که با عدد زوج شروع می‌شود، مجموع اعضایش فرد نباشد، و دنباله‌ای با ۲ شروع شود و مجموعش ۱۱ باشد، آیا این تناقض دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_multi_499",
+    "difficulty": "Hard",
+    "question": "کدام نظریه‌های ریاضی به مفاهیم بینهایت و دنباله‌ها مربوط هستند؟",
+    "options": [
+      "حد",
+      "شیمی فیزیک",
+      "آنالیز حقیقی",
+      "نظریه مجموعه‌ها"
+    ],
+    "answer": [
+      "حد",
+      "آنالیز حقیقی",
+      "نظریه مجموعه‌ها"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_simple_274",
+    "difficulty": "Medium",
+    "question": "چه کسی مخترع برق AC بود و اهل صربستان و آمریکا شناخته می‌شود؟",
+    "answer": "نیکولا تسلا",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "boolean_multihop_simple_76",
+    "difficulty": "Easy",
+    "question": "آیا دارکوب که برای یافتن غذا به تنه درختان ضربه می‌زند، در منطقه‌ای یافت می‌شود که درختان جنگلی فراوان دارند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_multihop_listbased_184",
+    "difficulty": "Easy",
+    "question": "دو کشور که زبان رسمی آن‌ها اسپانیایی است را نام ببرید.",
+    "answer": [
+      "اسپانیا",
+      "مکزیک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_non_answerable_469",
+    "difficulty": "Hard",
+    "question": "کدام دنباله بیشتر حس پایان دارد وقتی جمعش همگرا نباشد؟",
+    "options": [
+      "هیچ‌کدام",
+      "n",
+      "n^2",
+      "2^n"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "factoid_reasoning_simple_427",
+    "difficulty": "Hard",
+    "question": "اگر صفویان تشیع را مذهب رسمی اعلام کردند و مخالف عثمانیان بودند، یکی از انگیزه‌های این انتخاب چه بود؟",
+    "answer": "تمایز مذهبی با عثمانی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_reasoning_single_593",
+    "difficulty": "Hard",
+    "question": "در مکعب، چند یال وجود دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "۸",
+      "۱۲",
+      "۱۰"
+    ],
+    "answer": "۱۲",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-25T23:57:37.420Z",
+    "annotator_id": "Nap",
+    "annotator_name": "محمدرضا نظرپور",
+    "id": "multichoice_multihop_single_121",
+    "difficulty": "Easy",
+    "question": "کدام گل قرمز رنگ نماد عشق در فرهنگ‌های مختلف است؟",
+    "options": [
+      "رز",
+      "هیچ‌کدام",
+      "زنبق",
+      "لاله"
+    ],
+    "answer": "رز",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  }
+]

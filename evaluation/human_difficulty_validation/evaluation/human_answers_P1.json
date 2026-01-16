@@ -1,0 +1,3368 @@
+[
+  {
+    "submission_ts": "2025-09-05T18:45:25.630Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_542",
+    "question": "اگر هیچ دنباله‌ای که با عدد زوج شروع می‌شود، مجموع اعضایش فرد نباشد، و دنباله‌ای با ۲ شروع شود و مجموعش ۱۱ باشد، آیا این تناقض دارد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_51",
+    "question": "آیا تهران پرجمعیت‌ترین شهر ایران است و پایتخت کشور محسوب می‌شود؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_320",
+    "question": "آیا افرادی که کمتر صحبت می‌کنند، همیشه کمتر فهمیده می‌شوند؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_482",
+    "question": "کدام مکاتب فلسفی در قرون جدید شکل گرفته‌اند و با انسان‌گرایی پیوند دارند؟",
+    "options": [
+      "اگزیستانسیالیسم",
+      "رواقی‌گری",
+      "پراگماتیسم",
+      "اومانیسم"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "اومانیسم"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_158",
+    "question": "کدام گزینه‌ها نیاز به قضاوت رسمی دارند؟",
+    "options": [
+      "دو میدانی پرتاب دیسک",
+      "دوچرخه‌سواری",
+      "بوکس",
+      "ژیمناستیک"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "دو میدانی پرتاب دیسک",
+      "بوکس",
+      "ژیمناستیک",
+      "دوچرخه‌سواری"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_485",
+    "question": "آیا انتخاب بین دو فرض متضاد آسان‌تر از فرض‌های هم‌جهت است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_169",
+    "question": "کدام کشورها اروپایی محسوب می‌شوند و عضو اتحادیه اروپا هستند؟",
+    "options": [
+      "روسیه",
+      "فرانسه",
+      "ایتالیا",
+      "آلمان"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "آلمان",
+      "ایتالیا",
+      "فرانسه"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_239",
+    "question": "آیا طول دیوار چین بیشتر از دیوار برلین است و هر دو برای محافظت ساخته شده‌اند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_527",
+    "question": "کدام فرض نتیجه دقیق‌تری دارد اگر اثبات منطقی حذف شود؟",
+    "options": [
+      "اگر A آنگاه B",
+      "هیچ‌کدام",
+      "A یا B",
+      "نه A و نه B"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_241",
+    "question": "کدام بیماری عفونی از طریق پشه آنوفل منتقل می‌شود؟",
+    "options": [
+      "سرخک",
+      "مالاریا",
+      "هیچ‌کدام",
+      "هاری"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_321",
+    "question": "اگر اعداد زوج پشت سر هم ۲، ۴، ۶، ۸ باشند، عدد دهم چیست؟",
+    "options": [
+      "۲۰",
+      "هیچ‌کدام",
+      "۱۸",
+      "۲۲"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "۲۰"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_335",
+    "question": "چه کسی فلسفه شک‌گرایی را در قرون وسطی اروپا احیا کرد و اهل فرانسه بود؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_247",
+    "question": "ترکیب معنا در جمله‌ای با دو مفعول، با کدام مدل ریاضی ناهمخوان است؟",
+    "options": [
+      "بردار",
+      "هیچ‌کدام",
+      "تابع ثابت",
+      "ماتریس"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_59",
+    "question": "اگر هیچ تیمی که کمتر از ۵ امتیاز دارد صعود نکند، آیا تیمی با ۳ امتیاز می‌تواند صعود کند؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_225",
+    "question": "سه کشور آسیایی که تحت استعمار امپراتوری بریتانیا بوده‌اند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "هند؛ عراق؛ عمان"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_35",
+    "question": "چه کشوری به خاطر جنگ داخلی و شهر دمشق شناخته می‌شود؟",
+    "question_type": "factoid",
+    "human_answer": "سوریه"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_378",
+    "question": "اگر همه انسان‌ها نفس می‌کشند و نوزاد هم انسان است، نوزاد چه می‌کند؟",
+    "question_type": "factoid",
+    "human_answer": "نفس میکشد"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_420",
+    "question": "در استخر شنا، دمای آب عامل تعیین‌کننده است؛ کدام ویژگی آن را تغییر نمی‌دهد اما هم‌ارز هم نیست؟",
+    "options": [
+      "شکل دیوار",
+      "ارتفاع آب",
+      "هیچ‌کدام",
+      "دمای رنگ"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "دمای رنگ"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_573",
+    "question": "کدام متفکر ایرانی‌الاصل در بغداد فلسفه نوافلاطونی را بسط داد؟",
+    "options": [
+      "ابن رشد",
+      "فارابی",
+      "هیچ‌کدام",
+      "سهروردی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_197",
+    "question": "آیا قدرت موتور کامیون بیشتر از پراید است و هر دو خودرو در جاده‌ها تردد می‌کنند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_598",
+    "question": "آیا نمی‌توان پذیرفت که جانوری که مهره ندارد و در خاک زندگی نمی‌کند، کرم خاکی نباشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_220",
+    "question": "کارگردانی که تئاترهایی با مضمون عاشقانه در دهه ۳۰ ساخت، چگونه در الگوریتم‌های خلاصه‌سازی خودکار در گویان فرانسوی مشارکت داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_251",
+    "question": "آیا کسی که در هند زندگی می‌کند، می‌تواند در منطقه‌ای باشد که زبان هندی و انگلیسی هر دو رسمی هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_291",
+    "question": "کدام یک از مراسم سوگواری در ایران الگویی دارد که در آیین‌های عزاداری غربی یا آسیایی استفاده نمی‌شود؟",
+    "options": [
+      "سینه‌زنی حلقه‌ای با نوحه",
+      "هیچ‌کدام",
+      "خواندن شعر حافظ در مراسم",
+      "پخت نذری خانوادگی خاص"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "خواندن شعر حافظ در مراسم"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_275",
+    "question": "سه متفکر معاصر که در حوزه فلسفه علم تأثیرگذار بوده‌اند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "کانت؛ دکارت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.635Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_435",
+    "question": "اگر باران می‌بارد و رودخانه بالا آمده، وقوع کدام حادثه محتمل است؟",
+    "question_type": "factoid",
+    "human_answer": "سیل"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_436",
+    "question": "آیا درک دو مسئله انتزاعی که با واژگان مشابه توصیف شده‌اند، آسان‌تر از مسائل با واژگان متفاوت است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_152",
+    "question": "چه کشوری دارای شهر معروف نایروبی و پارک‌های حیات وحش است؟",
+    "question_type": "factoid",
+    "human_answer": "کنیا"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_238",
+    "question": "آیا تولید نفت عربستان بیشتر از امارات است و هر دو عضو اوپک هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_69",
+    "question": "دو قانون محدودکننده در بازی بسکتبال را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "24 ثانیه؛ حمل توپ"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_136",
+    "question": "اگر در شب ماه دیده می‌شود، در روز چه چیزی در آسمان است؟",
+    "question_type": "factoid",
+    "human_answer": "خورشید"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_597",
+    "question": "آیا نه تمدن بین‌النهرین از اولین تمدن‌های بشری بود و نه در عراق امروزی شکل گرفت؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_487",
+    "question": "چه کسی در باشگاه‌هایی مانند میلان و رئال مادرید بازی کرده و اهل برزیل است؟",
+    "question_type": "factoid",
+    "human_answer": "کاکا"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_545",
+    "question": "کدام کشور آسیایی در کشتی سومو پیشتاز است و ریشه فرهنگی آن در معابد قرار دارد؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_193",
+    "question": "کدام یک از نوشیدنی‌های سنتی ایران از گیاهی تهیه می‌شود که در اقلیم‌های سرد نمی‌روید و در فرهنگ اروپایی استفاده نمی‌شود؟",
+    "options": [
+      "عرق کاسنی",
+      "هیچ‌کدام",
+      "دمنوش زعفرانی",
+      "عرق خارخاسک"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_131",
+    "question": "کدام یک از انواع تغذیه ورزشکاران ایرانی دارای ترکیبی است که در رژیم بدنسازان غربی وجود ندارد و در شرق آسیا نیز رایج نیست؟",
+    "options": [
+      "ترکیب خرما و تخم‌مرغ",
+      "هیچ‌کدام",
+      "نوشیدنی نعناع-شیر",
+      "سالاد پسته و سیب"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "ترکیب خرما و تخم‌مرغ"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_543",
+    "question": "آیا تفسیر واکنش‌های اجتماعی به اصلاحات فرهنگی در جوامع بسته سخت‌تر از جوامع باز است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_107",
+    "question": "نقاشی که اولین تصویر رنگی از دربار قاجار را کشید، در کدام همکاری برای توسعه سیستم‌های نظارت شهری در بوتان مشارکت داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_231",
+    "question": "سه رشته تحصیلی که بین مهندسی و زیست‌شناسی ارتباط برقرار می‌کنند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "مهندسی پزشکی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_109",
+    "question": "دو واحد اندازه‌گیری را نام ببرید که یکی برای زمان و دیگری برای جرم استفاده می‌شود.",
+    "question_type": "factoid",
+    "human_answer": "دقیقه؛ گرم"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_46",
+    "question": "فردی که نحوه انتخاب موسیقی مناسب برای مطالعه را پیشنهاد داد، در چه پژوهشی برای تنظیم خودکار لیست موسیقی در چاد نقش داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_436",
+    "question": "آیا نمی‌توان پذیرفت که سرزمینی که در نزدیکی مدار شمالگان نیست، قطب شمالی نیست؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_112",
+    "question": "اگر هیچ مثلثی نتواند چهار زاویه داشته باشد، آیا شکل با چهار زاویه مثلث است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_345",
+    "question": "اگر ۰ < a < b، کدام نابرابری‌ها برقرار است؟",
+    "options": [
+      "1/a > 1/b",
+      "a^2 < b^2",
+      "b−a < b",
+      "a−b > 0"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "a^2 < b^2"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_132",
+    "question": "مؤلفی که درباره اشعار حماسی در بلوچستان نوشت، در چه پروژه‌ای برای توسعه بازی‌های آموزشی در جزایر سلیمان همکاری داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_48",
+    "question": "آیا صحیح نیست که کشوری که دارای منابع نفتی گسترده نیست و عضو اوپک نیست، صادرکننده عمده نفت نباشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_485",
+    "question": "کدام یک از اصطلاحات فلسفی در عرفان نظری ایرانی با اصطلاحات مابعدالطبیعه غربی هم‌پوشانی ندارد؟",
+    "options": [
+      "نور حضوری",
+      "تجلی اسماء",
+      "صادر اول",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_293",
+    "question": "آیا کشوری که از الفبای لاتین استفاده می‌کند، می‌تواند زبان رسمی‌اش عربی باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_250",
+    "question": "اگر مربی تنها افراد بالای ۱۸ سال را ثبت‌نام کند و علی ۱۷ ساله است، آیا او ثبت‌نام می‌شود؟",
+    "options": [
+      "شاید",
+      "هیچ‌کدام",
+      "نمی‌دانم",
+      "خیر"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "خیر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_478",
+    "question": "اگر فردی همزمان چند وظیفه را انجام دهد، تأثیر آن بر کیفیت کار چیست؟",
+    "question_type": "factoid",
+    "human_answer": "کاهش کیفیت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_261",
+    "question": "آیا میزان مصرف روزانه نمک در ایران بیشتر از استاندارد جهانی است و باعث بیماری‌های قلبی می‌شود؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_13",
+    "question": "آیا حاصل‌ضرب هر عددی در صفر صفر می‌شود؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_308",
+    "question": "دو قانون منطقی را نام ببرید که یکی برای اثبات مستقیم و دیگری برای اثبات غیرمستقیم به‌کار می‌رود.",
+    "question_type": "factoid",
+    "human_answer": "؛برهان خلف"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_101",
+    "question": "آیا سرعت دویدن انسان از سرعت دوچرخه کمتر است و هر دو به‌عنوان روش‌های تحرک استفاده می‌شوند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_271",
+    "question": "کدام سازندگان موتورهای دیزلی در صنایع حمل‌ونقل سنگین معروف‌اند؟",
+    "options": [
+      "کاترپیلار",
+      "ولوو",
+      "کامینز",
+      "یاماها"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ولوو",
+      "کاترپیلار"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_424",
+    "question": "سه دلیل معرفت‌شناختی را نام ببرید که چرا دانستن یک واقعیت کافی برای باور صحیح نیست.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_327",
+    "question": "کدام فلاسفه غربی در قرون اخیر نظریه‌های ذهن را مطرح کردند؟",
+    "options": [
+      "سقراط",
+      "کانت",
+      "لاک",
+      "دکارت"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "کانت",
+      "دکارت"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_384",
+    "question": "آیا تیم ملی فرانسه که قهرمان جام جهانی ۲۰۱۸ شد، در فینال با تیم کرواسی بازی کرد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_497",
+    "question": "آیا موقعیت خورشید در آسمان در هنگام ظهر در نیمکره شمالی همیشه در شمال قرار دارد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_124",
+    "question": "آیا نمی‌توان پذیرفت که فردی که در آلمان زندگی نمی‌کند و زبان آلمانی بلد نیست، آلمانی نباشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_317",
+    "question": "در قیاس: دست : انسان :: چرخ : ؟",
+    "options": [
+      "موتور",
+      "پرنده",
+      "ماشین",
+      "قطار"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ماشین"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_419",
+    "question": "کدام زیرمجموعه‌ها از ℝ^2 زیرفضای برداری هستند؟",
+    "options": [
+      "{(x,y): x=y}",
+      "{(x,y): x=1}",
+      "{(x,y): x+y=0}",
+      "{(x,y): xy=0}"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "{(x,y): x+y=0}"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_353",
+    "question": "فردی که تصویرسازی‌های اسطوره‌ای برای کتب دبستان انجام داده، در طراحی الگوریتم‌های بازنمایی بصری برای سالمندان در لیبریا دخیل بوده است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_519",
+    "question": "اگر هیچ ماتریسی بدون دترمینان صفر معکوس‌پذیر نباشد، آیا ماتریس با دترمینان صفر معکوس دارد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_523",
+    "question": "آیا نمی‌توان گفت کشوری که هیچ مرز دریایی ندارد و پایگاه دریایی ندارد، قدرت دریایی جهانی نیست؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_270",
+    "question": "اگر هیچ مثلثی که یک زاویه باز دارد قائم نباشد، آیا مثلث با زاویه ۱۲۰ درجه می‌تواند قائم باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_171",
+    "question": "اگر هوا بارانی باشد و چتر همراه نداشته باشی، چه چیزی ممکن است خیس شود؟",
+    "question_type": "factoid",
+    "human_answer": "سر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_405",
+    "question": "اگر عددی بر ۶ بخش‌پذیر باشد، بر ۲ و ۳ نیز بخش‌پذیر است. اگر ۱۲ بر ۶ بخش‌پذیر باشد، آیا بر ۳ بخش‌پذیر است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_248",
+    "question": "آیا DNA ماده‌ای است که اطلاعات ژنتیکی را منتقل می‌کند و فقط در ویروس‌ها وجود دارد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_537",
+    "question": "اگر حروف عربی در فارسی استفاده شوند، چرا اشکال هندسی نمی‌توانند خواب ببینند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_592",
+    "question": "کدام نمادها در منطق نمادین کاربرد دارند؟",
+    "options": [
+      "¬",
+      "∧",
+      "→",
+      "∑"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "→"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_439",
+    "question": "شخصی که درباره رمزهای عددی در متون عرفانی قرون وسطی کار کرده، چگونه در طراحی سیستم‌های ارتباطی برای نواحی دورافتاده در لسوتو دخیل بوده است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_316",
+    "question": "اگر عدد مبنا در سیستم عددی تعریف نشود، کدام عدد واقعی‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱۶",
+      "۲",
+      "۸"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_448",
+    "question": "آیا کسی که اولین واکسن ویروس کرونا را تولید کرد، از شرکت فایزر و اهل آلمان بود؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_4",
+    "question": "کدام کشور اروپایی به برج کج معروف است و شهر پیزا در آن قرار دارد؟",
+    "question_type": "factoid",
+    "human_answer": "ایتالیا"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_322",
+    "question": "اگر هیچ سیستم معادله‌ای بدون اشتراک معتبر نباشد، آیا x+y=3 و x+y=5 اشتراک دارند؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_555",
+    "question": "در دوره‌ای که زبان عربی به سیستم آموزشی ایران وارد شد، کدام کشور بیشترین تولید نقره را داشت؟",
+    "options": [
+      "هیچ‌کدام",
+      "پرو",
+      "چین",
+      "استرالیا"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "پرو"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_202",
+    "question": "دو نظریه را نام ببرید که یکی در روان‌شناسی و دیگری در اقتصاد به تصمیم‌گیری می‌پردازد.",
+    "question_type": "factoid",
+    "human_answer": "کودک قربانی؛بازار آزاد"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_578",
+    "question": "آیا موتورسیکلت‌هایی با ظرفیت بالای ۱۰۰۰ سی‌سی، معمولاً در مسابقات جاده‌ای حرفه‌ای شرکت می‌کنند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_77",
+    "question": "دو ماده را نام ببرید که در دمای اتاق جامدند ولی در بدن انسان به‌سرعت جذب و تغییر شکل می‌دهند.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_54",
+    "question": "کدام ماده معدنی برای تشکیل دندان‌ها و استخوان‌ها ضروری است؟",
+    "options": [
+      "فسفر",
+      "روی",
+      "کلسیم",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "کلسیم"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_584",
+    "question": "چه کسی نخستین بار فلسفه مکتب رواقی را بنیان گذاشت؟",
+    "question_type": "factoid",
+    "human_answer": "کیتیونی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_484",
+    "question": "چهار فناوری کلیدی که در طراحی شهرهای هوشمند استفاده می‌شوند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "ai؛ اینترنت اشیا؛ api؛ اینترنت پر سرعت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_254",
+    "question": "اگر کودک مداد را اشتباه بگیرد، نوشتنش چگونه خواهد بود؟",
+    "question_type": "factoid",
+    "human_answer": "اشتباه"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_443",
+    "question": "کتابی که شامل فلسفه و نگاه تاریخی ابن خلدون به تمدن‌ها است و یکی از اولین آثار جامعه‌شناسی تلقی می‌شود، چیست؟",
+    "options": [
+      "السیاسة الشرعیة",
+      "مقدمه",
+      "تاریخ یعقوبی",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_133",
+    "question": "اگر پرنده‌ای در آب شیرجه بزند و ماهی بگیرد، نوع تغذیه آن چیست؟",
+    "question_type": "factoid",
+    "human_answer": "شکار"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_336",
+    "question": "کدام دوره نقاشی اروپایی شامل نقاشانی چون داوینچی و رافائل است؟",
+    "options": [
+      "هیچ‌کدام",
+      "باروک",
+      "روکوکو",
+      "رنسانس"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "رنسانس"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_238",
+    "question": "آیا دانشمندی که نظریه تکامل را ارائه داد، آهنگ معروف «Imagine» را خوانده است؟",
+    "options": [
+      "چارلز داروین",
+      "هیچ‌کدام",
+      "استیون هاوکینگ",
+      "آیزاک آسیموف"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_167",
+    "question": "آیا در ایران تعطیلات نوروز طولانی‌تر از تعطیلات عید فطر است و هر دو مناسبت رسمی هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_256",
+    "question": "اگر همه A ها B باشند و x ∈ A، آیا x ∈ B؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_583",
+    "question": "اگر در دو ۴۰۰ متر چهار نفر شرکت کنند و سه نفر زودتر از نفر آخر برسند، مقام نفر آخر چیست؟",
+    "question_type": "factoid",
+    "human_answer": "4"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_78",
+    "question": "آیا شخصی که دستور پخت آش رشته را برای اولین بار در تلویزیون ارائه داد، در پروژه‌ای از هوش مصنوعی خوراکی در لیبریا نقش داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_282",
+    "question": "آیا درست است که کشوری که برنامه فضایی فعال ندارد و ایستگاه فضایی ندارد، روسیه باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_1",
+    "question": "کدام یک از جشن‌های محلی ایران دارای آدابی است که در کشورهای قفقاز رایج نیست و در اروپا نیز مشابه ندارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "جشن تیرگان کردستان",
+      "جشن سده کرمان",
+      "جشن خرمن لرستان"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "جشن تیرگان کردستان"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_587",
+    "question": "پژوهشگری که درباره تأثیر زرتشتی‌گری بر حقوق باستان تحقیق کرد، در چه پروژه‌ای درباره تحلیل شبکه‌های عصبی در بروندی دخیل بوده است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_175",
+    "question": "آیا اگر یک شیء سنگین‌تر از شیء دیگر باشد، افتادن آن با صدای بلندتری همراه است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_426",
+    "question": "اگر انرژی جنبشی برابر نصف جرم ضربدر مجذور سرعت است، چه بخشی از آموزش فیزیک در مدارس ایران به بررسی این فرمول در پروژه‌های عملی اختصاص یافته؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_288",
+    "question": "کدام توابع بهتر خواب می‌بینند اگر متغیر مستقل نداشته باشند؟",
+    "options": [
+      "هیچ‌کدام",
+      "log(x)",
+      "x^2",
+      "√x"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_42",
+    "question": "اگر هیچ کشور کمونیستی پادشاه نداشته باشد، آیا کشوری با پادشاه می‌تواند کمونیستی باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_19",
+    "question": "کدام تیم‌های باشگاهی فوتبال در اروپا سابقه قهرمانی در لیگ قهرمانان دارند؟",
+    "options": [
+      "رئال مادرید",
+      "آژاکس",
+      "بایرن مونیخ",
+      "لیورپول"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "رئال مادرید",
+      "آژاکس",
+      "بایرن مونیخ",
+      "لیورپول"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_17",
+    "question": "اگر دو کار مشابه یکی در سکوت کامل و دیگری در محیط پر سر و صدا انجام شوند، آیا کار اول احتمال دقت بیشتری دارد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_475",
+    "question": "مهندسی که اولین بار پل خواجو را بازسازی کرد، در کدام پروژه انرژی‌های تجدیدپذیر در آرژانتین تأثیرگذار بوده است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_223",
+    "question": "اگر هیچ واحد پولی نتواند در بیش از یک کشور رسمی باشد مگر با توافق، آیا یورو با توافق قابل استفاده است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_51",
+    "question": "کدام زبان‌ها در ایران توسط اقلیت‌ها صحبت می‌شوند و رسمی نیستند؟",
+    "options": [
+      "کردی",
+      "بلوچی",
+      "ترکی آذری",
+      "انگلیسی"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ترکی آذری",
+      "بلوچی",
+      "کردی"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_395",
+    "question": "اگر نقشه‌های جغرافیایی برای نمایش مرزها استفاده می‌شوند، چرا هنوز هیچ نقشه‌ای با قواعد تجزیه نحوی زبان فارسی رسم نشده؟",
+    "question_type": "factoid",
+    "human_answer": ""
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_478",
+    "question": "زمانی که اولین عملیات فضایی ایران انجام شد، کدام یک از این دانشمندان ایرانی در حال تدریس در دانشگاه‌های غربی بودند؟",
+    "options": [
+      "مریم میرزاخانی",
+      "کامران وفا",
+      "کاظم احمدزاده",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "مریم میرزاخانی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_142",
+    "question": "در مجموعه اعداد زوج: ۲، ۴، ۶، ... کدام‌یک عضو مجموعه‌اند؟",
+    "options": [
+      "۱۱",
+      "۱۰",
+      "۹",
+      "۸"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "۱۰",
+      "۸"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_556",
+    "question": "نقاشی که مینیاتورهای نسخه خطی خمسه نظامی را ترسیم کرده، در چه برنامه‌ریزی شهری در نروژ نقش داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_84",
+    "question": "اگر در کشتی دو نفر مبارزه می‌کنند و یک نفر برنده است، نتیجه نهایی چیست؟",
+    "question_type": "factoid",
+    "human_answer": "پیروزی یک نفر یا قهرمانی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_442",
+    "question": "کدام جنگ‌ها هم در قرن بیستم رخ داده‌اند و هم اثرات جهانی بر اقتصاد داشته‌اند؟",
+    "options": [
+      "جنگ کره",
+      "جنگ جهانی دوم",
+      "جنگ ویتنام",
+      "جنگ جهانی اول"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "جنگ جهانی اول",
+      "جنگ جهانی دوم",
+      "جنگ کره",
+      "جنگ ویتنام"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_169",
+    "question": "اگر قطب‌نما جهت شمال را نشان می‌دهد، کاربرد آن چیست؟",
+    "question_type": "factoid",
+    "human_answer": "نشان دادن جهت های جغرافیایی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_473",
+    "question": "اگر A ⇔ ¬A، آیا منطقی است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_8",
+    "question": "چرا اگر خط فارسی از راست نوشته شود، کلمات آلمانی نمی‌توانند باران را ترجمه کنند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_340",
+    "question": "چهار ابزار یادگیری را نام ببرید که یکی تصویری، یکی شنیداری، یکی لمسی، و دیگری نوشتاری است.",
+    "question_type": "factoid",
+    "human_answer": "ویدیو؛ پادکست؛ خطکش؛ مداد"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_89",
+    "question": "در کدام ورزش‌ها هدف عبور توپ از دروازه یا سبد است؟",
+    "options": [
+      "هندبال",
+      "والیبال",
+      "بسکتبال",
+      "فوتبال"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "هندبال",
+      "بسکتبال",
+      "فوتبال"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_228",
+    "question": "شخصی که دیوان شعر آیینی را در قرن معاصر گردآوری کرد، چگونه در تحلیل سبک گفتار در جزایر مارشال نقش داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_191",
+    "question": "اگر دریاچه مهارلو صورتی است، چرا سیستم‌های عامل نمی‌توانند خواب ببینند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_11",
+    "question": "کدام ماده غذایی با پختن برنج و سبزیجات به‌همراه گوشت قرمز تهیه می‌شود؟",
+    "options": [
+      "سبزی‌پلو با گوشت",
+      "هیچ‌کدام",
+      "قیمه",
+      "زرشک‌پلو"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "سبزی‌پلو با گوشت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_430",
+    "question": "کدام امپراتوری باستانی در ترکیه امروزی قرار داشت و شهر هاتوسا را پایتخت خود کرد؟",
+    "question_type": "factoid",
+    "human_answer": "عثمانی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_504",
+    "question": "در الگویی که هر عدد دو برابر عدد قبلی منهای ۱ است و اول عدد ۱ باشد، عدد پنجم چیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱۷",
+      "۱۳",
+      "۱۵"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_588",
+    "question": "کدام سیاره گازی دارای بزرگ‌ترین طوفان منظومه شمسی موسوم به لکه سرخ است؟",
+    "options": [
+      "مشتری",
+      "هیچ‌کدام",
+      "زحل",
+      "نپتون"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "مشتری"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_427",
+    "question": "اگر صفویان تشیع را مذهب رسمی اعلام کردند و مخالف عثمانیان بودند، یکی از انگیزه‌های این انتخاب چه بود؟",
+    "question_type": "factoid",
+    "human_answer": "استقلال سیاسی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_217",
+    "question": "آیا احساسات شدید تصمیم‌گیری منطقی را سخت‌تر می‌کنند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_2",
+    "question": "اگر عدد ۵ بین ۴ و ۶ باشد، کدام حرف بیشتر بین دو عدد است؟",
+    "options": [
+      "الف",
+      "ل",
+      "هیچ‌کدام",
+      "م"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_274",
+    "question": "چه کسی مخترع برق AC بود و اهل صربستان و آمریکا شناخته می‌شود؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_167",
+    "question": "آیا مسیحیت دینی است که حضرت عیسی به آن تعلق دارد و کلیسا مکان عبادت آن است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_327",
+    "question": "آیا تشخیص الگوی هندسی با اشکال متقارن ساده‌تر از اشکال نامتقارن است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_276",
+    "question": "اگر جسمی در حال حرکت باشد اما شتابش صفر باشد، آیا سرعت آن ثابت است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_145",
+    "question": "ارز رایج کشوری که پایتختش توکیو است چیست؟",
+    "question_type": "factoid",
+    "human_answer": "ین"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_15",
+    "question": "کدام یک از سازهای بادی سنتی ایران دارای ساختاری است که در موسیقی ارمنی استفاده نمی‌شود و در ارکستر ترکی نیز نیست؟",
+    "options": [
+      "سرنا",
+      "نای بندری",
+      "هیچ‌کدام",
+      "قرنه"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "نای بندری"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_426",
+    "question": "اگر تاریخ میلادی ۲۸ فوریه باشد و سال کبیسه باشد، فردا چه تاریخی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱ مارس",
+      "۲۹ فوریه",
+      "۳۰ فوریه"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "۲۹ فوریه"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_398",
+    "question": "آیا نمی‌توان گفت کشوری که پایتخت آن اتاوا نیست و زبان رسمی آن انگلیسی یا فرانسوی نیست، کانادا نیست؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_598",
+    "question": "اگر تحلیل بلاغی متون ادبی در درک معنای ضمنی مؤثر است، چرا تاکنون این تحلیل در طراحی بال هواپیما کاربرد نداشته؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_230",
+    "question": "آیا کشوری که رود نیل از آن عبور می‌کند، میزبان اصلی اکسپو ۲۰۲۰ بود؟",
+    "options": [
+      "مصر",
+      "اتیوپی",
+      "امارات",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "مصر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_523",
+    "question": "چهار شاعر و نویسنده ایرانی معاصر که در خارج از کشور فعالیت فرهنگی داشته‌اند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "جلال آل احمد؛ صادق هدایت؛ سیمین دانشور؛ غلام حسین ساعدی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_229",
+    "question": "در سالی که سد کرخه به بهره‌برداری رسید، تعداد کاربران اینترنت در ایران چقدر بود؟",
+    "options": [
+      "۵۰۰ هزار",
+      "هیچ‌کدام",
+      "۲ میلیون",
+      "۳ میلیون"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_267",
+    "question": "در واکنش شیمیایی گرمازا، کدام ویژگی‌ها رخ می‌دهد؟",
+    "options": [
+      "افزایش دما",
+      "تولید نور",
+      "انتشار انرژی",
+      "جذب گرما"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "افزایش دما",
+      "تولید نور",
+      "انتشار انرژی"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_483",
+    "question": "در غیاب تابع توزیع، کدام انحراف معیار واقعی‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۲",
+      "۳",
+      "۴"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_497",
+    "question": "اگر الکترون‌ها دارای اسپین هستند، چرا ساختارهای ترکیبی زبان فارسی در جهت‌گیری اسپین بررسی نمی‌شوند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_231",
+    "question": "آیا صحیح است که اختراعی که توسط الکساندر گراهام بل انجام نشده و با صدا مرتبط نیست، تلفن است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_108",
+    "question": "اگر دست خط کسی زیبا باشد، کدام ساز بیشتر ارتباط دارد؟",
+    "options": [
+      "تار",
+      "کمانچه",
+      "هیچ‌کدام",
+      "نی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_311",
+    "question": "فردی که روش‌های شفاگری محلی ایرانی را مستندسازی کرد، در چه پروژه‌ای برای مدیریت سلامت از راه دور در سیشل همکاری داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_94",
+    "question": "دو آیتم پوششی را نام ببرید که در فرهنگ رسمی معنای کاملاً متفاوتی نسبت به پوشش راحتی دارند.",
+    "question_type": "factoid",
+    "human_answer": "کراوات؛ پاپیون"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_443",
+    "question": "سه عامل فرهنگی-اجتماعی را نام ببرید که در رشد تمدن علمی ایران در سده‌های میانی موثر بودند.",
+    "question_type": "factoid",
+    "human_answer": "مدرسه؛ کتاب؛ عدم جنگ"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_154",
+    "question": "کدام شخصیت‌ها در اساطیر یونان قدرت‌های خاص داشتند و نیمه‌خدا بودند؟",
+    "options": [
+      "آشیل",
+      "پرسئوس",
+      "سقراط",
+      "هرکول"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "هرکول",
+      "آشیل"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_60",
+    "question": "دو ساز زهی که در موسیقی غربی استفاده می‌شوند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "گیتار؛ ویولون"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_244",
+    "question": "کدام عنصر شیمیایی عدد اتمی ۱ دارد و در ترکیب آب وجود دارد؟",
+    "options": [
+      "هیدروژن",
+      "هیچ‌کدام",
+      "کربن",
+      "اکسیژن"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیدروژن"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_544",
+    "question": "آیا در فیزیک کوانتوم، اصل عدم قطعیت هایزنبرگ بیان می‌کند که مکان و سرعت ذره را نمی‌توان همزمان دقیق دانست؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_500",
+    "question": "چهار کشور آسیایی که دارای اکثریت جمعیت شیعه هستند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "ایران؛ عراق؛ سوریه؛ یمن"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_482",
+    "question": "آیا تعیین اثربخشی یک مدل علمی نیازمند مقایسه با مدل‌های جایگزین است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_428",
+    "question": "آیا جمعیت مسلمانان در نیجریه از اندونزی کمتر است و هر دو کشور با اکثریت مسلمان هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_251",
+    "question": "کدام ساختارهای جبری در ریاضیات مدرن کاربرد دارند؟",
+    "options": [
+      "زنجیره غذایی",
+      "الگوهای میدان",
+      "الگوهای حلقه‌ای",
+      "الگوهای گروهی"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "الگوهای حلقه‌ای"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_298",
+    "question": "اگر بازی طبق زمان تعیین‌شده تمام شده و هنوز ادامه دارد، آیا زمان رعایت شده؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_237",
+    "question": "چه کسی خالق کاراکتر شرلوک هولمز است و اهل بریتانیا بود؟",
+    "question_type": "factoid",
+    "human_answer": "آرتور دویل"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_399",
+    "question": "در الگوریتم‌های مرتب‌سازی، کدام روش‌ها تطبیقی (adaptive) هستند؟",
+    "options": [
+      "سریع",
+      "ادغامی",
+      "درج مستقیم",
+      "حبابی"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ادغامی",
+      "سریع"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_266",
+    "question": "اگر هیچ تعطیلی عمومی بدون ارتباط با فرهنگ رسمی برقرار نباشد، آیا تعطیلی نوروزی با فرهنگ رسمی مرتبط است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_329",
+    "question": "اگر زاویه بین دو عقربه ساعت در ساعت ۶:۰۰ چقدر است؟",
+    "options": [
+      "۱۵۰",
+      "۱۸۰",
+      "هیچ‌کدام",
+      "۱۲۰"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "۱۸۰"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_542",
+    "question": "اگر حافظه بلندمدت برای ذخیره اطلاعات پایدار است، چرا فراموشی رخ می‌دهد؟",
+    "question_type": "factoid",
+    "human_answer": "اختلال مغزی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_11",
+    "question": "اگر همه وسایل نقلیه حرکت می‌کنند و دوچرخه وسیله نقلیه است، آیا حرکت می‌کند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_337",
+    "question": "کدام سبک معماری در ایران با مناره‌های بلند و کاشی‌کاری فیروزه‌ای شناخته می‌شود؟",
+    "options": [
+      "ساسانی",
+      "هخامنشی",
+      "هیچ‌کدام",
+      "صفوی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "صفوی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_86",
+    "question": "اگر ساعت به‌جای جلو رفتن، ایستا باشد، کدام زمان محتمل‌تر است؟",
+    "options": [
+      "۹",
+      "هیچ‌کدام",
+      "۳",
+      "۶"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_442",
+    "question": "آیا میانگین دمای سطح اقیانوس آرام در سال ۲۰۲۳ از دهه ۸۰ میلادی بالاتر رفته است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_581",
+    "question": "کدام تمدن‌ها دارای نظام نوشتاری بوده‌اند و در هزاره قبل از میلاد می‌زیسته‌اند؟",
+    "options": [
+      "روم",
+      "مصر باستان",
+      "سومر",
+      "ایلام"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "مصر باستان",
+      "سومر",
+      "ایلام"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_301",
+    "question": "کدام نویسندگان هم در ژانر داستان کوتاه فعال بوده‌اند و هم آثارشان به فارسی ترجمه شده است؟",
+    "options": [
+      "همینگوی",
+      "بالزاک",
+      "بورخس",
+      "چخوف"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "همینگوی"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_477",
+    "question": "آیا نمی‌توان نتیجه گرفت که کشوری که عضو سازمان ملل نیست و روابط بین‌المللی ندارد، کشور مستقل نیست؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_571",
+    "question": "چهار شاعر یا نویسنده بزرگ جهان که برنده جایزه نوبل ادبیات شده‌اند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "کامو؛ نرودا؛ باب دیلن؛ ژان پل سارتر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_389",
+    "question": "آیا نرخ بیکاری در اسپانیا بیشتر از فرانسه است و هر دو از اعضای اتحادیه اروپا هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_414",
+    "question": "اگر کسی مخالف هرگونه خشونت باشد ولی در تظاهرات خشونت‌آمیز شرکت کند، چه تناقضی دارد؟",
+    "options": [
+      "رفتارش با باورش مغایر است",
+      "هیچ‌کدام",
+      "تظاهرات بی‌ارتباط است",
+      "معلوم نیست"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "رفتارش با باورش مغایر است"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_124",
+    "question": "اگر پرندگان تخم می‌گذارند و اردک پرنده باشد، رفتار تولید مثل اردک چیست؟",
+    "options": [
+      "نگهداری نوزاد",
+      "تخم‌گذاری",
+      "شیر دادن",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "تخم‌گذاری"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_566",
+    "question": "چهار عنصر زیبایی‌شناسی را نام ببرید که در نقد ادبیات کلاسیک فارسی بررسی می‌شوند.",
+    "question_type": "factoid",
+    "human_answer": "اغراق؛ مبالغه؛ ایهام؛ کژتابی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_438",
+    "question": "کدام اخترفیزیکدان انگلیسی نظریه تابش سیاهچاله را ارائه کرد؟",
+    "options": [
+      "فرمی",
+      "استیون هاوکینگ",
+      "شرودینگر",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_177",
+    "question": "اگر بازی‌های آسیایی هر ۴ سال برگزار می‌شود، چرا هنوز تعداد رکوردهای شکسته‌شده در شنای پروانه در قالب شعر کهن نوشته نشده؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_348",
+    "question": "اگر ایران در کمربند زلزله قرار دارد، چه تعداد از خانه‌های خشتی مناطق روستایی در دهه ۵۰ شمسی مقاوم‌سازی شده‌اند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_392",
+    "question": "سه فیلمساز غربی که آثارشان با مضامین فلسفی شناخته می‌شود را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "برگمن؛ بونوئل؛ گدار"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_71",
+    "question": "اگر یک مربع چهار ضلع مساوی دارد، چه نوع چندضلعی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "منظم",
+      "نامنظم",
+      "مثلث"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "منظم"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_227",
+    "question": "کدام کشور دارای شهر معروف مراکش است و به‌خاطر بازارهای سنتی‌اش مشهور است؟",
+    "question_type": "factoid",
+    "human_answer": "مراکش"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_473",
+    "question": "اگر هر مربع یک چهارضلعی باشد اما برخی چهارضلعی‌ها مربع نباشند، کدام درست است؟",
+    "options": [
+      "همه چهارضلعی‌ها مربع‌اند",
+      "چهارضلعی عمومی‌تر از مربع است",
+      "هیچ‌کدام",
+      "مربع بزرگ‌تر است"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "چهارضلعی عمومی‌تر از مربع است"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_68",
+    "question": "اگر زمین گرد باشد، پس چه نوع شکلی دارد؟",
+    "options": [
+      "بی‌فرم",
+      "هیچ‌کدام",
+      "مثلثی",
+      "کروی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "کروی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_323",
+    "question": "سه نوع هزینه پنهان را نام ببرید که در خرید یک خودرو وجود دارد.",
+    "question_type": "factoid",
+    "human_answer": "بیمه؛ سوخت؛ مالیات"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_461",
+    "question": "آیا تولید برق هسته‌ای در فرانسه از مجموع سوئیس و جمهوری چک در سال ۲۰۲۳ بیشتر بوده است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_47",
+    "question": "آیا شتر که در مناطق بیابانی زندگی می‌کند، می‌تواند بال بزند و پرواز کند؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_173",
+    "question": "آیا صحیح است که فردی که نه در حوزه فرهنگ فعالیت داشته و نه مقاله فرهنگی نوشته، فعال فرهنگی باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_205",
+    "question": "کدام مکتب فلسفی بر تعادل و میانه‌روی تأکید دارد و توسط ارسطو شکل گرفته؟",
+    "options": [
+      "اعتدال",
+      "شکاکیت",
+      "هیچ‌کدام",
+      "افلاطونی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "شکاکیت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_462",
+    "question": "کدام عبارات نقیض هم محسوب می‌شوند؟",
+    "options": [
+      "هیچ A ای B نیست - برخی A ها B هستند",
+      "برخی A ها B نیستند - همه A ها B هستند",
+      "A هست - A نیست",
+      "همه A ها B هستند - برخی A ها B نیستند"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "هیچ A ای B نیست - برخی A ها B هستند",
+      "برخی A ها B نیستند - همه A ها B هستند",
+      "همه A ها B هستند - برخی A ها B نیستند"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_161",
+    "question": "اگر امروز شنبه باشد، فردا چه روزی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "دوشنبه",
+      "یکشنبه",
+      "جمعه"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "یکشنبه"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_593",
+    "question": "در مکعب، چند یال وجود دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "۸",
+      "۱۲",
+      "۱۰"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "۱۲"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_345",
+    "question": "آیا پیش‌بینی رفتار دو پدیده ساده‌تر از پیش‌بینی رفتار دو پدیده با ساختار پیچیده است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_30",
+    "question": "زبان رسمی کشوری که تیم ملی فوتبالش لقب 'آلبی‌سلسته' دارد و پایتخت آن بوئنوس آیرس است، چیست؟",
+    "options": [
+      "اسپانیایی",
+      "پرتغالی",
+      "فرانسوی",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "اسپانیایی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_249",
+    "question": "اگر x/0 تعریف نشده باشد، آیا x = 0 این را تغییر می‌دهد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_120",
+    "question": "اگر هیچ نقش متقارن در مرکز طرح نباشد، آیا نقشی که تقارن ندارد می‌تواند مرکزی باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_249",
+    "question": "آیا مقایسه دنباله‌هایی با ظاهر متفاوت ولی نتیجه مشابه همیشه دشوار است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_44",
+    "question": "دو شهر در ایران که به دلیل صنایع فرش‌بافی مشهور هستند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "تبریز؛ کاشان"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_112",
+    "question": "اگر فرهنگ لغت دهخدا یکی از منابع مرجع زبان فارسی است، چه تعداد از مدخل‌های آن در شعر محلی بوشهر استفاده شده‌اند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_547",
+    "question": "اگر هیچ چیز نتابد، کدام نور بهتر می‌درخشد؟",
+    "options": [
+      "شعله شمع",
+      "هیچ‌کدام",
+      "مهتاب",
+      "چراغ مطالعه"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_291",
+    "question": "اگر هیچ متوازی‌الاضلاع با زوایای نابرابر تعریف نشود، آیا متوازی با دو زاویه ۸۰ و دو زاویه ۱۰۰ تعریف شده است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_318",
+    "question": "آیا تعداد سینماهای فعال در کره جنوبی بیشتر از تایوان و فیلیپین است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_321",
+    "question": "چگونه اعداد فیبوناچی می‌توانند ساختار یک شعر را تقلید کنند؟",
+    "options": [
+      "ریتم",
+      "هیچ‌کدام",
+      "تکرار",
+      "بحر طویل"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_41",
+    "question": "کدام یک از شعرای نامدار ایرانی به‌طور هم‌زمان در حوزه عرفان، فلسفه و حکمت فعالیت داشته ولی آثار داستانی کم‌تر دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "سعدی",
+      "نظامی",
+      "خیام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "خیام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_426",
+    "question": "در اقتصاد رفتاری، کدام‌یک رفتار غیرمنطقی محسوب می‌شوند؟",
+    "options": [
+      "قضاوت شهودی",
+      "محاسبه دقیق",
+      "ترجیح فوری",
+      "زیان‌گریزی"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ترجیح فوری"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_71",
+    "question": "کدام اشکال تقارن محوری دارند؟",
+    "options": [
+      "مربع",
+      "دایره",
+      "مثلث متساوی‌الساقین",
+      "ذوزنقه نامتقارن"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "مثلث متساوی‌الساقین",
+      "مربع",
+      "دایره"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_470",
+    "question": "چهار کشور دارای اقتصاد مبتنی بر صادرات الکترونیک و فناوری پیشرفته را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "آمریکا؛ ژاپن؛ چین؛ تایوان"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_526",
+    "question": "کدام یک از گونه‌های پرندگان بومی ایران رفتاری دارد که در نظریه‌های پرنده‌شناسی مناطق گرمسیری دیده نمی‌شود و در زیستگاه تالابی حضور ندارد؟",
+    "options": [
+      "هوبره",
+      "درنا خاکستری",
+      "کبود پره",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_259",
+    "question": "سه حوزه مهم علوم شناختی را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_239",
+    "question": "اگر یک الگوریتم شامل گام‌های گمشده باشد، کدام مرحله پرریسک‌تر است؟",
+    "options": [
+      "شروع",
+      "میان",
+      "هیچ‌کدام",
+      "تکرار"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_397",
+    "question": "اگر در سال کبیسه فوریه ۲۹ روز داشته باشد، چند روز بیشتر از سال عادی دارد؟",
+    "options": [
+      "۳",
+      "هیچ‌کدام",
+      "۱",
+      "۲"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "۱"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_103",
+    "question": "کدام عنصر در معماری ایرانی برای خنک کردن خانه‌ها در کویر استفاده می‌شود؟",
+    "options": [
+      "طاق",
+      "هیچ‌کدام",
+      "بادگیر",
+      "گنبد"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "بادگیر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_523",
+    "question": "آیا (A ∧ B) → A همیشه برقرار است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_498",
+    "question": "چه مقدار از توصیف‌های طبخ خورشت فسنجان در منابع شفاهی با قواعد نحوی زبان سومری قابل انطباق است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_381",
+    "question": "کاپیتانی که نخستین بار تیم ملی فوتبال ایران را به جام ملت‌ها برد، در چه طرحی برای شبیه‌سازی تاکتیک‌های تیمی در چاد حضور داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_416",
+    "question": "در صورتی که زبان فارسی از راست به چپ نوشته شود، کدام عدد مفهومی معکوس‌تر دارد؟",
+    "options": [
+      "۱۲۱",
+      "۲۳۴",
+      "هیچ‌کدام",
+      "۷۸۹"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_42",
+    "question": "دو کشور در جنوب اروپا که صنعت گردشگری قوی دارند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "ایتالیا؛ اسپانیا"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_215",
+    "question": "چه درصدی از برنامه‌های مطالعات شهری دانشگاه‌های ایران با مدل‌های استنتاجی در نظریه دسته‌ها مطابقت دارند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_10",
+    "question": "آیا درست است که کشوری که مرز آبی ندارد و در آمریکای مرکزی نیست، پاناما باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_353",
+    "question": "اگر دانشگاه تهران قدیمی‌ترین دانشگاه ایران باشد، چرا اتم‌ها در سیاست جهانی مشارکت نمی‌کنند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_452",
+    "question": "آیا مصرف سالانه گاز طبیعی در آمریکا از مجموع چین و هند کمتر بوده است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_532",
+    "question": "اگر (A ∧ B) ∨ (¬A ∧ ¬B) برقرار باشد، آیا A ⇔ B؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_249",
+    "question": "چه کشوری میزبان نخل طلای جشنواره کن است و شهر کن در آن قرار دارد؟",
+    "question_type": "factoid",
+    "human_answer": "فرانسه"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_35",
+    "question": "آیا یک معادله جبری با نماد کمتر همواره آسان‌تر است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_58",
+    "question": "اگر هوا بارانی باشد، زمین خیس می‌شود. اکنون زمین خیس است. آیا قطعاً هوا بارانی بوده؟",
+    "options": [
+      "خیر",
+      "هیچ‌کدام",
+      "بله",
+      "نمی‌دانم"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "خیر"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_81",
+    "question": "آیا منطقی است که فردی بدون هیچ تمرین رزمی و بدون کمربند، قهرمان کاراته باشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_72",
+    "question": "اگر زمین در حرکت انتقالی است، چرا ساختار عروض در شعر کهن به صورت کروی نمایش نمی‌یابد؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_320",
+    "question": "اگر پرندگان در فصل خاصی مهاجرت کنند، عامل اصلی تعیین‌کننده چیست؟",
+    "question_type": "factoid",
+    "human_answer": "دما"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_600",
+    "question": "سه پدیده را نام ببرید که در فیزیک کوانتومی مشاهده آن‌ها باعث تغییر در خود پدیده می‌شود.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_112",
+    "question": "آیا کتابی که قرآن نام دارد، توسط مسلمانان به عنوان کتاب مقدس شناخته می‌شود؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_134",
+    "question": "آیا دریاچه ارومیه که در ایران قرار دارد، یکی از بزرگ‌ترین دریاچه‌های آب شیرین جهان است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_339",
+    "question": "کدام عبارات برای x=3 مقدار ۹ می‌دهند؟",
+    "options": [
+      "x^2",
+      "2x+4",
+      "3x",
+      "x+7"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "x^2",
+      "3x"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_383",
+    "question": "آیا نواک جوکوویچ که تنیس‌باز مشهوری است، از کشوری در آفریقا آمده و در مسابقات گرند اسلم قهرمان شده؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_173",
+    "question": "کدام عناصر در گزارش‌های تحقیقی خبری اساسی‌اند؟",
+    "options": [
+      "تحقیق میدانی",
+      "مصاحبه",
+      "طنز",
+      "بررسی اسناد"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "تحقیق میدانی",
+      "مصاحبه",
+      "بررسی اسناد"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_458",
+    "question": "اگر هیچ جسمی بدون حجم سه‌بعدی نباشد، آیا سطح دوبعدی می‌تواند جسم سه‌بعدی باشد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_510",
+    "question": "آیا کشوری که در آن انقلاب صنعتی آغاز شد، با کشور محل پیدایش سیستم فئودالی یکسان است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_94",
+    "question": "کدام ورزش توپی در فضای باز با ۱۱ بازیکن انجام می‌شود و جام جهانی دارد؟",
+    "options": [
+      "بسکتبال",
+      "والیبال",
+      "فوتبال",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "فوتبال"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_93",
+    "question": "آیا سرعت نور از سرعت صوت بیشتر است و هر دو از مفاهیم فیزیکی هستند؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_490",
+    "question": "کدام کارگردان زن ایرانی فیلم «نفس» و «شبی که ماه کامل شد» را ساخته است؟",
+    "question_type": "factoid",
+    "human_answer": "نرگس آبیار"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_40",
+    "question": "شخصی که درباره تغذیه سالم در دوران بارداری کتاب نوشته، چگونه در شبیه‌سازی سیستم‌های تشخیص درد در نیجر شرکت کرده است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_233",
+    "question": "اگر فردی در زمستان لباس نازک بپوشد، چه احتمالی بیشتر است؟",
+    "question_type": "factoid",
+    "human_answer": "سرما بخورد"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_252",
+    "question": "آیا ممکن است عددی هم صحیح و هم کسری باشد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_123",
+    "question": "اگر هر ذوزنقه دو ضلع موازی دارد و این شکل هیچ ضلع موازی ندارد، آیا ذوزنقه است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_27",
+    "question": "دو چیز را نام ببرید که همیشه به صورت دوتایی معنا دارند ولی ذاتاً جدا هستند.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_542",
+    "question": "کدام نظریه‌پردازان فلسفه هم در قرن بیستم تأثیرگذار بودند و هم در حوزه زبان فعالیت داشته‌اند؟",
+    "options": [
+      "فوکو",
+      "راسل",
+      "دریدا",
+      "لودویگ ویتگنشتاین"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "فوکو"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_556",
+    "question": "کدام چالش‌ها در دموکراسی‌های مدرن برای رسانه مطرح‌اند؟",
+    "options": [
+      "قطبی‌سازی محتوا",
+      "پخت و پز",
+      "تمرکز مالکیت",
+      "سوگیری خبری"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "قطبی‌سازی محتوا",
+      "سوگیری خبری"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_101",
+    "question": "اگر عدد صفر وجود نداشته باشد، کدام حیوان بهتر تقسیم می‌کند؟",
+    "options": [
+      "هیچ‌کدام",
+      "خرگوش",
+      "میمون",
+      "شتر"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_54",
+    "question": "دو بازی رایانه‌ای مشهور که طرفداران جهانی دارند را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "فیفا؛ فورتنایت"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_460",
+    "question": "دو سیستم عددنویسی را نام ببرید که مبنای عددی متفاوت دارند ولی می‌توانند به هم تبدیل شوند.",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_197",
+    "question": "اگر مساحت مستطیل حاصل ضرب طول و عرض باشد و طول و عرض هر دو ۵ باشند، آیا مساحت ۲۵ است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_comparative_480",
+    "question": "آیا ارزش بازار اپل در سال ۲۰۲۳ بیشتر از مجموع ارزش بازار سامسونگ و هواوی بوده است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_189",
+    "question": "اگر هیچ قانون‌شکنی بدون جریمه پاسخ داده نشود، آیا خطای بدون جریمه ناقض قوانین است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_473",
+    "question": "آیا تحلیل دو مدل انتخاب در شرایط پرابهام مانند شرایط شفاف انجام‌پذیر است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_410",
+    "question": "کدام یک از قالب‌های شعر تعلیمی فارسی دارای ویژگی‌ای است که در شعر حماسی کاربرد ندارد و در شعر تغزلی نیز نمی‌آید؟",
+    "options": [
+      "استدلال استعاری طبقه‌بندی‌شده",
+      "تمثیل تعلیمی جدلی",
+      "هیچ‌کدام",
+      "مثنوی با دیالوگ درونی"
+    ],
+    "question_type": "mc_single",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_47",
+    "question": "آیا احتمال تعصب در تصمیم‌گیری احساسی بیشتر از تصمیم‌گیری منطقی است؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_single_280",
+    "question": "اگر a = ۴ و b = ۵، مقدار ab − b² چیست؟",
+    "options": [
+      "-۵",
+      "۰",
+      "هیچ‌کدام",
+      "-۹"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "-۵"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_486",
+    "question": "آیا معادله x⁴ = 16 دارای بیش از دو ریشه حقیقی دارد؟",
+    "question_type": "boolean",
+    "human_answer": true
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_simple_89",
+    "question": "اگر توپ بدون عبور از خط گل، گل حساب نمی‌شود و توپ از خط عبور نکرده، آیا گل است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_listbased_11",
+    "question": "دو شخصیت برجسته ایرانی در حوزه نجوم در قرون وسطی را نام ببرید.",
+    "question_type": "factoid",
+    "human_answer": "خیام؛ کاشانی"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_simple_10",
+    "question": "کشوری که تیم فوتبال بارسلونا در آن بازی می‌کند، در کدام قاره قرار دارد؟",
+    "question_type": "factoid",
+    "human_answer": "اروپا"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_non_answerable_301",
+    "question": "کدام یک از رفتارهای آیینی در فرهنگ ایرانی دارای الگویی است که در آیین‌های هندویی وجود ندارد و در فرهنگ بودایی نیز دیده نمی‌شود؟",
+    "options": [
+      "هیچ‌کدام",
+      "زیارت‌نامه‌خوانی جمعی",
+      "آیین سبزپوشی در محراب",
+      "آب‌پاشی قبل از اذان"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_191",
+    "question": "کدام‌یک از این موارد به‌طور طبیعی در آسمان دیده می‌شوند؟",
+    "options": [
+      "هواپیما",
+      "ستاره",
+      "خورشید",
+      "ابر"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "ابر",
+      "خورشید",
+      "ستاره"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_573",
+    "question": "آیا هیچ‌کسی نمی‌تواند بدون نادیده گرفتن حقیقت، نتیجه نادرست بگیرد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_single_423",
+    "question": "کدام شاه ساسانی در جنگ با رومیان پیروز شد و امپراتور روم را اسیر کرد؟",
+    "options": [
+      "شاپور اول",
+      "هرمز",
+      "اردشیر بابکان",
+      "هیچ‌کدام"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "شاپور اول"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_multihop_multi_335",
+    "question": "کدام مواد غذایی در کشاورزی ارگانیک پرکاربرد هستند؟",
+    "options": [
+      "کود گیاهی",
+      "بذر طبیعی",
+      "کمپوست",
+      "رنگ خوراکی"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "کود گیاهی",
+      "بذر طبیعی",
+      "کمپوست"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_nonanswerable_355",
+    "question": "چند درصد از مقالات دانشگاهی رشته علوم اجتماعی تا سال ۱۳۹۰ از مفاهیم نشانه‌شناسی ارتباطات بیولوژیکی الهام گرفته‌اند؟",
+    "question_type": "factoid",
+    "human_answer": null
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_negation_437",
+    "question": "اگر هیچ هم‌زیستی ملی بدون توازن هویتی دوام نیاورد، آیا سلطه فرهنگی موجب ناپایداری است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_400",
+    "question": "آیا درست است که سیاره‌ای که جو ندارد و در مدار نپتون قرار ندارد، پلوتو است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_negation_370",
+    "question": "آیا صحیح نیست که کشوری که تولیدکننده موز نیست و در آمریکای مرکزی قرار ندارد، صادرکننده موز نباشد؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_multihop_simple_127",
+    "question": "آیا زرافه که گردن بلندی دارد، در اقیانوس زندگی می‌کند؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "boolean_reasoning_comparative_28",
+    "question": "آیا مقایسه دو سبک هنری از دو فرهنگ مشابه سخت‌تر از دو فرهنگ متفاوت است؟",
+    "question_type": "boolean",
+    "human_answer": false
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_listbased_369",
+    "question": "دو دلیل فنی را نام ببرید که باعث گرفتن خطای شخصی در بسکتبال می‌شوند.",
+    "question_type": "factoid",
+    "human_answer": "حمل توپ؛ رانینگ"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_non_answerable_177",
+    "question": "وقتی که کوه بلند باشد، کدام پرنده بلندتر آواز می‌خواند؟",
+    "options": [
+      "گنجشک",
+      "هیچ‌کدام",
+      "عقاب",
+      "قمری"
+    ],
+    "question_type": "mc_single",
+    "human_answer": "هیچ‌کدام"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "multichoice_reasoning_multi_583",
+    "question": "کدام‌یک از مقادیر زیر برای حل معادله e^x = 5 نزدیک‌ترین هستند؟",
+    "options": [
+      "1.609",
+      "1.414",
+      "2.302",
+      "1.098"
+    ],
+    "question_type": "mc_multi",
+    "allow_multi": true,
+    "human_answer": [
+      "2.302"
+    ]
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_reasoning_simple_253",
+    "question": "اگر هدفون به گوشی وصل باشد ولی صدا از بلندگو بیاید، دلیل چیست؟",
+    "question_type": "factoid",
+    "human_answer": "اتصال نادرست"
+  },
+  {
+    "submission_ts": "2025-09-05T18:45:25.636Z",
+    "group": "Group 1",
+    "annotator_id": "Bamu",
+    "annotator_name": "بردیا محمدی",
+    "id": "factoid_multihop_nonanswerable_596",
+    "question": "فردی که قالب اعلامیه‌های ترحیم را طراحی کرد، چگونه در سیستم‌های تحلیل واکنش در گفت‌وگوهای رباتیک در چاد مشارکت داشته است؟",
+    "question_type": "factoid",
+    "human_answer": null
+  }
+]

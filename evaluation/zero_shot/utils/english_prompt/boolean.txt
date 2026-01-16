@@ -1,0 +1,9 @@
+Answer the following question with "Yes" or "No" and return the result in JSON format.
+
+Output format:
+{
+    "answer": <"Yes" or "No">
+}
+
+Question: <Question>
+Answer:

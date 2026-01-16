@@ -1,0 +1,4288 @@
+[
+    {
+        "id": "factoid_multihop_listbased_179",
+        "predicted_answer": [
+            "\u0631\u0648\u0633\u06cc\u0647",
+            "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_82",
+        "predicted_answer": [
+            "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_121",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u0644\u0628\u0646\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_25",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_63",
+        "predicted_answer": [
+            "\u062f\u0631\u0686\u06cc\u0646",
+            "\u0627\u062e\u062a\u0644\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_80",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_75",
+        "predicted_answer": [
+            "\u0647\u0646\u062f\u06cc",
+            "\u0633\u0646\u0633\u06a9\u0631\u06cc\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_5",
+        "predicted_answer": [
+            "\u06af\u0631\u0628",
+            "\u0627\u0631\u0646\u0628\u0648\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_24",
+        "predicted_answer": [
+            "\u0628\u062a\u0647\u0648\u0648\u0646",
+            "\u0645\u0648\u0632\u0627\u0631\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_101",
+        "predicted_answer": [
+            "\u062f\u0648",
+            "\u0646\u0648"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_93",
+        "predicted_answer": [
+            "\u062a\u0631\u06a9\u06cc",
+            "\u06a9\u0631\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_111",
+        "predicted_answer": [
+            "\u0645\u0631\u062a\u0648\u0628\u0627 \u0627\u0644\u0645\u0627\u0633\u0627\u0646\u06cc",
+            "\u0627\u0645\u06cc\u0631\u06a9\u0628\u06cc\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_126",
+        "predicted_answer": [
+            "\u0633\u0648\u062e\u0627\u0631\u200c\u067e\u0644\u0648",
+            "\u0633\u0648\u062e\u0627\u0631\u200c\u0628\u0627\u0631\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_92",
+        "predicted_answer": [
+            "\u0641\u0627\u0648\u0646\u062f\u0627\u06cc\u06cc \u06a9\u0634\u0627\u0648\u0631\u0632\u06cc",
+            "\u0641\u0627\u0648\u0646\u062f\u0627\u06cc\u06cc \u062c\u0627\u0648\u0646\u0648\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_95",
+        "predicted_answer": [
+            "\u0631\u0648\u062f \u0628\u0644\u06cc\u06a9",
+            "\u0631\u0648\u062f \u0646\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_145",
+        "predicted_answer": [
+            "\u062c\u0647\u0627\u0646",
+            "\u062c\u0645\u0647\u0648\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_85",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_162",
+        "predicted_answer": [
+            "\u0633\u0646\u0633\u0648\u0631",
+            "\u062a\u0631\u0645\u0633\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_13",
+        "predicted_answer": [
+            "\u067e\u0634\u062a\u0648",
+            "\u0627\u0648\u0632\u0628\u06a9\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_26",
+        "predicted_answer": [
+            "\u062a\u0644\u0644\u0648\u0631\u0627\u0646 \u0628\u0631\u0644\u06cc\u0646",
+            "\u062a\u0644\u0644\u0648\u0631\u0627\u0646 \u0641\u0644\u0645\u0628\u0631\u06af"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_365",
+        "predicted_answer": [
+            "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+            "\u067e\u0631\u0648",
+            "\u0686\u06cc\u0644\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_209",
+        "predicted_answer": [
+            "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0646\u0631\u0648\u0698"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_286",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u0633\u0627\u0648\u062f\u06cc \u0627\u0631\u0628\u0633\u062a\u0627\u0646",
+            "\u0642\u0637\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_379",
+        "predicted_answer": [
+            "\u062a\u0648\u0628\u0641\u06cc\u0633\u0627\u062a",
+            "\u0646\u0631\u0648\u06cc\u062f\u06af\u0627\u0646\u0647",
+            "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_282",
+        "predicted_answer": [
+            "\u0631\u0633\u0648\u0644 \u0647\u0627\u062f\u06cc",
+            "\u0627\u0645\u06cc\u0631 \u0647\u0627\u062f\u06cc",
+            "\u0633\u0627\u06cc\u062f \u0645\u0631\u0627\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_349",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u0627\u0633\u0631\u0627\u0644",
+            "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_221",
+        "predicted_answer": [
+            "\u0633\u0646\u0633\u0648\u0631 \u0628\u0627 \u0633\u0631\u0633\u0628\u0631",
+            "\u062f\u0631\u0633\u0627\u0646\u0647\u200c\u0627\u06cc\u06cc \u0631\u0627\u062f\u06cc\u0648\u0627\u0631\u06cc",
+            "\u0633\u0646\u0633\u0648\u0631 \u0628\u0627 \u0631\u0627\u062f\u06cc\u0648\u0627\u0631\u06cc \u062f\u0631 \u0628\u0627\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_341",
+        "predicted_answer": [
+            "\u0645\u0627\u0644\u062f\u06cc\u0648",
+            "\u0641\u06cc\u062c\u06cc",
+            "\u0628\u0627\u0646\u06af\u0644\u0627\u062f\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_214",
+        "predicted_answer": [
+            "\u0641\u0646\u0644\u0627\u0646\u062f",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0627\u0633\u062a\u0648\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_338",
+        "predicted_answer": [
+            "\u0627\u0646\u06af\u0644\u06cc\u0633\u06cc",
+            "\u0641\u0631\u0627\u0646\u0633\u0648\u06cc",
+            "\u0633\u067e\u0627\u0646\u06cc\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_399",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u06a9 \u0644\u06cc\u0646\u062f\u0646",
+            "\u062c\u0627\u06a9 \u0644\u0646\u062f\u0646",
+            "\u062a\u0648\u0645\u0627\u0633 \u0645\u0627\u0644\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_386",
+        "predicted_answer": [
+            "\u0633\u06cc\u0645\u06cc\u0646\u200c\u062f\u0627\u0631\u06cc\u0648\u0634",
+            "\u0641\u0631\u0647\u0627\u062f",
+            "\u0646\u0627\u062f\u0631 \u0639\u0634\u0642"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_360",
+        "predicted_answer": [
+            "\u0631\u0648\u0633\u06cc\u0647",
+            "\u0628\u0644\u0698\u06cc\u06a9",
+            "\u0648\u0631\u0648\u062c\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_238",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0646\u062a\u06cc\u0632\u0645",
+            "\u062a\u062e\u0644\u06cc\u0642\u0627\u062a \u0634\u0646\u0627\u062e\u062a\u06cc",
+            "\u0628\u0631\u0646\u0627\u0645\u0647 \u0633\u0648\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_400",
+        "predicted_answer": [
+            "\u062a\u0648\u06cc\u0648\u062a\u0627",
+            "\u0647\u0646\u062f\u0627\u06cc\u0627",
+            "\u0646\u06cc\u0633\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_294",
+        "predicted_answer": [
+            "\u067e\u0631\u0645\u06cc\u0631\u06cc \u0644\u06cc\u06af \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646",
+            "\u0644\u06cc\u06af \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646 \u0622\u0644\u0645\u0627\u0646",
+            "\u0644\u06cc\u06af \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u0648\u067e\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_260",
+        "predicted_answer": [
+            "\u062a\u0631\u06a9\u06cc\u0647",
+            "\u0627\u0631\u062f\u0646",
+            "\u0627\u0641\u06af\u0627\u0646\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_367",
+        "predicted_answer": [
+            "\u0631\u0627\u0632\u06cc \u0647\u0645\u062f\u0627\u0646\u06cc",
+            "\u0641\u0627\u0631\u0627\u0628\u06cc \u0633\u06cc\u0646\u0627",
+            "\u0627\u0628\u0646 \u0633\u06cc\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_321",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647",
+            "\u0628\u0645\u0648\u0644",
+            "\u0622\u0648\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_390",
+        "predicted_answer": [
+            "\u0646\u0642\u0627\u0634\u06cc",
+            "\u062a\u062d\u0631\u06cc\u0628\u0646\u062f\u06cc",
+            "\u0641\u0631\u0634 \u0628\u0641\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_570",
+        "predicted_answer": [
+            "\u0622\u062a\u0646",
+            "\u067e\u06a9\u0646",
+            "\u06a9\u0627\u06cc\u0631\u0648",
+            "\u0645\u062c\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_417",
+        "predicted_answer": [
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0647\u0646\u062f",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0698\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_406",
+        "predicted_answer": [
+            "\u0641\u0627\u0631\u0633\u06cc",
+            "\u0641\u0646\u0644\u0627\u0646\u062f\u06cc",
+            "\u0627\u0633\u067e\u0631\u0627\u0646\u062c\u06cc",
+            "\u067e\u0631\u0633\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_404",
+        "predicted_answer": [
+            "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0633\u0648\u0626\u062f",
+            "\u0646\u0631\u0648\u0698"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_556",
+        "predicted_answer": [
+            "\u0645\u062f\u06cc\u0631\u06cc\u062a \u0628\u0647 \u062f\u0627\u062f\u0647",
+            "\u0645\u062f\u06cc\u0631\u06cc\u062a \u0628\u0647 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc",
+            "\u062a\u0627\u0631\u06cc\u062e\u06cc \u0628\u0647 \u062f\u0627\u062f\u0647",
+            "\u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0628\u0647 \u062f\u0627\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_474",
+        "predicted_answer": [
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0698\u0627\u067e\u0646",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_514",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u062a\u0631\u06a9\u06cc\u0647",
+            "\u0647\u0644\u0646\u062f",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_529",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u067e\u0644\u0633\u06a9",
+            "\u0633\u0644\u0648\u062e\u06cc",
+            "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_481",
+        "predicted_answer": [
+            "\u0622\u0632\u0627\u0631 \u0642\u0631\u0645\u0634\u06cc",
+            "\u0622\u0632\u0627\u0631 \u0627\u0644\u0645\u0631\u0648\u0637",
+            "\u0622\u0632\u0627\u0631 \u0627\u0644\u062e\u0648\u0627\u0631\u0632\u0645",
+            "\u0622\u0632\u0627\u0631 \u0645\u0635\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_464",
+        "predicted_answer": [
+            "\u0627\u0646\u0631\u0698\u06cc",
+            "\u062a\u0646\u0648\u0631 \u0627\u0646\u0631\u0698\u06cc",
+            "\u062a\u062d\u0644\u06cc\u0644 \u0627\u0646\u0631\u0698\u06cc",
+            "\u0627\u0646\u0631\u0698\u06cc \u0633\u0648\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_549",
+        "predicted_answer": [
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0647\u0646\u062f",
+            "\u0627\u0633\u0631\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_521",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647",
+            "\u06cc\u0627\u067e\u0646",
+            "\u0686\u06cc\u0646",
+            "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_586",
+        "predicted_answer": [
+            "\u0633\u0639\u062f\u06cc",
+            "\u0633\u0646\u0627\u06cc\u06cc",
+            "\u0645\u0648\u0644\u0648\u06cc",
+            "\u0628\u0627\u0628\u0627 \u062a\u0627\u0647\u0631\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_555",
+        "predicted_answer": [
+            "\u0633\u06cc\u0645\u06cc\u0646 \u0628\u0647\u0628\u0647\u0627\u0646\u06cc",
+            "\u0633\u06cc\u062f \u0639\u0644\u06cc \u0634\u0631\u0627\u0632\u06cc",
+            "\u0641\u0631\u0648\u06af \u0641\u0631\u062e\u0632\u0627\u062f",
+            "\u0627\u0645\u06cc\u0631\u06a9\u0628\u06cc\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_410",
+        "predicted_answer": [
+            "\u0646\u06cc\u0644",
+            "\u0622\u0645\u0631\u0632\u0648\u0646",
+            "\u06af\u0646\u06af",
+            "\u0622\u0644\u06cc\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_467",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "\u0686\u06cc\u0646",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_407",
+        "predicted_answer": [
+            "\u0686\u06cc\u0646",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0647\u0646\u062f",
+            "\u0622\u0644\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_503",
+        "predicted_answer": [
+            "\u0628\u0631\u0632\u06cc\u0644",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u06a9\u0646\u06af\u0648",
+            "\u0627\u0646\u062f\u0648\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_596",
+        "predicted_answer": [
+            "\u0628\u0631\u0644\u06cc\u0646",
+            "\u062a\u0648\u06a9\u06cc\u0648",
+            "\u0634\u0627\u0646\u06af\u0647\u0627\u06cc",
+            "\u0647\u0646\u06af\u06a9\u0648\u06af"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_473",
+        "predicted_answer": [
+            "\u0631\u06a9\u0633\u0627\u0646\u0628\u0647\u062a \u0627\u0645\u06cc\u0646\u06cc",
+            "\u0633\u06cc\u0645\u06cc\u0646 \u062f\u0631\u0627\u0628\u06cc",
+            "\u0641\u0631\u0647\u0627\u062f \u0627\u0633\u0641\u0647\u0627\u0646\u06cc",
+            "\u0633\u06cc\u0645\u06cc\u0646 \u0627\u0633\u0641\u0647\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_470",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0647\u0646\u062f",
+            "\u0627\u0633\u062a\u0648\u0646\u06cc",
+            "\u062c\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_60",
+        "predicted_answer": [
+            "\u0648\u06cc\u0648\u0644\u0646",
+            "\u0632\u0647\u0646\u200c\u0627\u0644\u0648"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_54",
+        "predicted_answer": [
+            "\u0645\u0648\u062c\u06cc\u06a9",
+            "\u0641\u0648\u0631\u062a\u0646\u06cc\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_564",
+        "predicted_answer": [
+            "\u0627\u0644\u0645\u0648\u0631\u062a\u0627\u0628\u06cc",
+            "\u062d\u0646\u062f\u06cc",
+            "\u0686\u06cc\u0646\u06cc",
+            "\u06a9\u0631\u0647\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_259",
+        "predicted_answer": [
+            "\u0646\u0648\u06cc\u0633\u06cc\u0646",
+            "\u0627\u0631\u062a\u0628\u0627\u062a",
+            "\u0644\u0645\u0633\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_522",
+        "predicted_answer": [
+            "\u0627\u0632\u062a\u06a9\u0627",
+            "\u0645\u0627\u06cc\u0627",
+            "\u062a\u0644\u062a\u06a9",
+            "\u06a9\u0627\u0644\u06cc\u0641\u0648\u0631\u06cc\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_231",
+        "predicted_answer": [
+            "\u0628\u06cc\u0648\u062a\u0647\u200c\u0634\u0646\u0627\u0633\u06cc",
+            "\u0628\u06cc\u0648\u062a\u0647\u200c\u0634\u0646\u0627\u0633\u06cc \u0628\u0647 \u0628\u06cc\u0648\u0644\u062c\u06cc",
+            "\u0628\u06cc\u0648\u062a\u0647\u200c\u0634\u0646\u0627\u0633\u06cc \u0628\u0647 \u0628\u06cc\u0648\u0644\u062c\u06cc \u0648 \u0632\u06cc\u0633\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_147",
+        "predicted_answer": [
+            "\u0628\u0631\u0632\u06cc\u0644",
+            "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_571",
+        "predicted_answer": [
+            "\u062a\u0648\u0645\u0627\u0633 \u0645\u0627\u0644\u0645\u0627\u062f\u06cc",
+            "\u0641\u0631\u0627\u0646\u0632 \u06a9\u0644\u06cc\u063a",
+            "\u062c\u0648\u0631\u062c \u06cc\u0648\u0631\u0633\u0648\u0646\u0627\u0644",
+            "\u0648\u06cc\u0633\u0644\u0627 \u0645\u0627\u0631\u06a9\u0632"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_110",
+        "predicted_answer": [
+            "\u062f\u0645\u0627\u0648\u0646\u062f",
+            "\u062f\u0645\u0627\u0648\u0646\u062f \u0622\u0632\u0627\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_240",
+        "predicted_answer": [
+            "\u062f\u0627\u0628\u06cc\u063a\u06cc",
+            "\u062f\u0631\u062f \u0645\u0648\u0642\u0648\u06cc",
+            "\u0627\u06cc\u0645\u0648\u0646\u200c\u062f\u0648\u0633\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_189",
+        "predicted_answer": [
+            "\u0645\u0635\u0631",
+            "\u0644\u0646\u062f\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_241",
+        "predicted_answer": [
+            "\u0631\u0648\u062f \u0646\u06cc\u0644",
+            "\u0631\u0648\u062f \u0622\u0645\u0648\u0631",
+            "\u0622\u0632\u0648\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_575",
+        "predicted_answer": [
+            "\u0627\u0646\u06af\u0644\u06cc\u0633\u06cc",
+            "\u0641\u0631\u0627\u0646\u0633\u0648\u06cc",
+            "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627\u06cc\u06cc",
+            "\u0627\u0633\u067e\u0631\u0627\u0646\u062c\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_284",
+        "predicted_answer": [
+            "\u0631\u0648\u0633\u06cc\u0647",
+            "\u0642\u0637\u0631",
+            "\u0627\u06cc\u0631\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_50",
+        "predicted_answer": [
+            "\u0648\u0627\u062f\u06cc\u0648\u0645",
+            "\u0647\u0627\u0644\u0648\u06af\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_99",
+        "predicted_answer": [
+            "\u0686\u06cc\u0646",
+            "\u0698\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_211",
+        "predicted_answer": [
+            "\u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645",
+            "\u062a\u0644\u0645\u0627\u062a\u06cc\u06a9",
+            "\u0628\u0631\u0646\u0627\u0645\u0647 \u0627\u0646\u0631\u0698\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_275",
+        "predicted_answer": [
+            "\u06a9\u0627\u0631\u0644 \u0627\u06cc\u0648\u0646\u0627\u0633",
+            "\u062a\u0648\u0645\u0627\u0633 \u0627\u06a9\u0648\u0627\u0631\u062f",
+            "\u0627\u06cc\u0648\u0627\u0646\u0648\u0633 \u0644\u0627\u06a9\u0627\u062a\u0648\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_250",
+        "predicted_answer": [
+            "\u06a9\u0627\u0644\u06cc\u06af\u0631\u0627\u0641\u06cc",
+            "\u0641\u0648\u062c\u06cc\u0627",
+            "\u0646\u0642\u0627\u0634\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_113",
+        "predicted_answer": [
+            "\u0628\u063a\u062f\u0627\u062f",
+            "\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_546",
+        "predicted_answer": [
+            "\u0633\u0645\u0627\u0646\u062f\u0644\u0631",
+            "\u0646\u0648\u0631\u0645\u0627\u0644",
+            "\u062a\u0639\u0628\u06cc\u0631\u0627\u062a",
+            "\u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_392",
+        "predicted_answer": [
+            "\u0627\u06cc\u0646\u06af \u0645\u0627\u0631\u06a9\u0633",
+            "\u0627\u06cc\u0627\u0646 \u06a9\u0648\u0631\u062a\u0648\u0627\u0632",
+            "\u0627\u06cc\u0631\u06cc\u0646 \u0628\u0631\u06a9\u0648\u0648\u0627\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_500",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u0647\u0646\u062f",
+            "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_193",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_327",
+        "predicted_answer": [
+            "\u0631\u0648\u0633\u06cc\u0647",
+            "\u0627\u0645\u0627\u0631\u0627\u062a",
+            "\u0686\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_409",
+        "predicted_answer": [
+            "\u0622\u0628\u0646 \u062c\u0648\u0646\u062f\u06cc",
+            "\u0622\u0628\u0646 \u0647\u06cc\u062a\u0645",
+            "\u0622\u0628\u0646 \u0645\u0633\u0647\u0627\u0644\u06cc",
+            "\u0627\u0628\u0646 \u062c\u0648\u0631\u062c\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_566",
+        "predicted_answer": [
+            "\u0645\u0635\u0631",
+            "\u0647\u0646\u062f",
+            "\u0686\u06cc\u0646",
+            "\u06cc\u0648\u0646\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_451",
+        "predicted_answer": [
+            "\u0645\u0635\u0631",
+            "\u0647\u0646\u062f",
+            "\u0645\u0627\u06cc\u0627",
+            "\u0686\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_40",
+        "predicted_answer": [
+            "\u0633\u0639\u062f\u06cc",
+            "\u0639\u0644\u06cc\u0634 \u0646\u0631\u0627\u0642\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_11",
+        "predicted_answer": [
+            "\u0627\u0628\u0646 \u0639\u0632\u0645\u06cc",
+            "\u0647\u0627\u0645\u062f \u0627\u0646\u0633\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_397",
+        "predicted_answer": [
+            "\u062a\u0628\u0631\u06cc\u0632",
+            "\u0647\u0645\u062f\u0627\u0646",
+            "\u06a9\u0631\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_79",
+        "predicted_answer": [
+            "\u0698\u0627\u067e\u0646",
+            "\u0622\u0644\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_438",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0627\u0633\u062a\u0648\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_333",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0647\u0646\u062f",
+            "\u062c\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_484",
+        "predicted_answer": [
+            "\u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc",
+            "\u0627\u0646\u062a\u0631\u0646\u062a",
+            "\u0627\u0646\u062a\u0631\u0646\u062a \u0633\u0646\u0633\u0648\u0631\u06cc",
+            "\u0627\u0646\u062a\u0631\u0646\u062a \u0628\u0627\u0632\u06cc\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_524",
+        "predicted_answer": [
+            "\u0645\u0635\u0631",
+            "\u0646\u06cc\u0627\u0646\u06cc",
+            "\u06a9\u0648\u0634\u06cc\u062a",
+            "\u0622\u06a9\u0633\u0648\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_329",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_497",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u0648\u06cc\u062a\u0646\u0627\u0645",
+            "\u062a\u0627\u06cc\u0644\u0646\u062f",
+            "\u0645\u0627\u0644\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_368",
+        "predicted_answer": [
+            "\u0627\u0646\u0631\u0698\u06cc",
+            "\u0645\u0647\u0646\u062f\u0633\u06cc \u0633\u0648\u0627\u0631\u06cc",
+            "\u0645\u0647\u0646\u062f\u0633\u06cc \u0627\u0644\u0647\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_44",
+        "predicted_answer": [
+            "\u0641\u0631\u0647\u062f",
+            "\u0647\u0645\u062f\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_157",
+        "predicted_answer": [
+            "\u062f\u0648\u0644\u0627\u0631",
+            "\u0645\u0627\u0631\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_225",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
+            "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_46",
+        "predicted_answer": [
+            "\u062f\u06cc\u0648\u0627\u0644\u06cc",
+            "\u0647\u0648\u062f\u06cc \u0628\u0647\u200c\u0627\u0644\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_593",
+        "predicted_answer": [
+            "\u062a\u0644\u0641\u0632\u06cc\u0648\u0646",
+            "\u0627\u0646\u0631\u062c\u06cc\u0647 \u0627\u0646\u0631\u062c\u06cc\u0647",
+            "\u062f\u0627\u062f\u0647 \u0628\u0627\u0632\u062a\u0648\u0631\u062f",
+            "\u062a\u0644\u0641\u0632\u06cc\u0648\u0646 \u0627\u0646\u0631\u062c\u06cc\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_3",
+        "predicted_answer": [
+            "\u0634\u062a\u0631\u0646\u062c",
+            "\u0628\u0631\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_513",
+        "predicted_answer": [
+            "\u062a\u0627\u06a9\u0648",
+            "\u062f\u0648\u0646\u0628\u0648\u0631\u06cc",
+            "\u0641\u0644\u0627\u0641\u0644",
+            "\u06a9\u0627\u0631\u0627\u0645\u0647\u200c\u0628\u0627\u0644\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_265",
+        "predicted_answer": [
+            "\u0645\u0642\u0627\u0633",
+            "\u0628\u0646\u06af\u06a9\u0648\u06a9",
+            "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_590",
+        "predicted_answer": [
+            "\u06cc\u0646\u062c\u06cc",
+            "\u06af\u0646\u06af",
+            "\u0628\u0631\u0627\u0647\u0645\u0627\u067e\u0648\u062a\u0631\u0627",
+            "\u0645\u06a9\u0648\u0646\u06af"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_452",
+        "predicted_answer": [
+            "\u0627\u0631\u0646\u0633\u062a\u0647 \u0647\u0627\u06a9\u0633\u0644\u06cc",
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0634\u06cc\u0631\u0627\u0633",
+            "\u062c\u0648\u0632\u0647 \u0647\u0631\u0645\u0627\u0646",
+            "\u0645\u0627\u0631\u06a9 \u0632\u0627\u06a9\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_561",
+        "predicted_answer": [
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0628\u0631\u0632\u06cc\u0644",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_42",
+        "predicted_answer": [
+            "\u06cc\u0648\u0646\u0627\u0646",
+            "\u06cc\u0627\u0644\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_377",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0642\u0631\u0627",
+            "\u0642\u0648\u0631\u0648\u0633",
+            "\u0628\u0647\u0646\u062f\u0648\u0631\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_227",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647",
+            "\u0622\u0644\u0645\u0627\u0646",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_330",
+        "predicted_answer": [
+            "\u0631\u0648\u0645\u0627\u0646\u062a\u06cc\u06a9",
+            "\u0631\u0648\u06cc\u0627\u0644\u06cc\u0632\u0645",
+            "\u0645\u0627\u062f\u0631\u06cc\u0633\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_523",
+        "predicted_answer": [
+            "\u0633\u06cc\u062f \u0639\u0633\u0645\u0627\u0631",
+            "\u0627\u0645\u06cc\u0631\u06a9\u0628\u06cc\u0631 \u0627\u0645\u06cc\u0631\u06a9\u0628\u06cc\u0631",
+            "\u0633\u06cc\u0645\u06cc\u0646 \u0628\u0647\u0628\u0647\u0627\u0646\u06cc",
+            "\u0645\u062d\u0633\u0646 \u0633\u0627\u062f\u0642"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_117",
+        "predicted_answer": [
+            "\u0628\u0631\u0628\u0631",
+            "\u0633\u06cc\u0645\u0631\u06af"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_295",
+        "predicted_answer": [
+            "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647",
+            "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_120",
+        "predicted_answer": [
+            "\u0686\u06cc\u0646",
+            "\u0622\u0644\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_listbased_184",
+        "predicted_answer": [
+            "\u0645\u06a9\u0632\u06cc\u06a9",
+            "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_155",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_134",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_151",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_157",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_54",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_50",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_142",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_115",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_2",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_197",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_188",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_124",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_193",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_81",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_173",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_139",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_80",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_118",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_105",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_116",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_246",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_287",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_320",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_393",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_266",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_232",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_270",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_395",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_340",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_329",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_208",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_324",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_252",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_288",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_260",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_205",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_241",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_389",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_275",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_272",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_577",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_539",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_432",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_440",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_477",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_534",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_521",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_507",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_424",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_510",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_470",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_547",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_597",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_520",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_571",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_491",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_489",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_548",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_466",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_465",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_353",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_394",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_581",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_555",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_475",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_217",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_107",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_279",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_556",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_69",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_486",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_145",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_47",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_165",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_375",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_230",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_191",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_339",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_68",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_162",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_289",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_51",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_236",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_464",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_34",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_431",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_587",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_363",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_490",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_453",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_281",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_45",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_439",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_284",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_596",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_485",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_132",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_570",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_46",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_159",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_228",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_220",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_271",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_48",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_527",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_32",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_40",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_593",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_347",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_78",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_311",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_190",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_448",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_381",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_261",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_579",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_500",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_531",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_7",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_nonanswerable_358",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_simple_80",
+        "predicted_answer": [
+            "\u062a\u0648\u0645\u0627\u0633 \u0627\u062f\u06cc\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_36",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0648\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_105",
+        "predicted_answer": [
+            "\u0628\u0644\u0698\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_196",
+        "predicted_answer": [
+            "\u0633\u0648\u0626\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_39",
+        "predicted_answer": [
+            "\u06a9\u067e\u0631 \u0628\u0647 \u0633\u0644\u0627\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_47",
+        "predicted_answer": [
+            "\u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_57",
+        "predicted_answer": [
+            "\u0622\u0641\u0631\u06cc\u0642\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_146",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0648\u0627\u0646 \u0641\u0644\u0627\u0633\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_178",
+        "predicted_answer": [
+            "\u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_32",
+        "predicted_answer": [
+            "\u0645\u0631\u0627\u06a9\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_29",
+        "predicted_answer": [
+            "\u0647\u0644\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_94",
+        "predicted_answer": [
+            "\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_200",
+        "predicted_answer": [
+            "\u0648\u0648\u0634\u0628\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_40",
+        "predicted_answer": [
+            "\u0622\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_169",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_81",
+        "predicted_answer": [
+            "\u0627\u067e\u0644 \u06af\u0631\u0648\u067e"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_25",
+        "predicted_answer": [
+            "\u0648\u06cc\u062a\u0646\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_14",
+        "predicted_answer": [
+            "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_147",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_150",
+        "predicted_answer": [
+            "\u0627\u0646\u06af\u0644\u06cc\u0633\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_238",
+        "predicted_answer": [
+            "\u0633\u0648\u0626\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_205",
+        "predicted_answer": [
+            "\u0633\u0631\u062c \u0628\u0648\u063a\u0648\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_246",
+        "predicted_answer": [
+            "\u0633\u0648\u0645\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_285",
+        "predicted_answer": [
+            "\u0627\u0628\u0627\u0633 \u06a9\u06cc\u0627\u0631\u0633\u062a\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_320",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0648\u0646 \u0627\u0641\u0631\u0627\u0646\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_352",
+        "predicted_answer": [
+            "\u0627\u0628\u0646\u200c\u0633\u06cc\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_364",
+        "predicted_answer": [
+            "\u062c\u0646\u06af \u0647\u0627\u0644\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_258",
+        "predicted_answer": [
+            "\u0628\u0648\u0644\u06cc\u0648\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_319",
+        "predicted_answer": [
+            "\u06a9\u0644\u0645\u0628\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_264",
+        "predicted_answer": [
+            "\u062f\u06cc\u0648\u062e\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_384",
+        "predicted_answer": [
+            "\u0645\u062d\u0633\u0648\u0645 \u0627\u0633\u063a\u0631\u0644\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_265",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_288",
+        "predicted_answer": [
+            "\u0647\u0631\u0645\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_214",
+        "predicted_answer": [
+            "\u0627\u0631\u06cc\u06a9 \u0633\u0627\u0644\u0645\u0631\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_309",
+        "predicted_answer": [
+            "\u0644\u0627\u06a9 \u0646\u0627\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_385",
+        "predicted_answer": [
+            "\u06cc\u0648\u0646\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_386",
+        "predicted_answer": [
+            "\u0645\u0627\u0631\u06cc \u06a9\u0648\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_351",
+        "predicted_answer": [
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0634\u06a9\u0633\u067e\u06cc\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_325",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_multihop_simple_268",
+        "predicted_answer": [
+            "\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_547",
+        "predicted_answer": [
+            "\u0644\u0626\u0648\u0646\u0627\u0631\u062f\u0648 \u062f\u0627\u0648\u06cc\u0646\u0686\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_442",
+        "predicted_answer": [
+            "\u062a\u0648\u0645\u0627\u0633 \u0645\u0631\u0627\u0646\u0627\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_486",
+        "predicted_answer": [
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_434",
+        "predicted_answer": [
+            "\u0645\u0627\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_473",
+        "predicted_answer": [
+            "\u0627\u0631\u0633\u0645\u06cc\u062f\u0632"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_538",
+        "predicted_answer": [
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0627\u0641\u06cc\u0648\u0632\u06cc\u0648\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_540",
+        "predicted_answer": [
+            "\u062c\u0627\u0646\u062a\u0648\u0641\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_511",
+        "predicted_answer": [
+            "\u0627\u0645\u06cc\u0631 \u062e\u062f\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_515",
+        "predicted_answer": [
+            "\u062a\u0648\u0646\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_445",
+        "predicted_answer": [
+            "\u0648\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_436",
+        "predicted_answer": [
+            "\u0647\u0631\u0645\u0627\u0646 \u0645\u0631\u06a9\u0632"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_468",
+        "predicted_answer": [
+            "\u0627\u0644\u0627\u0645\u06cc\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_416",
+        "predicted_answer": [
+            "\u0648\u0627\u0644\u0645\u06cc\u06a9\u06cc \u0648\u0645\u0631\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_580",
+        "predicted_answer": [
+            "\u0686\u0627\u0631\u0644\u0632 \u0627\u0644\u06af\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_531",
+        "predicted_answer": [
+            "\u0627\u0628\u0646\u200c\u0633\u06cc\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_411",
+        "predicted_answer": [
+            "\u0627\u0628\u0646\u200c\u0633\u06cc\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_507",
+        "predicted_answer": [
+            "\u0645\u0627\u062f\u0631\u0633\u06cc\u0646 \u0627\u0632 \u0628\u0627\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_494",
+        "predicted_answer": [
+            "\u06af\u0648\u062a\u0641\u0631\u06cc \u0627\u0641\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_425",
+        "predicted_answer": [
+            "\u0628\u0631\u0632\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_482",
+        "predicted_answer": [
+            "\u0628\u062a\u0647\u0648\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_426",
+        "predicted_answer": [
+            "\u0627\u06a9\u0648\u0644\u0648\u0631\u06cc\u0632\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_49",
+        "predicted_answer": [
+            "\u0645\u06cc\u06a9\u0631\u0648\u0633\u0648\u0641\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_46",
+        "predicted_answer": [
+            "\u062a\u0627\u06cc\u0644\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_310",
+        "predicted_answer": [
+            "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_579",
+        "predicted_answer": [
+            "\u06cc\u0648\u0646\u0633 \u06cc\u0648\u06a9\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_10",
+        "predicted_answer": [
+            "\u0627\u0631\u0648\u067e\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_432",
+        "predicted_answer": [
+            "\u062c\u0648\u0631\u062c \u0627\u0646\u062f\u0631\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_249",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_490",
+        "predicted_answer": [
+            "\u06cc\u062a\u0648\u0634 \u0642\u0633\u0631\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_457",
+        "predicted_answer": [
+            "\u0631\u0648\u0628\u0631\u062a \u0627\u0645\u0633\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_349",
+        "predicted_answer": [
+            "\u0622\u0632\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_145",
+        "predicted_answer": [
+            "\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_186",
+        "predicted_answer": [
+            "\u0622\u0633\u062a\u0631\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_316",
+        "predicted_answer": [
+            "\u0622\u0645\u0633\u062a\u0631\u062f\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_334",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_375",
+        "predicted_answer": [
+            "\u0648\u0627\u0644\u0646\u062a\u06cc\u0646\u0627 \u062a\u0631\u0634\u06a9\u0648\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_453",
+        "predicted_answer": [
+            "\u0622\u0646\u062a\u0648\u0627\u0646 \u062c\u0648\u0644\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_573",
+        "predicted_answer": [
+            "\u0627\u0627\u0644\u0641\u0631\u062f \u062c\u0641\u0631\u0633\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_163",
+        "predicted_answer": [
+            "\u0627\u0645\u0627\u0631\u0627\u062a \u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_438",
+        "predicted_answer": [
+            "\u067e\u0627\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_545",
+        "predicted_answer": [
+            "\u0698\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_37",
+        "predicted_answer": [
+            "\u0686\u06cc\u0644\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_161",
+        "predicted_answer": [
+            "\u0627\u0631\u062f\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_237",
+        "predicted_answer": [
+            "\u0633\u06cc\u0631 \u0627\u0631\u06a9\u0648\u0632"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_209",
+        "predicted_answer": [
+            "\u062c\u06cc\u0645 \u0628\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_227",
+        "predicted_answer": [
+            "\u0645\u0631\u0627\u06a9\u0634"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_390",
+        "predicted_answer": [
+            "\u0641\u0631\u0627\u0646\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_83",
+        "predicted_answer": [
+            "\u0648\u06cc\u06a9\u06cc\u0646\u06af \u0627\u0644\u062d\u0627\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_430",
+        "predicted_answer": [
+            "\u0647\u062a\u06cc\u062a\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_4",
+        "predicted_answer": [
+            "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_565",
+        "predicted_answer": [
+            "\u0632\u0631\u062a\u0634\u062a\u06cc\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_18",
+        "predicted_answer": [
+            "\u0642\u0637\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_109",
+        "predicted_answer": [
+            "\u0628\u0631\u0632\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_371",
+        "predicted_answer": [
+            "\u0633\u0648\u0626\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_164",
+        "predicted_answer": [
+            "\u0642\u0637\u0631"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_327",
+        "predicted_answer": [
+            "\u0633\u0648\u0645\u0648"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_359",
+        "predicted_answer": [
+            "\u0622\u0631\u0648\u067e\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_582",
+        "predicted_answer": [
+            "\u0627\u0644\u06af\u0631\u06cc\u062a\u0645\u06cc \u0647\u0646\u062f\u0633\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_289",
+        "predicted_answer": [
+            "\u0622\u0644\u0628\u0631\u062a \u0627\u06cc\u0646\u0634\u062a\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_256",
+        "predicted_answer": [
+            "\u0622\u0628\u0646\u200c\u0639\u0628\u0627\u0633 \u0633\u06cc\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_534",
+        "predicted_answer": [
+            "\u0627\u0628\u0646\u200c\u0647\u06cc\u062b\u0645"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_22",
+        "predicted_answer": [
+            "\u0646\u067e\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_487",
+        "predicted_answer": [
+            "\u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u0648"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_51",
+        "predicted_answer": [
+            "\u0628\u0627\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_584",
+        "predicted_answer": [
+            "\u0627\u067e\u06cc\u06a9\u0648\u0631\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_152",
+        "predicted_answer": [
+            "\u06a9\u0646\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_456",
+        "predicted_answer": [
+            "\u0645\u0627\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_357",
+        "predicted_answer": [
+            "\u0627\u06cc\u0644\u06cc\u0647 \u0645\u0627\u06cc\u0644\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_20",
+        "predicted_answer": [
+            "\u067e\u0631\u062a\u063a\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_528",
+        "predicted_answer": [
+            "\u0639\u0628\u0627\u0633 \u06af\u0644\u0634\u06cc\u0641\u062a\u0647\u200c\u0631\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_279",
+        "predicted_answer": [
+            "\u0646\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_550",
+        "predicted_answer": [
+            "\u0627\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u06cc\u0646\u06a9\u0644\u0646"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_35",
+        "predicted_answer": [
+            "\u0633\u0648\u0631\u06cc\u0647"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_463",
+        "predicted_answer": [
+            "\u0645\u062d\u0627\u062a\u0645\u0627 \u06af\u0627\u0646\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_581",
+        "predicted_answer": [
+            "\u0645\u0627\u0631\u06af\u0627\u0631\u062a \u062a\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_190",
+        "predicted_answer": [
+            "\u0645\u06a9\u0632\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_335",
+        "predicted_answer": [
+            "\u0631\u0627\u0628\u0631\u062a \u0627\u0645\u0633\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_75",
+        "predicted_answer": [
+            "\u0622\u0633\u062a\u0631\u06cc\u0627"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_276",
+        "predicted_answer": [
+            "\u067e\u0644\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_multihop_simple_274",
+        "predicted_answer": [
+            "\u0646\u06cc\u06a9\u0648\u0644\u0627 \u062a\u0633\u0644\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_120",
+        "predicted_answer": [
+            "\u062a\u0645\u0631\u06a9\u0632",
+            "\u0634\u062f\u0627\u06af\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_107",
+        "predicted_answer": [
+            "\u062a\u0646\u06cc\u0633",
+            "\u0628\u0633\u06a9\u062a\u0628\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_11",
+        "predicted_answer": [
+            "\u062f\u0644\u0641\u06cc\u0646",
+            "\u062a\u0648\u062a\u0627\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_96",
+        "predicted_answer": [
+            "\u06a9\u0648\u0631\u062f\u0648\u0628",
+            "\u06a9\u0648\u0631\u0645\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_44",
+        "predicted_answer": [
+            "\u062a\u0631\u06a9\u0627\u0646\u0647",
+            "\u0645\u06cc\u0627\u0646\u200c\u0631\u0633\u0627\u0646\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_143",
+        "predicted_answer": [
+            "\u0644\u06cc\u0645\u0648\u0646",
+            "\u0628\u0644\u062a\u0642\u0648\u0644",
+            "\u0646\u0628\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_46",
+        "predicted_answer": [
+            "\u062e\u0648\u062c\u0627",
+            "\u067e\u0627\u06cc\u062a\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_47",
+        "predicted_answer": [
+            "\u062f\u0627\u062f\u0647 \u062f\u0627\u062f\u0647",
+            "\u0634\u0648\u062a \u0628\u0627\u0632\u06cc",
+            "\u062f\u0631\u0628\u06cc \u0628\u0627\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_178",
+        "predicted_answer": [
+            "\u062e\u0645\u06cc\u0631\u0647",
+            "\u0627\u06af\u0631\u0641\u0627\u0644",
+            "\u0628\u0631\u0646\u062c",
+            "\u062a\u0631\u06a9\u06cc\u0628\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_90",
+        "predicted_answer": [
+            "\u062a\u0641\u06a9\u06cc\u06a9 \u0628\u0627 \u062a\u0645\u0627\u0645",
+            "\u062a\u0646\u0648\u06cc\u0631\u06cc \u0628\u0627 \u062a\u0645\u0627\u0645",
+            "\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0628\u0627 \u062f\u0648\u0686"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_108",
+        "predicted_answer": [
+            "\u062a\u0644\u0641\u0646",
+            "\u0628\u0631\u0646\u0627\u0645\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_104",
+        "predicted_answer": [
+            "\u0633\u0645\u062e\u200c\u0647",
+            "\u0633\u0647\u200c\u067e\u0631\u062f\u0627\u0632",
+            "\u0633\u0648\u0627\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_43",
+        "predicted_answer": [
+            "\u0627\u0633\u0628",
+            "\u0642\u06cc\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_115",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646",
+            "\u0631\u0627\u062f\u06cc\u0648"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_89",
+        "predicted_answer": [
+            "\u062f\u0627\u062f\u0647",
+            "\u062f\u0627\u0631\u0648\u0634"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_171",
+        "predicted_answer": [
+            "\u06a9\u0627\u0631\u0648\u0646",
+            "\u062a\u0628\u0631\u06cc\u0632"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_183",
+        "predicted_answer": [
+            "\u0628\u0631\u0646\u062c",
+            "\u0628\u0627\u0644\u0627",
+            "\u0645\u0627\u06a9\u0627\u0631\u0648\u0646\u06cc",
+            "\u06a9\u0647\u0644\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_131",
+        "predicted_answer": [
+            "\u067e\u0648\u0633\u062a",
+            "\u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u0633\u0646\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_137",
+        "predicted_answer": [
+            "\u0627\u0644\u0645\u0646\u06cc",
+            "\u0686\u06cc\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_18",
+        "predicted_answer": [
+            "2",
+            "4"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_314",
+        "predicted_answer": [
+            "\u062a\u0634\u06a9\u06cc\u0644\u0627\u062a \u0645\u062f\u0627\u0646\u06cc",
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0631 \u0627\u0646\u062a\u0631\u0646\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_290",
+        "predicted_answer": [
+            "\u0634\u0648\u0631\u0634",
+            "\u06af\u0631\u0645\u0627\u06cc\u0634"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_234",
+        "predicted_answer": [
+            "\u0627\u06cc\u0631\u0627\u0646",
+            "\u0686\u06cc\u0646",
+            "\u0647\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_302",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0642\u0631\u0627",
+            "\u0645\u062f\u0644\u0633\u0644\u0627\u0645\u200c\u0633\u0627\u0632\u06cc",
+            "\u062a\u0641\u06a9\u0631 \u0628\u0627\u0632\u06cc",
+            "\u0627\u0633\u062a\u0642\u0631\u0627 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_266",
+        "predicted_answer": [
+            "\u0627\u06a9\u062a\u0634\u0627\u0641\u06cc \u0645\u062a\u0648\u062f\u0644",
+            "\u062a\u0645\u0631\u06cc\u0646 \u0628\u0627 \u062f\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_344",
+        "predicted_answer": [
+            "\u0628\u0648\u062f\u06a9\u0627\u0631",
+            "\u0628\u0648\u062f\u06a9\u0627\u0631 \u0645\u062d\u062a\u0648\u0627",
+            "\u0628\u0648\u062f\u06a9\u0627\u0631 \u0645\u062d\u062a\u0648\u0627 \u0628\u0647 \u0628\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_388",
+        "predicted_answer": [
+            "\u062a\u0627\u0631",
+            "\u0642\u0631\u0646\u0627",
+            "\u06a9\u0645\u0628\u0631",
+            "\u0645\u06cc\u06a9\u0631\u0648\u0633\u06a9\u0648\u067e"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_311",
+        "predicted_answer": [
+            "\u062a\u0648\u0627\u0646\u200c\u062f\u0627\u062f\u06cc",
+            "\u062a\u0648\u0627\u0646\u200c\u062f\u0627\u062f\u06cc \u0628\u0647 \u062f\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_313",
+        "predicted_answer": [
+            "\u062a\u0639\u0628\u06cc\u0631\u0627\u062a",
+            "\u062f\u0627\u062f\u0647\u200c\u0633\u0627\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_211",
+        "predicted_answer": [
+            "\u0627\u0645\u0648\u0646\u062a",
+            "\u0627\u0646\u0633\u0627\u0646\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_356",
+        "predicted_answer": [
+            "\u062a\u0648\u067e",
+            "\u062a\u0648\u067e \u0645\u062d\u0633\u0648\u0628",
+            "\u062a\u0648\u067e \u0645\u062d\u0633\u0648\u0628 \u0645\u062d\u0633\u0648\u0628",
+            "\u062a\u0648\u067e \u0645\u062d\u0633\u0648\u0628 \u0645\u062d\u0633\u0648\u0628 \u0645\u062d\u0633\u0648\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_216",
+        "predicted_answer": [
+            "\u062a\u0645\u0631\u06a9\u0632 \u0627\u0645\u06a9\u0627\u0646",
+            "\u062f\u0631\u06a9 \u0627\u0633\u062a\u0646\u062f\u0647\u200c\u0627\u06cc \u0645\u062a\u0631\u06cc",
+            "\u062f\u0631\u06a9 \u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u062f\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_251",
+        "predicted_answer": [
+            "\u0645\u0647\u0646\u062f\u0633\u06cc",
+            "\u0645\u0648\u062d\u0633\u0633\u06cc",
+            "\u0627\u0645\u0646\u06cc\u0633\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_274",
+        "predicted_answer": [
+            "\u0641\u0631\u0633\u062a\u06af\u06cc",
+            "\u0628\u0647\u200c\u062a\u0631\u0633\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_355",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u062a\u0634\u0628\u06cc\u0647\u06cc",
+            "\u0631\u0648\u0634\u062f \u0642\u06cc\u0627\u0633\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_244",
+        "predicted_answer": [
+            "\u06a9\u0631\u062f\u0633\u062a\u0627\u0646",
+            "\u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646",
+            "\u062a\u0644\u06cc\u0633\u06cc\u0646",
+            "\u0641\u0627\u0631\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_230",
+        "predicted_answer": [
+            "\u062f\u0645\u0627\u06cc\u0647 \u062e\u0648\u0627\u0628",
+            "\u0645\u062f\u0644\u200c\u0633\u0627\u0632\u06cc \u0647\u0648\u0634\u0645\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_348",
+        "predicted_answer": [
+            "\u0645\u0646\u062f\u0634\u06cc",
+            "\u0645\u0644\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_203",
+        "predicted_answer": [
+            "\u062a\u0639\u062f\u0627\u062f \u0631\u0627\u0628\u062a",
+            "\u062a\u063a\u0630\u06cc\u0647 \u0631\u0627\u0628\u062a",
+            "\u0641\u0631\u0627\u062a\u0647 \u0631\u0627\u0628\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_331",
+        "predicted_answer": [
+            "\u062a\u0627\u0631\u06cc\u0647 \u0627\u0631\u062a\u0648\u0634\u0647",
+            "\u062a\u0627\u0631\u06cc\u0647 \u0633\u0647 \u0627\u0645\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_451",
+        "predicted_answer": [
+            "\u062a\u0648\u067e \u0627\u0646\u06cc\u0634\u06cc",
+            "\u062a\u0648\u067e \u0627\u0646\u06cc\u0634\u06cc \u0628\u0627 \u0633\u0631\u062f",
+            "\u062a\u0648\u067e \u0627\u0646\u06cc\u0634\u06cc \u0628\u0627 \u062f\u0648\u0631\u0627\u0646",
+            "\u062a\u0648\u067e \u0627\u0646\u06cc\u0634\u06cc \u0628\u0627 \u062f\u0648\u0631\u0627\u0646 \u0628\u0627 \u0633\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_541",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0627\u0632\u06cc",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0632 \u062f\u0631\u0633\u062a",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0632 \u062f\u0631\u0633\u062a \u0628\u0627 \u062f\u0648\u0631\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_514",
+        "predicted_answer": [
+            "\u0645\u0646\u062a\u0642 \u06a9\u0644\u0627\u0633\u06cc\u06a9",
+            "\u0645\u0646\u062a\u0642 \u0627\u0647\u062a\u0645\u0627\u0644\u0627\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_586",
+        "predicted_answer": [
+            "\u0628\u0631\u0646\u062f\u06af\u06cc",
+            "\u0645\u0648\u062f\u0627\u0631\u06cc\u062a \u0645\u062d\u062f\u0648\u062f",
+            "\u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u200c\u0646\u0648\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_542",
+        "predicted_answer": [
+            "\u062a\u0645\u0631\u06cc\u0646 \u0627\u0646\u0631\u0698\u06cc",
+            "\u0645\u062d\u062a\u0648\u0627\u0647 \u0627\u0646\u0631\u0698\u06cc",
+            "\u0627\u0646\u0633\u0627\u0646 \u0627\u0646\u0631\u0698\u06cc",
+            "\u062f\u0645\u0627\u06cc\u0634 \u0627\u0646\u0631\u0698\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_455",
+        "predicted_answer": [
+            "\u062a\u0641\u06a9\u0631 \u0627\u0633\u062a\u0642\u0631\u0627",
+            "\u062a\u0641\u06a9\u0631 \u0627\u0633\u062a\u0642\u0631\u0627\u06cc\u06cc",
+            "\u062a\u0641\u06a9\u0631 \u0627\u0633\u062a\u0642\u0631\u0627\u06cc\u06cc \u0628\u0647 \u062a\u0627\u0631\u06cc\u062e"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_585",
+        "predicted_answer": [
+            "\u0627\u062a\u0647\u0627\u062f\u06cc\u062a",
+            "\u0628\u0631\u0647\u0627\u0646\u06cc",
+            "\u0627\u0645\u0646\u06cc\u062a\u06cc",
+            "\u0628\u0627\u0632\u0646\u062f\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_442",
+        "predicted_answer": [
+            "\u062f\u0648\u062c \u0627\u0633\u0644\u0627\u0645\u06cc",
+            "\u0641\u0631\u0642\u0647 \u0628\u0627\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_482",
+        "predicted_answer": [
+            "\u0627\u0641\u062a \u0628\u0647 \u062f\u0631\u062f",
+            "\u0627\u0641\u062a \u0628\u0647 \u062f\u0631\u062f",
+            "\u0627\u0641\u062a \u0628\u0647 \u062f\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_577",
+        "predicted_answer": [
+            "\u062a\u0639\u0627\u062f\u0644 \u062f\u0644\u06cc\u0644",
+            "\u062a\u0648\u062c\u06cc\u0647 \u062f\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_596",
+        "predicted_answer": [
+            "\u062f\u0648\u0631\u0627\u0628\u0647 \u062f\u0627\u062f\u0647",
+            "\u067e\u0631\u0628\u0644\u0645 \u0647\u0645\u0641\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_404",
+        "predicted_answer": [
+            "\u062a\u0639\u0627\u0631\u0641",
+            "\u0627\u0633\u062a\u0642\u0631\u0627",
+            "\u062a\u0627\u0631\u06cc\u062e\u06cc",
+            "\u062f\u0648\u0633\u062a\u0627\u0646\u0647\u200c\u06af\u0630\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_538",
+        "predicted_answer": [
+            "\u0633\u0627\u062f\u0647",
+            "\u0627\u0633\u062a\u0648\u0631\u0627\u0644",
+            "\u0633\u0648\u0631\u0645\u0627",
+            "\u0627\u0631\u062a\u0648\u0634"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_513",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u062e\u0648\u0631\u062f \u0645\u062f\u06cc\u0631\u06cc\u062a",
+            "\u0628\u0627\u0632\u062e\u0648\u0631\u062f \u0645\u062f\u06cc\u0631\u06cc\u062a \u0628\u0627 \u0631\u0627\u062f\u06cc\u0648"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_508",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646 \u0645\u062d\u0644\u06cc",
+            "\u062a\u0646\u06cc\u0633 \u0627\u0646\u0628\u0627\u0633\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_531",
+        "predicted_answer": [
+            "\u062e\u0641\u062a\u0647 \u0633\u0627\u062f\u06cc",
+            "\u0631\u0648\u06cc\u0634 \u062f\u0648\u0631\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_452",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u0642\u0637\u0631",
+            "\u0627\u0631\u0627\u0642"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_567",
+        "predicted_answer": [
+            "\u062a\u0634\u0628\u06cc\u0647",
+            "\u0645\u0642\u0627\u0648\u0645\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_589",
+        "predicted_answer": [
+            "\u062a\u0645\u0631\u06cc\u0646 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u062a\u0645\u0631\u06cc\u0646 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u062a\u0645\u0631\u06cc\u0646 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_565",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u06cc \u0645\u0646\u0639\u0642\u0627\u0631",
+            "\u0641\u0631\u0633\u062a\u06af\u06cc \u0645\u062f\u06cc\u0631",
+            "\u0628\u0627\u0632\u06cc \u0645\u062f\u06cc\u0631 \u0628\u0647 \u0627\u0646\u062f\u0627\u0645\u0647",
+            "\u0628\u0631\u0627\u0628\u0631 \u0645\u062a\u0639\u0627\u062f\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_35",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u062f\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_492",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u06cc\u0627\u0631\u06cc \u0628\u0644\u0646\u062f\u06cc",
+            "\u0628\u0627\u0632\u06cc\u0627\u0631\u06cc \u0645\u062d\u0635\u0648\u0644",
+            "\u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0645\u062a\u0642\u0627\u0628\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_69",
+        "predicted_answer": [
+            "\u0642\u0639\u0627\u0631 \u0628\u0647 \u0646\u0648\u0631",
+            "\u0642\u0639\u0627\u0631 \u0628\u0647 \u062f\u0627\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_299",
+        "predicted_answer": [
+            "\u0645\u0635\u062c\u062f \u0622\u0631\u06a9",
+            "\u0645\u0635\u062c\u062f \u0627\u06cc\u0645\u0627\u0645",
+            "\u0645\u0635\u062c\u062f \u0622\u0634\u0648\u0631\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_189",
+        "predicted_answer": [
+            "\u0645\u062c\u0644\u0633 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9",
+            "\u0645\u062c\u0644\u0633 \u0645\u062d\u0644\u06cc",
+            "\u0645\u062c\u0644\u0633 \u0627\u0633\u0627\u0633\u0648\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_434",
+        "predicted_answer": [
+            "\u0647\u0646\u062f",
+            "\u0686\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_359",
+        "predicted_answer": [
+            "\u062a\u0646\u0641\u0633 \u0628\u0647 \u0646\u0642\u0639\u0647",
+            "\u0631\u0633\u0646\u0647 \u0628\u0647 \u0646\u0642\u0639\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_460",
+        "predicted_answer": [
+            "\u062f\u0627\u0631\u0634\u06cc",
+            "\u0628\u0627\u0633\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_202",
+        "predicted_answer": [
+            "\u0646\u0632\u0631\u06cc\u0647 \u062f\u0631\u0627\u062f\u0627\u0631\u06cc",
+            "\u0646\u0632\u0631\u06cc\u0647 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_80",
+        "predicted_answer": [
+            "\u062a\u0631\u06a9\u06cc\u0647",
+            "\u0631\u0648\u0633\u06cc\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_176",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646",
+            "\u062a\u0644\u0641\u0646",
+            "\u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u062a\u0648\u0644\u06cc\u062f\u06af\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_279",
+        "predicted_answer": [
+            "\u0648\u062c\u0648\u062f",
+            "\u0645\u062d\u0627\u0641\u0639\u062a",
+            "\u0628\u0631\u062e\u0631 \u0628\u0631 \u0627\u0646\u0633\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_503",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u06cc\u0627\u0628\u06cc",
+            "\u0627\u0633\u062a\u0647\u062a\u06cc\u06a9\u0627\u06cc",
+            "\u0628\u0627\u0631\u0627\u0646",
+            "\u062a\u0645\u0631\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_595",
+        "predicted_answer": [
+            "\u06af\u0646\u0647\u0634\u0646\u0627\u0633\u06cc",
+            "\u06a9\u0644\u06cc\u0647 \u0647\u0645\u06a9\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_365",
+        "predicted_answer": [
+            "\u06cc\u062e\u0686\u0627\u0644 \u062a\u0644\u0641\u0646\u06cc",
+            "\u0627\u0633\u062a\u0631\u0633\u062a\u0631\u06cc \u062f\u0627\u062f\u0647",
+            "\u0627\u0646\u062a\u0631\u062a\u0646\u062a \u062f\u0627\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_258",
+        "predicted_answer": [
+            "\u0634\u06cc\u0631",
+            "\u0641\u0631\u0648\u062f\u06af\u0627\u0647",
+            "\u0642\u0647\u0648\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_392",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_listbased_524",
+        "predicted_answer": [
+            "\u067e\u0627\u06cc\u062a\u0648\u0646",
+            "\u0645\u0627\u062a\u0644\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_306",
+        "predicted_answer": [
+            "\u06a9\u0644\u06cc\u062f\u0631",
+            "\u0628\u0631\u0646\u062f\u0627\u0632\u0647",
+            "\u062a\u0631\u0627\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_405",
+        "predicted_answer": [
+            "\u062a\u0641\u0627\u0633\u06cc\u0645",
+            "\u062a\u0627\u0631\u06cc\u062e\u06cc",
+            "\u0645\u0642\u0627\u0648\u0645\u062a",
+            "\u062a\u062d\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_73",
+        "predicted_answer": [
+            "\u0631\u0648\u0628\u0631",
+            "\u06a9\u0644\u06cc\u062f\u06af\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_600",
+        "predicted_answer": [
+            "\u0627\u0641\u0631\u0627\u0632\u0634 \u0646\u0648\u0631\u06cc",
+            "\u0627\u0641\u0631\u0627\u0632\u0634 \u062f\u0644\u06cc\u0644\u06cc",
+            "\u0627\u0641\u0631\u0627\u0632\u0634 \u062f\u0644\u06cc\u0644\u06cc \u0628\u0627 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_2",
+        "predicted_answer": [
+            "\u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "\u0686\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_181",
+        "predicted_answer": [
+            "\u062f\u0633\u062a\u200c\u062f\u0627\u062f\u0646",
+            "\u0633\u0627\u062f\u0647\u200c\u062f\u0627\u062f\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_16",
+        "predicted_answer": [
+            "\u0633\u0647",
+            "\u062a\u0627\u0631",
+            "\u062f\u0641"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_597",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0645\u0646\u0627\u0633\u0628",
+            "\u0645\u0646\u0627\u0633\u0628 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0633\u062a\u0642\u0631\u0627",
+            "\u0645\u0646\u0627\u0633\u0628 \u0627\u0633\u062a\u0642\u0631\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_109",
+        "predicted_answer": [
+            "\u0633\u0627\u0627\u062a",
+            "\u06a9\u06cc\u0644\u0648\u06af\u0631\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_227",
+        "predicted_answer": [
+            "\u062a\u0648\u062a\u0648\u0627\u0644\u0647",
+            "\u0645\u062d\u06cc\u200c\u0647\u0627",
+            "\u0628\u0627\u0632\u06cc\u0627\u0631\u0646\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_454",
+        "predicted_answer": [
+            "\u0628\u0647\u0646\u062f\u0647\u200c\u06af\u0631\u0627\u06cc\u06cc",
+            "\u0627\u0646\u062c\u0627\u0645\u200c\u0628\u0647\u0646\u062f\u0647",
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0627\u0646\u062c\u0627\u0645\u200c\u06af\u0631\u0627\u06cc\u06cc",
+            "\u0627\u0646\u062c\u0627\u0645\u200c\u0628\u0647\u0646\u062f\u0647 \u0627\u0646\u062c\u0627\u0645\u200c\u06af\u0631\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_345",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_523",
+        "predicted_answer": [
+            "\u062e\u0648\u062f\u0634\u0646\u0627\u0633\u06cc",
+            "\u062a\u0641\u06a9\u06cc\u06a9 \u0627\u0633\u062a\u0642\u0631\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_199",
+        "predicted_answer": [
+            "\u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9",
+            "\u062a\u0644\u0641\u0646 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_308",
+        "predicted_answer": [
+            "\u0645\u0642\u0627\u06cc\u0633\u0647 \u062f\u0644\u06cc\u0644",
+            "\u0645\u0642\u0627\u06cc\u0633\u0647 \u062f\u0644\u06cc\u0644 \u0628\u0647 \u062f\u0644\u06cc\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_273",
+        "predicted_answer": [
+            "\u0627\u06cc\u0648\u0627\u0646",
+            "\u0639\u0648\u0646",
+            "\u06a9\u0627\u0634\u06cc",
+            "\u0628\u0627\u062f\u06af\u06cc\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_424",
+        "predicted_answer": [
+            "\u062a\u0639\u0628\u06cc\u0631 \u0645\u062a\u0642\u0627\u0628\u0644",
+            "\u062a\u0639\u0628\u06cc\u0631 \u062f\u0644\u06cc\u0644 \u0645\u062a\u0642\u0627\u0628\u0644",
+            "\u062a\u0639\u0628\u06cc\u0631 \u0645\u062d\u062f\u0648\u062f\u0647 \u0645\u062a\u0642\u0627\u0628\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_594",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9",
+            "\u062a\u0639\u0627\u0645\u0644 \u062a\u0627\u0631\u06cc\u062e\u06cc",
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9 \u0645\u062d\u062a\u0648\u0627",
+            "\u062a\u0639\u0627\u0645\u0644 \u062a\u0627\u0631\u06cc\u062e\u06cc \u0645\u062d\u062a\u0648\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_468",
+        "predicted_answer": [
+            "\u062a\u0639\u0627\u062f\u0644 \u0628\u0647 \u0646\u0648\u0631",
+            "\u0631\u0648\u0646\u06af\u06cc \u0628\u0647 \u0631\u0648\u0646\u06af\u06cc",
+            "\u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0647 \u0627\u0646\u062a\u0642\u0627\u0644",
+            "\u0628\u0627\u0632\u06cc\u0627\u0631\u06cc \u0628\u0647 \u062f\u0648\u0631\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_263",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u062a\u0648\u0631\u062f\u06cc",
+            "\u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0645\u0646\u06cc\u062a",
+            "\u062f\u0645\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_125",
+        "predicted_answer": [
+            "\u0645\u0631\u06a9\u0632",
+            "\u0634\u0646\u0627\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_438",
+        "predicted_answer": [
+            "\u0645\u062a\u0627\u0641\u06cc\u0639\u06cc\u0646 \u0627\u0633\u0641\u0647\u0627\u0646\u06cc",
+            "\u0645\u062a\u0627\u0641\u06cc\u0639\u06cc\u0646 \u0645\u0627\u062a\u0648\u0631\u06cc\u062f\u06cc",
+            "\u0645\u062a\u0627\u0641\u06cc\u0639\u06cc\u0646 \u0627\u0633\u0641\u0647\u0627\u0646\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc",
+            "\u0645\u062a\u0627\u0641\u06cc\u0639\u06cc\u0646 \u0627\u0633\u0641\u0647\u0627\u0646\u06cc \u0627\u0633\u0646\u0627\u0633\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_242",
+        "predicted_answer": [
+            "\u0646\u0648\u0631\u0648\u0632",
+            "\u0634\u0647\u0631\u0648\u0631\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_27",
+        "predicted_answer": [
+            "\u0645\u0631\u062f \u0648 \u0633\u0631\u062f",
+            "\u0628\u0627\u062f \u0648 \u067e\u0627\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_99",
+        "predicted_answer": [
+            "\u0641\u0627\u0631\u0633\u06cc",
+            "\u0627\u0646\u06af\u0644\u06cc\u0633\u06cc",
+            "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627\u06cc\u06cc",
+            "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_374",
+        "predicted_answer": [
+            "\u0628\u0641\u0641\u0631\u0627\u06a9",
+            "\u0627\u062f\u0648\u0627\u0631\u062f \u0628\u0631\u0648\u0646\u062a",
+            "\u0628\u0641\u0641\u0631\u0627\u06a9 \u0633\u062e\u0646\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_55",
+        "predicted_answer": [
+            "\u062f\u0644\u0641\u06cc\u0646",
+            "\u06a9\u0631\u063a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_550",
+        "predicted_answer": [
+            "\u0631\u0627\u062f\u06cc \u0627\u0646\u0648\u0631\u06cc",
+            "\u0627\u0628\u0646 \u0633\u06cc\u0646\u0627",
+            "\u0645\u0648\u0644\u0648\u06cc \u0627\u0645\u06cc\u0646",
+            "\u0627\u0628\u0646 \u0632\u0647\u06cc\u0631 \u0627\u0644\u0645\u0633\u062a\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_340",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646",
+            "\u0627\u0633\u062a\u0648\u062f\u06cc\u0648",
+            "\u062f\u0633\u062a\u0648\u0631",
+            "\u062f\u0641\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_458",
+        "predicted_answer": [
+            "\u062a\u0641\u0627\u0648\u062a \u062f\u0648\u0645\u0647",
+            "\u062a\u0647\u0648\u06cc\u0647 \u062f\u0648\u0645\u0647",
+            "\u0641\u0631\u0627\u0628\u0647\u200c\u06af\u0631\u0627\u06cc\u06cc",
+            "\u0628\u0627\u0632\u0627\u0628\u0627\u0646\u200c\u062f\u0627\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_323",
+        "predicted_answer": [
+            "\u0627\u0645\u0648\u0627\u0631\u062a \u0628\u0627\u0632\u06cc",
+            "\u0627\u0645\u0648\u0627\u0631\u062a \u0631\u0647\u0646\u06cc",
+            "\u0627\u0645\u0648\u0627\u0631\u062a \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0627\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_77",
+        "predicted_answer": [
+            "\u06a9\u0627\u0641\u0647",
+            "\u0633\u0648\u06a9\u0631\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_566",
+        "predicted_answer": [
+            "\u0628\u0646\u06cc\u0646",
+            "\u0633\u0648\u0633\u0645",
+            "\u062a\u0631\u062a\u06cc\u0628",
+            "\u0645\u0631\u0627\u0633\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_259",
+        "predicted_answer": [
+            "\u062a\u0645\u0631\u06cc\u0646",
+            "\u0634\u0628",
+            "\u0627\u0633\u062a\u0647\u0628\u0627\u0647",
+            "\u0633\u0631\u062f\u0627\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_369",
+        "predicted_answer": [
+            "\u0641\u0631\u0633\u062a\u0646 \u0628\u0627 \u0645\u062f\u0627\u062f",
+            "\u062a\u0648\u067e \u0645\u062a\u0648\u0641\u0641 \u0648\u0627\u062f\u06cc \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_50",
+        "predicted_answer": [
+            "\u067e\u0627\u06cc\u062a\u0648\u0646",
+            "\u0627\u0628\u0627\u06a9\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_561",
+        "predicted_answer": [
+            "\u062a\u0641\u06a9\u0631 \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647",
+            "\u062a\u0641\u06a9\u0631 \u0628\u0627 \u062f\u0644\u06cc\u0644",
+            "\u062a\u0641\u06a9\u0631 \u0628\u0627 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_94",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632",
+            "\u062a\u0644\u0648\u06cc\u0632\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_179",
+        "predicted_answer": [
+            "\u0634\u0627\u062f\u0645\u0646\u062f",
+            "\u0647\u0645\u0631\u0627\u0647\u0646\u06af\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_198",
+        "predicted_answer": [
+            "\u0628\u06cc\u0646\u0627\u06cc",
+            "\u0634\u0648\u0639",
+            "\u062a\u0627\u0633\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_443",
+        "predicted_answer": [
+            "\u0627\u0633\u062a\u0642\u0631\u0627\u0647 \u0627\u0633\u0644\u0627\u0645\u06cc",
+            "\u062a\u0639\u0628\u06cc\u0631\u0627\u062a \u0627\u0633\u0644\u0627\u0645\u06cc",
+            "\u0627\u0633\u062a\u0642\u0631\u0627\u0647 \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0633\u062a\u0642\u0631\u0627\u0647 \u0627\u0633\u0644\u0627\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_listbased_377",
+        "predicted_answer": [
+            "\u0642\u0648\u0631\u0645\u0647",
+            "\u06a9\u0648\u062f\u0647",
+            "\u06a9\u0641\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_29",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_195",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_108",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_132",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_142",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_26",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_151",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_200",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_117",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_154",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_116",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_110",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_82",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_161",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_86",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_10",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_144",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_148",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_153",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_14",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_278",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_276",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_249",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_379",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_288",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_285",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_287",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_373",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_377",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_380",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_308",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_271",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_201",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_212",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_286",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_333",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_211",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_335",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_224",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_311",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_544",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_531",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_464",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_600",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_535",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_566",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_487",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_511",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_449",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_583",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_546",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_540",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_499",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_534",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_592",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_501",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_570",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_458",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_554",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_503",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_346",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_401",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_38",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_155",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_465",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_587",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_355",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_348",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_589",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_165",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_229",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_445",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_296",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_177",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_45",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_279",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_72",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_317",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_92",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_301",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_50",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_395",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_590",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_81",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_345",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_588",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_111",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_537",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_595",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_523",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_337",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_568",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_498",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_191",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_543",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_8",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_215",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_598",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_152",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_353",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_314",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_361",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_11",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_547",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_61",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_497",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_430",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_258",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_147",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_269",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_324",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_184",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_112",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_426",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_477",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_342",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_469",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_19",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_326",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_nonanswerable_13",
+        "predicted_answer": []
+    },
+    {
+        "id": "factoid_reasoning_simple_34",
+        "predicted_answer": [
+            "\u0628\u0627\u0644\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_14",
+        "predicted_answer": [
+            "\u062e\u0648\u0634\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_55",
+        "predicted_answer": [
+            "\u0645\u063a\u0648\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_72",
+        "predicted_answer": [
+            "\u0633\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_65",
+        "predicted_answer": [
+            "\u0634\u0646\u0628\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_142",
+        "predicted_answer": [
+            "\u0627\u0646\u062c\u0627\u0645 \u0628\u0627 \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_173",
+        "predicted_answer": [
+            "\u0627\u0632 \u0628\u0627\u0631\u0627\u0646\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_54",
+        "predicted_answer": [
+            "\u0633\u0627\u0633\u0627\u0646\u06cc\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_63",
+        "predicted_answer": [
+            "\u062a\u0648 \u0632\u0627\u0648\u06cc\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_152",
+        "predicted_answer": [
+            "\u0627\u0645\u0646\u06cc\u062a \u0639\u0645\u0648\u0645\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_165",
+        "predicted_answer": [
+            "\u0646\u0627\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_44",
+        "predicted_answer": [
+            "\u0628\u0627\u0631\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_188",
+        "predicted_answer": [
+            "\u062f\u0645\u0627\u0648\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_53",
+        "predicted_answer": [
+            "\u0633\u0646\u062a\u06cc\u0627\u0628 \u0628\u0631\u062f\u0627\u0631 \u0633\u0646\u062a\u06cc\u0627\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_17",
+        "predicted_answer": [
+            "\u06a9\u062a\u0627\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_11",
+        "predicted_answer": [
+            "\u0686\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_155",
+        "predicted_answer": [
+            "\u062f\u0644\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_107",
+        "predicted_answer": [
+            "\u0633\u0647 \u0631\u0646\u06af"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_58",
+        "predicted_answer": [
+            "\u062f\u0627\u0631\u0648\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_33",
+        "predicted_answer": [
+            "\u0622\u0645\u0648\u0632\u0634"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_214",
+        "predicted_answer": [
+            "\u0628\u0631\u0627\u0628\u0631 \u0645\u0633\u0627\u0628\u0642\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_356",
+        "predicted_answer": [
+            "\u0627\u0632 \u0645\u062d\u062f\u0648\u062f \u0642\u0627\u0641\u06cc\u0647 \u0648 \u0632\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_336",
+        "predicted_answer": [
+            "\u062a\u062d\u0644\u06cc\u0644\u06cc \u0628\u0647 \u0627\u0645\u0648\u0627\u0631\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_334",
+        "predicted_answer": [
+            "\u062a\u0648\u0641\u0646 \u0645\u06cc\u200c\u0634\u0648\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_304",
+        "predicted_answer": [
+            "\u0628\u0647\u0627\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_206",
+        "predicted_answer": [
+            "\u0686\u06cc\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_305",
+        "predicted_answer": [
+            "\u067e\u0627\u06cc\u06cc\u0632"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_371",
+        "predicted_answer": [
+            "\u0627\u0632 \u0628\u0631\u0627\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_391",
+        "predicted_answer": [
+            "\u062a\u0627\u0645 \u0628\u0627 \u062c\u0648"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_321",
+        "predicted_answer": [
+            "\u0628\u0627 \u0632\u0645\u0627\u0646 \u0628\u0627 \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_290",
+        "predicted_answer": [
+            "\u0634\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_221",
+        "predicted_answer": [
+            "\u0698\u0627\u067e\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_248",
+        "predicted_answer": [
+            "\u0634\u06a9\u0633\u062a \u0628\u0631\u0627\u06cc \u0628\u0627 \u0634\u062e\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_287",
+        "predicted_answer": [
+            "\u06af\u0634\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_324",
+        "predicted_answer": [
+            "\u0627\u0637\u0631\u0627\u0634 \u0645\u0648\u062a\u0648\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_393",
+        "predicted_answer": [
+            "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0641\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_372",
+        "predicted_answer": [
+            "\u0627\u0647\u067e\u06cc\u0645\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_332",
+        "predicted_answer": [
+            "\u0628\u0631\u062f\u06af\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_335",
+        "predicted_answer": [
+            "\u0622\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_301",
+        "predicted_answer": [
+            "\u06a9\u062a\u0627\u0628\u06cc\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_489",
+        "predicted_answer": [
+            "\u0627\u0646\u06a9\u0627\u0631\u0628\u0627\u062f \u0627\u062c\u0633\u0645 \u0641\u0644\u0632\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_472",
+        "predicted_answer": [
+            "\u0628\u06cc\u200c\u0627\u0648\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_434",
+        "predicted_answer": [
+            "\u0642\u0644\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_424",
+        "predicted_answer": [
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0628\u0627\u0632\u062a\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_552",
+        "predicted_answer": [
+            "\u062a\u0648\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_559",
+        "predicted_answer": [
+            "\u0631\u0641\u06cc\u062a \u0628\u06cc\u0646 \u0627\u0633\u062a\u0646\u0627\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_528",
+        "predicted_answer": [
+            "\u062e\u0648\u0627\u0628"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_450",
+        "predicted_answer": [
+            "\u0627\u0631\u062a\u0642\u0627\u06cc\u06cc \u0628\u0627 \u0634\u0646\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_461",
+        "predicted_answer": [
+            "\u0628\u0644\u0646\u062f\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_495",
+        "predicted_answer": [
+            "\u0628\u0627\u0644\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_436",
+        "predicted_answer": [
+            "\u0627\u0637\u0634\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_543",
+        "predicted_answer": [
+            "\u0628\u06cc\u200c\u0646\u0632\u06cc\u0631\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_402",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0645\u06cc\u200c\u06a9\u0631\u062f\u0646 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_430",
+        "predicted_answer": [
+            "\u0628\u06cc\u200c\u0646\u0638\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_488",
+        "predicted_answer": [
+            "\u0632\u0645\u06cc\u0646\u200c\u06af\u0631\u0627\u06cc\u06cc \u0648 \u0627\u0633\u062a\u0646\u062a\u0627\u062c"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_517",
+        "predicted_answer": [
+            "\u0628\u0632\u0631\u06af\u06cc\u0631 \u06a9\u0627\u0631 \u0627\u0632 \u062a\u0645\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_456",
+        "predicted_answer": [
+            "\u06cc\u062e \u0628\u0648\u062f\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_533",
+        "predicted_answer": [
+            "\u0646\u0631\u0632\u0627\u06cc\u062a\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_466",
+        "predicted_answer": [
+            "\u0628\u06cc\u0634\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_420",
+        "predicted_answer": [
+            "\u0633\u0631\u062f\u0628\u0631\u062f\u06af\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_75",
+        "predicted_answer": [
+            "\u0628\u0631\u0627\u06cc\u0647 \u0632\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_164",
+        "predicted_answer": [
+            "\u0633\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_354",
+        "predicted_answer": [
+            "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_409",
+        "predicted_answer": [
+            "\u0627\u0646\u062e\u0627\u0645 \u0645\u0633\u062c\u062f \u0645\u062d\u0644\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_506",
+        "predicted_answer": [
+            "\u0627\u0646\u0627\u0631\u06a9\u0647 \u0628\u06cc\u0634\u062a\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_386",
+        "predicted_answer": [
+            "\u062a\u0639\u0627\u062f\u0644 \u0628\u0647 \u0632\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_404",
+        "predicted_answer": [
+            "\u062a\u0646\u06af\u200c\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_478",
+        "predicted_answer": [
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0628\u0627 \u0645\u0642\u0627\u0648\u0645\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_320",
+        "predicted_answer": [
+            "\u0627\u062e\u0627\u0644\u06cc\u062a \u0648 \u0645\u0633\u06cc\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_169",
+        "predicted_answer": [
+            "\u062f\u0631\u06cc\u0627\u062c\u062a \u0645\u0642\u0627\u06cc\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_39",
+        "predicted_answer": [
+            "\u0645\u062f\u0631\u0633\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_406",
+        "predicted_answer": [
+            "\u0646\u0648\u0633\u0627\u0646 \u062f\u0645\u0627"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_378",
+        "predicted_answer": [
+            "\u0646\u0641\u0633 \u0645\u06cc\u200c\u06a9\u0634\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_67",
+        "predicted_answer": [
+            "\u0645\u062f\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_253",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u062f\u0633\u062a\u0648\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_295",
+        "predicted_answer": [
+            "\u06cc\u0627\u062f\u06af\u0627\u0647",
+            "\u0627\u0633\u062a\u200c\u0627\u062f\u06cc",
+            "\u0628\u0647\u0627\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_76",
+        "predicted_answer": [
+            "\u0633\u0641\u0631"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_440",
+        "predicted_answer": [
+            "\u0628\u0627 \u0628\u0627 \u0631\u0648\u0632"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_40",
+        "predicted_answer": [
+            "\u067e\u0631\u0648\u06a9\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_257",
+        "predicted_answer": [
+            "\u0647\u0634\u0627\u0631\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_28",
+        "predicted_answer": [
+            "\u062a\u062e\u0645 \u0645\u06cc\u200c\u06af\u0632\u0627\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_254",
+        "predicted_answer": [
+            "\u0646\u0642\u0639 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_262",
+        "predicted_answer": [
+            "\u0633\u0644\u062c\u0642"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_365",
+        "predicted_answer": [
+            "\u0646\u06cc\u0631\u0648\u06cc\u0634 \u0647\u0648\u0634\u06cc\u0645\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_435",
+        "predicted_answer": [
+            "\u0628\u0631\u06a9 \u0646\u0648\u0631\u0648\u06cc\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_444",
+        "predicted_answer": [
+            "\u0628\u0647 \u062e\u0648\u0646 \u0645\u063a\u0632 \u0627\u0632 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_10",
+        "predicted_answer": [
+            "\u062a\u0648\u067e"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_468",
+        "predicted_answer": [
+            "\u0641\u0648\u0634 \u0628\u0646\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_133",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0632\u0627\u06cc\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_514",
+        "predicted_answer": [
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0628\u0647 \u0631\u0648\u0634"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_432",
+        "predicted_answer": [
+            "\u0633\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_558",
+        "predicted_answer": [
+            "\u062a\u0648\u0644\u06cc\u062f \u0645\u062a\u0648\u0644\u06cc\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_119",
+        "predicted_answer": [
+            "\u062a\u062e\u0645 \u0645\u06cc\u200c\u06af\u0632\u0627\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_293",
+        "predicted_answer": [
+            "\u0642\u0631\u0645\u0632 \u0648 \u0632\u0631\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_326",
+        "predicted_answer": [
+            "\u062a\u0634\u06a9\u06cc\u0644 \u0646\u0627\u0645\u0648\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_548",
+        "predicted_answer": [
+            "\u06cc\u0648\u0646\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_185",
+        "predicted_answer": [
+            "\u0644\u0628\u0646\u06cc\u0627\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_236",
+        "predicted_answer": [
+            "\u0645\u062a\u0648\u0641"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_542",
+        "predicted_answer": [
+            "\u0645\u0642\u0627\u0648\u0645\u062a \u0645\u062f\u0627\u0645 \u0628\u0627 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_203",
+        "predicted_answer": [
+            "\u067e\u0631\u0633\u067e\u0648\u0644\u06cc\u0633"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_171",
+        "predicted_answer": [
+            "\u062a\u0648\u0627\u0646 \u0627\u0646\u062a\u0642\u0627\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_38",
+        "predicted_answer": [
+            "\u0632\u0645\u0627\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_111",
+        "predicted_answer": [
+            "\u062a\u0644\u0627\u0634 \u0631\u0648\u062f\u0647\u06cc"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_557",
+        "predicted_answer": [
+            "\u0628\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_231",
+        "predicted_answer": [
+            "\u0627\u06a9\u0633\u06cc\u0698\u0646"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_216",
+        "predicted_answer": [
+            "\u0628\u06cc\u200c\u0646\u0627\u0641\u0631\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_452",
+        "predicted_answer": [
+            "\u0628\u0627\u0632\u06cc \u062a\u0631\u0627\u0641\u06cc\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_191",
+        "predicted_answer": [
+            "\u0627\u0631\u0627\u0645"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_462",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_84",
+        "predicted_answer": [
+            "\u0628\u0631\u0646\u062f\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_149",
+        "predicted_answer": [
+            "\u062a\u0648\u06a9\u06cc\u0648"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_544",
+        "predicted_answer": [
+            "\u0627\u0645\u0632\u0627\u06cc\u0634 \u062f\u0631\u062e\u062a \u0628\u0647 \u062f\u0631\u0648\u063a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_274",
+        "predicted_answer": [
+            "\u0628\u0647\u062a\u0631\u0646\u0627\u06a9"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_136",
+        "predicted_answer": [
+            "\u0645\u0627\u0647"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_223",
+        "predicted_answer": [
+            "\u0628\u0631\u062c \u0627\u06cc\u0641\u0644"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_233",
+        "predicted_answer": [
+            "\u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_583",
+        "predicted_answer": [
+            "\u0627\u0633\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_177",
+        "predicted_answer": [
+            "\u0627\u0646\u062e\u0631\u0627\u0634 \u062f\u0633\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_358",
+        "predicted_answer": [
+            "\u062a\u0648\u0641\u06cc\u06a9 \u0627\u0633\u062a"
+        ]
+    },
+    {
+        "id": "factoid_reasoning_simple_427",
+        "predicted_answer": [
+            "\u0627\u0646\u062a\u06a9\u0627\u0644\u0627\u0633 \u0645\u062f\u0646\u06cc\u062a \u062a\u0634\u06cc\u0639\u06cc"
+        ]
+    }
+]

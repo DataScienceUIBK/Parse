@@ -1,0 +1,2882 @@
+[
+    {
+        "id": "boolean_multihop_comparative_31",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_36",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_26",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_30",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_112",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_16",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_181",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_9",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_126",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_162",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_5",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_190",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_108",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_119",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_32",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_191",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_106",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_13",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_123",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_33",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_314",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_215",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_236",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_233",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_227",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_270",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_343",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_328",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_219",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_359",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_322",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_316",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_319",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_352",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_210",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_237",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_383",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_309",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_277",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_204",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_586",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_436",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_441",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_500",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_417",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_490",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_528",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_547",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_431",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_531",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_420",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_523",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_530",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_475",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_474",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_489",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_535",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_504",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_526",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_527",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_579",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_570",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_326",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_51",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_524",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_159",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_79",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_221",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_169",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_261",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_428",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_491",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_205",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_147",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_206",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_318",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_101",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_432",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_197",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_150",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_239",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_99",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_401",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_442",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_258",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_245",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_453",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_367",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_466",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_137",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_366",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_250",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_182",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_389",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_438",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_238",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_388",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_188",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_167",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_179",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_480",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_415",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_163",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_598",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_439",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_94",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_155",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_412",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_581",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_588",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_452",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_242",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_43",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_109",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_93",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_211",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_320",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_comparative_385",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_461",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_comparative_358",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_133",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_52",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_176",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_14",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_101",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_159",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_122",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_102",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_97",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_154",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_27",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_157",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_147",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_150",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_62",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_24",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_54",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_32",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_192",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_88",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_316",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_229",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_294",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_336",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_209",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_391",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_205",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_227",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_385",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_217",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_218",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_314",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_383",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_311",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_234",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_371",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_372",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_242",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_240",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_324",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_479",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_515",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_599",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_545",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_437",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_557",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_490",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_560",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_498",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_513",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_549",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_565",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_451",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_476",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_419",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_427",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_450",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_462",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_569",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_542",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_465",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_398",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_572",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_460",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_333",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_374",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_142",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_173",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_323",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_598",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_161",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_7",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_213",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_505",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_113",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_124",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_488",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_266",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_401",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_370",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_422",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_149",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_582",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_277",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_282",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_172",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_284",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_523",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_119",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_48",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_10",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_362",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_471",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_231",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_436",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_438",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_134",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_163",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_104",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_581",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_400",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_304",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_456",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_187",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_207",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_276",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_61",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_556",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_244",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_477",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_139",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_481",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_81",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_403",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_369",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_597",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_negation_153",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_387",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_457",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_negation_344",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_21",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_26",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_34",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_25",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_196",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_105",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_15",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_132",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_159",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_97",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_82",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_109",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_185",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_103",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_38",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_35",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_178",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_56",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_189",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_176",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_235",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_267",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_266",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_310",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_400",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_332",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_316",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_292",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_214",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_339",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_284",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_334",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_228",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_342",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_249",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_312",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_304",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_232",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_239",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_378",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_500",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_584",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_488",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_491",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_426",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_470",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_600",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_468",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_483",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_447",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_457",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_509",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_438",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_415",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_424",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_549",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_528",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_595",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_521",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_437",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_198",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_369",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_563",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_478",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_251",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_411",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_167",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_448",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_560",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_248",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_271",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_170",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_388",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_186",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_61",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_472",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_112",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_181",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_404",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_383",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_250",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_47",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_359",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_510",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_156",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_578",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_364",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_455",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_202",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_149",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_81",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_237",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_293",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_397",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_461",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_544",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_73",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_152",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_297",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_496",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_513",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_33",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_134",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_443",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_348",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_408",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_169",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_242",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_395",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_497",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_70",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_127",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_384",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_282",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_596",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_88",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_551",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_multihop_simple_459",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_300",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_multihop_simple_76",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_132",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_112",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_167",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_2",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_5",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_149",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_24",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_99",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_178",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_81",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_180",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_40",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_166",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_98",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_128",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_117",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_192",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_74",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_19",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_200",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_398",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_314",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_243",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_218",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_328",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_358",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_283",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_374",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_261",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_344",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_397",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_215",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_230",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_354",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_282",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_353",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_292",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_236",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_232",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_323",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_532",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_591",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_427",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_560",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_493",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_401",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_529",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_409",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_447",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_584",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_563",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_517",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_491",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_466",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_537",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_460",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_420",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_516",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_459",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_555",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_134",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_93",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_485",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_475",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_245",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_263",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_331",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_486",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_436",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_360",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_175",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_345",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_154",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_90",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_434",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_454",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_210",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_428",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_47",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_424",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_262",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_559",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_249",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_14",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_301",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_219",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_67",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_433",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_28",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_137",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_29",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_403",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_145",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_65",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_586",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_543",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_461",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_229",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_530",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_327",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_35",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_234",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_310",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_9",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_222",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_306",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_68",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_400",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_515",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_524",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_183",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_473",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_382",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_320",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_17",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_421",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_482",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_26",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_comparative_91",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_comparative_217",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_40",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_53",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_88",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_10",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_195",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_24",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_142",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_139",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_121",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_154",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_104",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_101",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_153",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_176",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_175",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_150",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_186",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_188",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_81",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_173",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_373",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_315",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_236",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_253",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_363",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_260",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_249",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_314",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_221",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_354",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_250",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_306",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_205",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_251",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_235",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_379",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_307",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_248",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_385",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_252",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_571",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_441",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_446",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_498",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_505",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_443",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_410",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_567",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_401",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_460",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_530",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_405",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_432",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_496",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_434",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_436",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_502",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_561",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_577",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_481",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_311",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_583",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_332",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_378",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_439",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_266",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_55",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_562",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_196",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_437",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_327",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_120",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_63",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_134",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_524",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_277",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_409",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_160",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_48",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_112",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_458",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_223",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_305",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_532",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_171",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_382",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_576",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_60",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_547",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_328",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_270",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_189",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_256",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_170",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_111",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_564",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_322",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_190",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_573",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_304",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_598",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_280",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_558",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_72",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_580",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_168",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_237",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_291",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_226",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_476",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_42",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_358",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_59",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_19",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_462",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_246",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_423",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_negation_172",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_519",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_negation_542",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_19",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_61",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_93",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_105",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_5",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_146",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_121",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_44",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_73",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_60",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_145",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_8",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_117",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_168",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_153",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_139",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_166",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_95",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_152",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_114",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_347",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_392",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_367",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_331",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_209",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_287",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_299",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_250",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_265",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_268",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_344",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_231",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_321",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_296",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_312",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_275",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_236",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_267",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_282",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_241",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_411",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_445",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_464",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_554",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_488",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_531",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_570",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_436",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_465",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_485",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_469",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_548",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_597",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_444",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_520",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_441",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_596",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_416",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_401",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_446",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_30",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_232",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_77",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_28",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_301",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_590",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_567",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_583",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_18",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_598",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_546",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_207",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_197",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_274",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_256",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_491",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_334",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_39",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_1",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_452",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_102",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_22",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_305",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_338",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_276",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_11",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_269",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_439",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_473",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_523",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_251",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_171",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_181",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_249",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_195",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_427",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_323",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_558",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_494",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_532",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_273",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_440",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_243",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_553",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_13",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_123",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_405",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_571",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_573",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_252",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_298",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_456",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_206",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_7",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_307",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_486",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_89",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_385",
+        "predicted_answer": false
+    },
+    {
+        "id": "boolean_reasoning_simple_88",
+        "predicted_answer": true
+    },
+    {
+        "id": "boolean_reasoning_simple_161",
+        "predicted_answer": true
+    }
+]

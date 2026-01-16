@@ -1,0 +1,12 @@
+First, reason step by step, then return the final answers as a list of short factoid answers that should be in Persian. There may be no ,one or multi-answers (at most 4 answers). Leave the list of answers empty if there is no answer. Return the short factoid answers only in one JSON List format.
+
+Output format:
+
+{
+  "answers": [<short factoid answers (at most 4 short factoid answers)>]
+}
+
+Question: <Question>
+Answer:
+
+

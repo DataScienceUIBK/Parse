@@ -1,0 +1,10 @@
+First, reason step by step, then return the output as JSON.
+
+Output format:
+
+{
+  "answer": "<Only Yes or No>"
+}
+
+Question: <Question>
+Answer:

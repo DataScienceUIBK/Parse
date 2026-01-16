@@ -1,0 +1,45 @@
+Answer the following question with just "Yes" or "No" and return the result in JSON format.
+
+Output format:
+{
+    "answer": <"Yes" or "No">
+}
+
+Question: آیا سیستم تنفسی بدن شامل بینی، نای و ریه‌هاست و برای اکسیژن‌رسانی حیاتی است؟
+Answer:
+{
+    "answer": "Yes"
+}
+
+Question: آیا صحیح است که فردی بدون تمرین بدنی و سابقه مسابقه، ورزشکار حرفه‌ای باشد؟
+Answer:
+{
+    "answer": "No"
+}
+
+Question: آیا لاک‌پشت‌های دریایی که در آب‌های گرمسیری زندگی می‌کنند، اغلب در خشکی زایمان می‌کنند؟
+Answer:
+{
+    "answer": "Yes"
+}
+
+Question: آیا اگر فردی آرام‌تر صحبت کند، همیشه آرام‌تر نیز فکر می‌کند؟
+Answer:
+{
+    "answer": "No"
+}
+
+Question: اگر هیچ پل شکسته‌ای ایمن نباشد، آیا پل سالم ایمن است؟
+Answer:
+{
+    "answer": "Yes"
+}
+
+Question: اگر مثل همیشه باران باعث خیسی خیابان شود و خیابان خشک است، آیا باران باریده؟
+Answer:
+{
+    "answer": "No"
+}
+
+Question: <Question>
+Answer:

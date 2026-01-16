@@ -1,0 +1,4017 @@
+[
+  {
+    "submission_ts": "2025-08-27T17:04:47.730Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_375",
+    "difficulty": "Medium",
+    "question": "چه کسی اولین زن فضانورد در جهان بود و اهل شوروی سابق بود؟",
+    "answer": "والنتینا ترشکوا",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_324",
+    "difficulty": "Medium",
+    "question": "اگر نادرشاه به دهلی حمله کرد، کدام وزن شعری بهتر نظم ارتش را نشان می‌دهد؟",
+    "options": [
+      "هیچ‌کدام",
+      "متقارب",
+      "هزج",
+      "رجز"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_508",
+    "difficulty": "Hard",
+    "question": "کدام یک از مفاهیم اصطلاح‌شناسی عرفانی بیشتر به حوزه زبان‌شناسی نوین نزدیک است تا مفاهیم سنتی؟",
+    "options": [
+      "هیچ‌کدام",
+      "بی‌خودی در زبان",
+      "حضور در غیاب واژه",
+      "جناس صوتی عرفانی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_491",
+    "difficulty": "Hard",
+    "question": "اگر x² = -1، آیا x عدد حقیقی است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_535",
+    "difficulty": "Hard",
+    "question": "اگر تمام ماتریس‌ها وارون‌پذیر نباشند، کدام مدل بیشتر معکوس است؟",
+    "options": [
+      "مدل معکوس",
+      "شبکه عصبی",
+      "هیچ‌کدام",
+      "مدل تقابلی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_454",
+    "difficulty": "Hard",
+    "question": "آیا همه الگوهای با رشد نمایی سخت‌تر از رشد خطی هستند؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_50",
+    "difficulty": "Easy",
+    "question": "دو عنصر شیمیایی که در زندگی روزمره کاربرد زیادی دارند را نام ببرید.",
+    "answer": [
+      "اکسیژن",
+      "آهن"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_508",
+    "difficulty": "Hard",
+    "question": "کدام‌یک از عبارات زیر به عنوان قیاس منطقی صحیح هستند؟",
+    "options": [
+      "Modus Ponens",
+      "Modus Tollens",
+      "Affirming the Consequent",
+      "Denying the Antecedent"
+    ],
+    "answer": [
+      "Modus Ponens",
+      "Modus Tollens"
+    ],
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_318",
+    "difficulty": "Medium",
+    "question": "آیا تعداد سینماهای فعال در کره جنوبی بیشتر از تایوان و فیلیپین است؟",
+    "answer": false,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_279",
+    "difficulty": "Medium",
+    "question": "اگر سبک هندی در شعر فارسی تصویری است، چرا جهت‌گیری قطب‌نما در اشعار نیما یوشیج به سمت جنوب نیست؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_453",
+    "difficulty": "Hard",
+    "question": "کدام مخترع فرانسوی اولین بالون هوای گرم را ساخت و در قرن هجدهم زندگی کرد؟",
+    "answer": "ژوزف مونت‌گولفیه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_80",
+    "difficulty": "Easy",
+    "question": "اگر دنباله عددی شامل ۲، ۴، ۶ باشد ولی قاعده‌اش مشخص نباشد، کدام عدد بعدی است؟",
+    "options": [
+      "۸",
+      "هیچ‌کدام",
+      "۱۲",
+      "۱۴"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_355",
+    "difficulty": "Medium",
+    "question": "کدام شخصیت یونانی با شکست تروآ شناخته می‌شود و در ایلیاد نقش دارد؟",
+    "options": [
+      "پاریس",
+      "هکتور",
+      "هیچ‌کدام",
+      "آشیل"
+    ],
+    "answer": "آشیل",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_124",
+    "difficulty": "Easy",
+    "question": "آیا نمی‌توان پذیرفت که فردی که در آلمان زندگی نمی‌کند و زبان آلمانی بلد نیست، آلمانی نباشد؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_101",
+    "difficulty": "Easy",
+    "question": "آیا سرعت دویدن انسان از سرعت دوچرخه کمتر است و هر دو به‌عنوان روش‌های تحرک استفاده می‌شوند؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_546",
+    "difficulty": "Hard",
+    "question": "کدام مکتب فلسفی در چین باستان، به هماهنگی با طبیعت و 'دائو' تأکید دارد؟",
+    "options": [
+      "کنفوسیوسیسم",
+      "هیچ‌کدام",
+      "تائوئیسم",
+      "بودیسم"
+    ],
+    "answer": "تائوئیسم",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_248",
+    "difficulty": "Medium",
+    "question": "در میان شیوه‌های کشاورزی سنتی، کدام روش بیشتر در مناطق کوهستانی انجام می‌شود و در دشت‌های مرکزی کمتر کاربرد دارد؟",
+    "options": [
+      "چاه دستی",
+      "قنات",
+      "هیچ‌کدام",
+      "تراس‌بندی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_72",
+    "difficulty": "Easy",
+    "question": "اگر زمین در حرکت انتقالی است، چرا ساختار عروض در شعر کهن به صورت کروی نمایش نمی‌یابد؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_403",
+    "difficulty": "Hard",
+    "question": "اگر تمام افعال زمان دارند، کدام اسم بیشتر زمان‌دار است؟",
+    "options": [
+      "آینده",
+      "مکان",
+      "هیچ‌کدام",
+      "لحظه"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_518",
+    "difficulty": "Hard",
+    "question": "کدام جنبه‌های شناختی در تبیین رفتار اخلاقی از منظر علوم اعصاب بررسی می‌شوند؟",
+    "options": [
+      "همدلی",
+      "قضاوت اخلاقی",
+      "تنظیم هیجانی",
+      "سازگاری فرهنگی"
+    ],
+    "answer": [
+      "همدلی",
+      "قضاوت اخلاقی",
+      "تنظیم هیجانی"
+    ],
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_432",
+    "difficulty": "Hard",
+    "question": "آیا تولید علمی ایالات متحده بیشتر از مجموع انگلیس و فرانسه است و هر سه کشور توسعه‌یافته هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_277",
+    "difficulty": "Medium",
+    "question": "اگر هیچ عمل خودکار بدون ورودی آغاز نشود، آیا سیستم بدون ورودی شروع می‌شود؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_289",
+    "difficulty": "Medium",
+    "question": "اگر رنگ آبی آرامش‌آور باشد، کدام طعم پرهیجان‌تر است؟",
+    "options": [
+      "شیرین",
+      "ترش",
+      "هیچ‌کدام",
+      "شور"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_409",
+    "difficulty": "Hard",
+    "question": "اگر هیچ مربی‌ای بدون پیروزی در بازی‌های خانگی قراردادش تمدید نشود، آیا مربی بدون پیروزی تمدید شده؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 4,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_317",
+    "difficulty": "Medium",
+    "question": "اگر ورزشکاران به تغذیه سالم نیاز دارند، چرا واژگان فارسی در حالت مجهول در استادیوم ظاهر نمی‌شوند؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_92",
+    "difficulty": "Easy",
+    "question": "اگر جمعیت تهران بیش از ۸ میلیون نفر است، چرا واکنش شیمیایی بین کربن و اکسیژن تحت تأثیر زبان فارسی قرار نمی‌گیرد؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_99",
+    "difficulty": "Easy",
+    "question": "دو کشور در شرق آسیا که دارای جمعیت زیاد و فناوری پیشرفته هستند را نام ببرید.",
+    "answer": [
+      "ژاپن",
+      "کره جنوبی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_573",
+    "difficulty": "Hard",
+    "question": "مخترع تلفن که در اسکاتلند متولد شد و در آمریکا زندگی کرد کیست؟",
+    "answer": "الکساندر گراهام بل",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_346",
+    "difficulty": "Medium",
+    "question": "در فقه اسلامی، کدام یک از مصادیق زکات بیشتر در فقه اهل سنت مطرح شده و در فقه شیعه جایگاه محدودتری دارد؟",
+    "options": [
+      "زکات طلا و نقره",
+      "زکات گوسفند",
+      "هیچ‌کدام",
+      "زکات فطره"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_334",
+    "difficulty": "Medium",
+    "question": "اگر هیچ A ای B نیست و x عضو A باشد، آیا x می‌تواند B باشد؟",
+    "answer": false,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_169",
+    "difficulty": "Easy",
+    "question": "کدام کشورها اروپایی محسوب می‌شوند و عضو اتحادیه اروپا هستند؟",
+    "options": [
+      "روسیه",
+      "فرانسه",
+      "ایتالیا",
+      "آلمان"
+    ],
+    "answer": [
+      "فرانسه",
+      "ایتالیا",
+      "آلمان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_295",
+    "difficulty": "Medium",
+    "question": "اگر هر سال ۱۲ ماه دارد و فصل تابستان در ماه سوم تا پنجم سال نیست، تابستان در کدام ماه‌هاست؟",
+    "answer": "تیر، مرداد، شهریور",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_472",
+    "difficulty": "Hard",
+    "question": "آیا رقابت فرمول یک که در موناکو برگزار می‌شود، بخشی از مسابقات بین‌المللی خودروهای الکتریکی است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_547",
+    "difficulty": "Hard",
+    "question": "در ساختار منطق سنتی اسلامی، کدام نوع قیاس قابل بازنویسی در منطق صوری غربی نیست؟",
+    "options": [
+      "قیاس شرطی استثنائی",
+      "قیاس اقترانی منفصل",
+      "تمثیل جوهری",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_197",
+    "difficulty": "Easy",
+    "question": "آیا قدرت موتور کامیون بیشتر از پراید است و هر دو خودرو در جاده‌ها تردد می‌کنند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_426",
+    "difficulty": "Hard",
+    "question": "در اقتصاد رفتاری، کدام‌یک رفتار غیرمنطقی محسوب می‌شوند؟",
+    "options": [
+      "قضاوت شهودی",
+      "محاسبه دقیق",
+      "ترجیح فوری",
+      "زیان‌گریزی"
+    ],
+    "answer": [
+      "ترجیح فوری",
+      "زیان‌گریزی",
+      "قضاوت شهودی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_163",
+    "difficulty": "Easy",
+    "question": "کدام کشور عربی به‌خاطر برج خلیفه معروف است؟",
+    "answer": "امارات متحده عربی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_210",
+    "difficulty": "Medium",
+    "question": "آیا طرح‌هایی با تقارن شعاعی بیشتر از تقارن محوری حس تمرکز ایجاد می‌کنند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_76",
+    "difficulty": "Easy",
+    "question": "اگر آب در صفر درجه یخ می‌زند، دمای یخ چیست؟",
+    "answer": "صفر درجه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_258",
+    "difficulty": "Medium",
+    "question": "سه عنصر در ادبیات فارسی را نام ببرید که در اشعار حافظ یا سعدی به عنوان نماد عرفانی تکرار شده‌اند.",
+    "answer": [
+      "می",
+      "باد صبا",
+      "معشوق"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_217",
+    "difficulty": "Medium",
+    "question": "اگر جایزه حذف شود، کدام حرکت بیشتر معنی می‌دهد؟",
+    "options": [
+      "پاس",
+      "شوت",
+      "خوشحالی پس از گل",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_5",
+    "difficulty": "Easy",
+    "question": "کدام نقاشان در جریان هنر معاصر شناخته شده‌اند؟",
+    "options": [
+      "اندی وارهول",
+      "جکسون پولاک",
+      "یایویی کوساما",
+      "لئوناردو داوینچی"
+    ],
+    "answer": [
+      "اندی وارهول",
+      "جکسون پولاک",
+      "یایویی کوساما"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_350",
+    "difficulty": "Medium",
+    "question": "کدام هورمون‌ها در تنظیم خواب نقش دارند؟",
+    "options": [
+      "انسولین",
+      "کورتیزول",
+      "ملاتونین",
+      "سروتونین"
+    ],
+    "answer": [
+      "کورتیزول",
+      "ملاتونین",
+      "سروتونین"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_428",
+    "difficulty": "Hard",
+    "question": "آیا ظاهر دو معادله همیشه نشانه‌ای از شباهت منطقی آن‌هاست؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_286",
+    "difficulty": "Medium",
+    "question": "کدام مفاهیم در منطق صحیح هستند؟",
+    "options": [
+      "¬¬A ≡ A",
+      "A → B ≡ ¬A ∨ B",
+      "¬(A ∧ B) ≡ ¬A ∨ ¬B",
+      "A ∧ B ≡ A ∨ B"
+    ],
+    "answer": [
+      "¬¬A ≡ A",
+      "A → B ≡ ¬A ∨ B",
+      "A ∧ B ≡ A ∨ B"
+    ],
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_39",
+    "difficulty": "Easy",
+    "question": "اگر دو ضلع یک مثلث برابر باشند، آیا مثلث متساوی‌الساقین است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_538",
+    "difficulty": "Hard",
+    "question": "الگوی مهاجرت فصلی پرندگان با کدام روند انسانی هم‌راستا نیست ولی در تضاد هم نیست؟",
+    "options": [
+      "مهاجرت دانش‌آموزان",
+      "هیچ‌کدام",
+      "سفر سیاحتی",
+      "بازگشت مسافران"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_75",
+    "difficulty": "Easy",
+    "question": "کدام خوراک دریایی سرشار از امگا-۳ است و در آب‌های شمالی ایران یافت می‌شود؟",
+    "options": [
+      "میگو",
+      "کوسه",
+      "ماهی سفید",
+      "هیچ‌کدام"
+    ],
+    "answer": "ماهی سفید",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_488",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان گفت خوراکی‌ای که کلسترول ندارد و از چربی حیوانی تهیه نشده، کره حیوانی نیست؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_47",
+    "difficulty": "Easy",
+    "question": "آیا احتمال تعصب در تصمیم‌گیری احساسی بیشتر از تصمیم‌گیری منطقی است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_255",
+    "difficulty": "Medium",
+    "question": "اگر قطر دایره ۱۴ باشد، شعاع آن چیست؟",
+    "options": [
+      "۷",
+      "۶",
+      "هیچ‌کدام",
+      "۵"
+    ],
+    "answer": "۷",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_150",
+    "difficulty": "Easy",
+    "question": "آیا کوه دماوند بلندترین قله ایران است و در شمال کشور قرار دارد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_312",
+    "difficulty": "Medium",
+    "question": "در یک الگوی ضربی: ۲، ۶، ۱۸، ۵۴، عدد بعدی چیست؟",
+    "options": [
+      "۱۶۲",
+      "۱۲۸",
+      "هیچ‌کدام",
+      "۱۴۴"
+    ],
+    "answer": "۱۶۲",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_1",
+    "difficulty": "Easy",
+    "question": "آیا ۲x = x + x برای همه x‌های حقیقی برقرار است؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_438",
+    "difficulty": "Hard",
+    "question": "کدام ریاضیدان هندی بدون آموزش رسمی فرمول‌های پیچیده را کشف کرد؟",
+    "answer": "سرینیواسا رامانوجان",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_112",
+    "difficulty": "Easy",
+    "question": "آیا کتابی که قرآن نام دارد، توسط مسلمانان به عنوان کتاب مقدس شناخته می‌شود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_14",
+    "difficulty": "Easy",
+    "question": "کدام گزینه‌ها مفاهیم پایه منطق ریاضی هستند؟",
+    "options": [
+      "گزاره",
+      "استدلال",
+      "متغیر",
+      "بازیگری"
+    ],
+    "answer": [
+      "گزاره",
+      "استدلال",
+      "متغیر"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_537",
+    "difficulty": "Hard",
+    "question": "اگر هیچ انسان پرنده نیست و نرگس پرواز می‌کند، پس نرگس چیست؟",
+    "options": [
+      "فرشته است",
+      "انسان نیست",
+      "هیچ‌کدام",
+      "پرنده است"
+    ],
+    "answer": "انسان نیست",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_181",
+    "difficulty": "Easy",
+    "question": "آیا دین اسلام که قرآن را کتاب مقدس خود می‌داند، پیروانی در کشور ایران دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_301",
+    "difficulty": "Medium",
+    "question": "چند درصد از متون رسانه‌ای فارسی دهه ۹۰ با الگوهای زبانی ضدترتیبی سازگار هستند؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_160",
+    "difficulty": "Easy",
+    "question": "اگر هیچ کشور اروپایی واحد پول دلار نداشته باشد، آیا آلمان می‌تواند دلار استفاده کند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_418",
+    "difficulty": "Hard",
+    "question": "در یک بازی منطقی، اگر هر بازیکنی که تقلب می‌کند حذف می‌شود و علی حذف شده، چه می‌توان گفت؟",
+    "options": [
+      "علی حتماً تقلب کرده",
+      "علی تقلب کرده",
+      "شاید علی تقلب نکرده باشد",
+      "علی به دلیل تقلب حذف شده"
+    ],
+    "answer": [
+      "علی حتماً تقلب کرده",
+      "علی به دلیل تقلب حذف شده"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_440",
+    "difficulty": "Hard",
+    "question": "اگر شب و روز به علت چرخش زمین ایجاد می‌شوند و اکنون روز است، زمین در چه وضعیتی است؟",
+    "answer": "نیم‌کره‌ای که به سمت خورشید است",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_452",
+    "difficulty": "Hard",
+    "question": "اگر همه قوانین معتبر استدلال‌پذیرند و این قانون استدلال‌ناپذیر است، آیا معتبر است؟",
+    "answer": false,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_515",
+    "difficulty": "Hard",
+    "question": "اگر تمام احزاب در انتخابات شکست خورده‌اند جز یک حزب، کدام حزب اکثریت دارد؟",
+    "options": [
+      "همه",
+      "هیچ‌کدام",
+      "حزب پیروز",
+      "حزبی ندارد"
+    ],
+    "answer": "حزب پیروز",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_392",
+    "difficulty": "Medium",
+    "question": "دو شمای فضایی را نام ببرید که در طراحی موزه‌ها کاربرد متفاوتی دارند.",
+    "answer": [
+      "سیرکولاسیون خطی",
+      "پلان مرکزی"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_524",
+    "difficulty": "Hard",
+    "question": "دو زبان سطح بالا را نام ببرید که یکی بیشتر برای تعاملی‌بودن و دیگری برای پردازش سیستم طراحی شده است.",
+    "answer": [
+      "جاوااسکریپت",
+      "C++"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_48",
+    "difficulty": "Easy",
+    "question": "اگر هیچ عددی در فاصله بین ۵ و ۱۰ برابر ۲۰ نباشد، آیا عدد ۶ می‌تواند برابر ۲۰ باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_211",
+    "difficulty": "Medium",
+    "question": "سه شاخه علمی که در طراحی سیستم‌های شهر هوشمند استفاده می‌شوند را نام ببرید.",
+    "answer": [
+      "مهندسی عمران",
+      "علوم داده",
+      "حمل‌ونقل هوشمند"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_40",
+    "difficulty": "Easy",
+    "question": "اگر انسان با مغز فکر می‌کند، رایانه با چه چیزی پردازش می‌کند؟",
+    "answer": "پردازنده (CPU)",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_61",
+    "difficulty": "Easy",
+    "question": "کدام رود بزرگ در چین جریان دارد و از پرجمعیت‌ترین نواحی جهان می‌گذرد؟",
+    "options": [
+      "یانگ‌تسه",
+      "راین",
+      "هیچ‌کدام",
+      "آمازون"
+    ],
+    "answer": "یانگ‌تسه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_306",
+    "difficulty": "Medium",
+    "question": "سه شیء را نام ببرید که عملکردشان وابسته به اصطکاک است.",
+    "answer": [
+      "ترمز خودرو",
+      "پاک‌کن",
+      "کفش ورزشی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_300",
+    "difficulty": "Medium",
+    "question": "کدام دریاچه میان مرز ایران و ارمنستان قرار دارد و از نوع نمکی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "دریاچه ارومیه",
+      "دریاچه سوان",
+      "دریاچه وان"
+    ],
+    "answer": "دریاچه ارومیه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_404",
+    "difficulty": "Hard",
+    "question": "آیا مسابقات موتورکراس در مسیرهای خاکی و ناهموار برگزار می‌شوند و شامل پرش‌های متعدد هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_50",
+    "difficulty": "Easy",
+    "question": "اگر کتابخانه ملی ایران مرکزی برای نگهداری منابع مکتوب است، چند درصد از منابع آن با موضوع فرهنگ عامه دهه ۵۰ طبقه‌بندی شده‌اند؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_336",
+    "difficulty": "Medium",
+    "question": "کدام دوره نقاشی اروپایی شامل نقاشانی چون داوینچی و رافائل است؟",
+    "options": [
+      "هیچ‌کدام",
+      "باروک",
+      "روکوکو",
+      "رنسانس"
+    ],
+    "answer": "رنسانس",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_442",
+    "difficulty": "Hard",
+    "question": "کدام جنگ‌ها هم در قرن بیستم رخ داده‌اند و هم اثرات جهانی بر اقتصاد داشته‌اند؟",
+    "options": [
+      "جنگ کره",
+      "جنگ جهانی دوم",
+      "جنگ ویتنام",
+      "جنگ جهانی اول"
+    ],
+    "answer": [
+      "جنگ جهانی دوم",
+      "جنگ ویتنام",
+      "جنگ جهانی اول"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_230",
+    "difficulty": "Medium",
+    "question": "خواننده‌ای که آواز ابوعطا را در دوران پهلوی اول اجرا کرده، در چه مقاله‌ای درباره بازی‌های رایانه‌ای در لهستان ذکر شده است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_275",
+    "difficulty": "Medium",
+    "question": "سه متفکر معاصر که در حوزه فلسفه علم تأثیرگذار بوده‌اند را نام ببرید.",
+    "answer": [
+      "کارل پوپر",
+      "توماس کوهن",
+      "پل فایرآبند"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_250",
+    "difficulty": "Medium",
+    "question": "سه هنر سنتی شرق آسیا که تأثیر جهانی داشته‌اند را نام ببرید.",
+    "answer": [
+      "خطاطی چینی",
+      "نقاشی ژاپنی",
+      "تئاتر سایه‌ای اندونزی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_266",
+    "difficulty": "Medium",
+    "question": "آیا درست است که کشوری که پایتخت آن مسکو نیست و زبان رسمی آن روسی نیست، روسیه است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_374",
+    "difficulty": "Medium",
+    "question": "کدام پروتکل‌ها در لایهٔ کاربرد شبکه هستند؟",
+    "options": [
+      "HTTP",
+      "FTP",
+      "IP",
+      "DNS"
+    ],
+    "answer": [
+      "HTTP",
+      "FTP",
+      "DNS"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_383",
+    "difficulty": "Medium",
+    "question": "آیا نواک جوکوویچ که تنیس‌باز مشهوری است، از کشوری در آفریقا آمده و در مسابقات گرند اسلم قهرمان شده؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_102",
+    "difficulty": "Easy",
+    "question": "آیا عدد ۰ عدد طبیعی است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_112",
+    "difficulty": "Easy",
+    "question": "اگر هیچ مثلثی نتواند چهار زاویه داشته باشد، آیا شکل با چهار زاویه مثلث است؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_191",
+    "difficulty": "Easy",
+    "question": "شخصی که روش شستن سبزی با نمک را آموزش داد، در چه پروژه‌ای برای طراحی سامانه ضدعفونی خودکار در لیبریا نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_405",
+    "difficulty": "Hard",
+    "question": "چهار مؤلفه تحلیلی را نام ببرید که مربیان از آن برای طراحی استراتژی استفاده می‌کنند.",
+    "answer": [
+      "ویدئوهای بازی قبلی",
+      "آمار حریف",
+      "رفتار بازیکن کلیدی",
+      "سرعت چرخش توپ"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_526",
+    "difficulty": "Hard",
+    "question": "کدام نویسنده ایتالیایی، کتاب 'کمدی الهی' را به سه بخش تقسیم کرده است؟",
+    "options": [
+      "هیچ‌کدام",
+      "ماکیاولی",
+      "دانته",
+      "پترارک"
+    ],
+    "answer": "دانته",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_545",
+    "difficulty": "Hard",
+    "question": "کدام کشور آسیایی در کشتی سومو پیشتاز است و ریشه فرهنگی آن در معابد قرار دارد؟",
+    "answer": "ژاپن",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_22",
+    "difficulty": "Easy",
+    "question": "اگر مساحت مربع برابر ضلع در ضلع باشد و ضلعی برابر ۵ باشد، آیا مساحت برابر ۲۵ است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_365",
+    "difficulty": "Medium",
+    "question": "کدام یک از شیوه‌های آموزش شفاهی در ایران الگویی دارد که در نظام آموزشی مدرن کاربرد ندارد و در مدل‌های آسیایی نیز نیست؟",
+    "options": [
+      "نقل سینه‌به‌سینه داستان مذهبی",
+      "آموزش با ضرب‌المثل تطبیقی",
+      "تدریس با حکایت تمثیلی",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_73",
+    "difficulty": "Easy",
+    "question": "دو ابزار را نام ببرید که در نقشه‌برداری و طراحی معماری مشترک استفاده می‌شوند.",
+    "answer": [
+      "متر لیزری",
+      "تراز"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_600",
+    "difficulty": "Hard",
+    "question": "سه پدیده را نام ببرید که در فیزیک کوانتومی مشاهده آن‌ها باعث تغییر در خود پدیده می‌شود.",
+    "answer": [
+      "اصل عدم قطعیت",
+      "دوگانگی موج-ذره",
+      "اثر ناظر"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_324",
+    "difficulty": "Medium",
+    "question": "در یک مسابقه ریاضی، اگر هر سوال درست ۳ امتیاز و هر سوال غلط ۱ امتیاز منفی داشته باشد، کدام گزینه‌ها می‌توانند نشان‌دهنده‌ی استراتژی‌های برنده باشند؟",
+    "options": [
+      "پاسخ‌دادن تصادفی به سوالات",
+      "پاسخ‌ندادن به هیچ سوالی",
+      "پاسخ‌ندادن به سوالات مشکوک",
+      "پاسخ‌دادن به تمام سوالات با احتمال خطای کم"
+    ],
+    "answer": [
+      "پاسخ‌ندادن به سوالات مشکوک",
+      "پاسخ‌دادن به تمام سوالات با احتمال خطای کم"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_2",
+    "difficulty": "Easy",
+    "question": "دو کشور را نام ببرید که تیم‌های ملی بسکتبال آن‌ها در سطح جهانی شناخته‌شده‌اند.",
+    "answer": [
+      "آمریکا",
+      "اسپانیا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_395",
+    "difficulty": "Medium",
+    "question": "اگر نقشه‌های جغرافیایی برای نمایش مرزها استفاده می‌شوند، چرا هنوز هیچ نقشه‌ای با قواعد تجزیه نحوی زبان فارسی رسم نشده؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_555",
+    "difficulty": "Hard",
+    "question": "در دوره‌ای که زبان عربی به سیستم آموزشی ایران وارد شد، کدام کشور بیشترین تولید نقره را داشت؟",
+    "options": [
+      "هیچ‌کدام",
+      "پرو",
+      "چین",
+      "استرالیا"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_339",
+    "difficulty": "Medium",
+    "question": "شخصی که درباره ساختار اسطوره‌ای شاهنامه تحقیق کرده، در کدام پروژه تحلیل گفتمان سیاسی در تووالو تأثیرگذار بوده است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_41",
+    "difficulty": "Easy",
+    "question": "کدام یک از شعرای نامدار ایرانی به‌طور هم‌زمان در حوزه عرفان، فلسفه و حکمت فعالیت داشته ولی آثار داستانی کم‌تر دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "سعدی",
+      "نظامی",
+      "خیام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_443",
+    "difficulty": "Hard",
+    "question": "کتابی که شامل فلسفه و نگاه تاریخی ابن خلدون به تمدن‌ها است و یکی از اولین آثار جامعه‌شناسی تلقی می‌شود، چیست؟",
+    "options": [
+      "السیاسة الشرعیة",
+      "مقدمه",
+      "تاریخ یعقوبی",
+      "هیچ‌کدام"
+    ],
+    "answer": "مقدمه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_113",
+    "difficulty": "Easy",
+    "question": "دو شهر ایران که دارای بناهای دوران ساسانی هستند را نام ببرید.",
+    "answer": [
+      "فیروزآباد",
+      "کازرون"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_181",
+    "difficulty": "Easy",
+    "question": "دو رفتار اجتماعی را نام ببرید که در فرهنگ ایرانی نشانگر احترام هستند.",
+    "answer": [
+      "بلند شدن برای سالمند",
+      "استفاده از لفظ شما"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_257",
+    "difficulty": "Medium",
+    "question": "کدام گزینه بیشتر به 'چراغ قرمز' شباهت دارد: هشدار، سرعت، حرکت، شادی؟",
+    "answer": "هشدار",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_68",
+    "difficulty": "Easy",
+    "question": "کسی که اولین کتاب آموزش خوشنویسی برای نابینایان را نوشت، در چه همکاری درباره تحلیل داده‌های اقلیمی در گامبیا مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_339",
+    "difficulty": "Medium",
+    "question": "کدام کشورها در توسعه فناوری اینترنت و شبکه پیشرو بوده‌اند؟",
+    "options": [
+      "کره جنوبی",
+      "مکزیک",
+      "ژاپن",
+      "آمریکا"
+    ],
+    "answer": [
+      "کره جنوبی",
+      "ژاپن",
+      "آمریکا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_162",
+    "difficulty": "Easy",
+    "question": "کارگردانی که نمایش‌های کودک در دهه ۵۰ تولید کرد، چگونه در طراحی فناوری‌های واقعیت افزوده در لتونی اثرگذار بوده است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_458",
+    "difficulty": "Hard",
+    "question": "اگر هیچ جسمی بدون حجم سه‌بعدی نباشد، آیا سطح دوبعدی می‌تواند جسم سه‌بعدی باشد؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_289",
+    "difficulty": "Medium",
+    "question": "خوشنویسی که قرآنی به خط نسخ در شیراز کتابت کرده، چگونه در توسعه سیستم‌عامل‌های توزیع‌شده در اوکراین نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_239",
+    "difficulty": "Medium",
+    "question": "آیا طول دیوار چین بیشتر از دیوار برلین است و هر دو برای محافظت ساخته شده‌اند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_51",
+    "difficulty": "Easy",
+    "question": "نویسنده‌ای که درباره تجربه اولین رانندگی در تهران مقاله نوشت، چگونه در ساخت سیستم‌های تشخیص چهره برای ترافیک در چاد مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_99",
+    "difficulty": "Easy",
+    "question": "کدام یک از ترکیبات غذایی سنتی ایرانی با گیاهی تهیه می‌شود که در مناطق قطبی رشد نمی‌کند و از نظر طب سنتی طبع گرم دارد؟",
+    "options": [
+      "قورمه‌سبزی",
+      "فسنجان",
+      "هیچ‌کدام",
+      "عدس‌پلو"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_332",
+    "difficulty": "Medium",
+    "question": "وقتی شعری فراموش شود، کدام واژه زنده‌تر باقی می‌ماند؟",
+    "options": [
+      "دل",
+      "راه",
+      "هیچ‌کدام",
+      "سکوت"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_424",
+    "difficulty": "Hard",
+    "question": "آیا استفاده از زبان قطعی در گزارش‌ها باعث افزایش خطای تصمیم‌گیری می‌شود؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_16",
+    "difficulty": "Easy",
+    "question": "سه ساز موسیقی سنتی ایرانی را نام ببرید که با دست نواخته می‌شوند.",
+    "answer": [
+      "تنبک",
+      "دف",
+      "دایره"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_590",
+    "difficulty": "Hard",
+    "question": "اگر مطالعات تطبیقی در آموزش رایج شده‌اند، چه تعداد از پروژه‌های تطبیقی آموزش زبان فارسی با زبان چینی بین ۱۳۹۰ تا ۱۴۰۰ انجام شده‌اند؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_565",
+    "difficulty": "Hard",
+    "question": "کدام نظریه‌پرداز فرانسوی مفهوم ساخت‌زدایی (Deconstruction) را مطرح کرد؟",
+    "options": [
+      "فوکو",
+      "لوی استراوس",
+      "ژاک دریدا",
+      "هیچ‌کدام"
+    ],
+    "answer": "ژاک دریدا",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_273",
+    "difficulty": "Medium",
+    "question": "اگر دوره قاجار با بحران‌های سیاسی مواجه بوده، کدام فصل سال ناپایدارتر است؟",
+    "options": [
+      "بهار",
+      "تابستان",
+      "پاییز",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_262",
+    "difficulty": "Medium",
+    "question": "آیا مقایسه دو دوره تاریخی با ساختار حکومتی متفاوت سخت‌تر از دوره‌هایی با ساختار مشابه است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_99",
+    "difficulty": "Easy",
+    "question": "آیا خودروهای سواری معمولاً ۴ چرخ دارند و برای حمل‌ونقل شهری طراحی شده‌اند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_223",
+    "difficulty": "Medium",
+    "question": "اگر هیچ واحد پولی نتواند در بیش از یک کشور رسمی باشد مگر با توافق، آیا یورو با توافق قابل استفاده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_236",
+    "difficulty": "Medium",
+    "question": "مربی‌ای که تمرینات تنفسی برای شناگران طراحی کرد، چگونه در پژوهشی درباره مانیتورینگ خواب در سورینام نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_597",
+    "difficulty": "Hard",
+    "question": "چهار ویژگی را نام ببرید که سیستم پیچیده را از سیستم ساده متمایز می‌کند.",
+    "answer": [
+      "وابستگی به شرایط اولیه",
+      "بازخورد غیرخطی",
+      "ظهور رفتار جدید",
+      "عدم‌قابلیت پیش‌بینی کامل"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_109",
+    "difficulty": "Easy",
+    "question": "دو واحد اندازه‌گیری را نام ببرید که یکی برای زمان و دیگری برای جرم استفاده می‌شود.",
+    "answer": [
+      "ثانیه",
+      "کیلوگرم"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_401",
+    "difficulty": "Hard",
+    "question": "آیا نرخ مهاجرت سالانه از سوریه بیشتر از افغانستان و یمن به صورت ترکیبی بوده است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_573",
+    "difficulty": "Hard",
+    "question": "کدام یک از الگوهای بلاغی در ادبیات عرفانی ایرانی دارای ساختاری است که در بلاغت یونانی وجود ندارد و در سبک هندی رایج نیست؟",
+    "options": [
+      "تلمیح درونی رمزی",
+      "هیچ‌کدام",
+      "استعاره‌ سیال",
+      "کنایه‌ تلفیقی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_81",
+    "difficulty": "Easy",
+    "question": "اگر آموزش زبان فارسی در مدارس اجباری است، چرا تاکنون ساختار صرف فعل‌ها در آزمایشگاه فیزیک بررسی نشده؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_401",
+    "difficulty": "Hard",
+    "question": "آیا صحیح است که کسی که هیچ‌گاه در انتخابات شرکت نکرده و سمتی نگرفته، نماینده مردم باشد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_559",
+    "difficulty": "Hard",
+    "question": "آیا ارزیابی اعتبار دو نظریه هم‌راستا ساده‌تر از دو نظریه متضاد است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_467",
+    "difficulty": "Hard",
+    "question": "کدام سازمان‌های جهانی بر اینترنت و امنیت سایبری نظارت دارند؟",
+    "options": [
+      "یونسکو",
+      "ICANN",
+      "IETF",
+      "ITU"
+    ],
+    "answer": [
+      "ICANN",
+      "IETF",
+      "ITU"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_249",
+    "difficulty": "Medium",
+    "question": "آیا مقایسه دنباله‌هایی با ظاهر متفاوت ولی نتیجه مشابه همیشه دشوار است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_345",
+    "difficulty": "Medium",
+    "question": "اگر شورای نگهبان مسئول نظارت بر انتخابات است، چه تعداد از رد صلاحیت‌ها در انتخابات مجلس هفتم به دلایل ساختاری غیرحقوقی نسبت داده شدند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_28",
+    "difficulty": "Easy",
+    "question": "اگر پرنده‌ها تخم می‌گذارند و عقاب یک پرنده است، عقاب چه می‌کند؟",
+    "answer": "تخم می‌گذارد",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_227",
+    "difficulty": "Medium",
+    "question": "سه گروه از حیوانات را نام ببر که تخم می‌گذارند.",
+    "answer": [
+      "پرندگان",
+      "خزندگان",
+      "ماهی‌ها"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_15",
+    "difficulty": "Easy",
+    "question": "کدام یک از سازهای بادی سنتی ایران دارای ساختاری است که در موسیقی ارمنی استفاده نمی‌شود و در ارکستر ترکی نیز نیست؟",
+    "options": [
+      "سرنا",
+      "نای بندری",
+      "هیچ‌کدام",
+      "قرنه"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_250",
+    "difficulty": "Medium",
+    "question": "آیا سرعت نور در خلاء کندتر از سرعت صوت در هوا است و به اجسام برخورد می‌کند؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_94",
+    "difficulty": "Easy",
+    "question": "آیا نویسنده «بوف کور» در رشته مهندسی عمران از دانشگاه تهران فارغ‌التحصیل شده است؟",
+    "options": [
+      "صادق هدایت",
+      "هیچ‌کدام",
+      "هوشنگ گلشیری",
+      "جلال آل‌احمد"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_108",
+    "difficulty": "Easy",
+    "question": "کدام حیوان در مناطق قطبی زندگی می‌کند و دارای خز سفید است؟",
+    "options": [
+      "خرس قطبی",
+      "پنگوئن",
+      "هیچ‌کدام",
+      "گراز دریایی"
+    ],
+    "answer": "خرس قطبی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_442",
+    "difficulty": "Hard",
+    "question": "آیا میانگین دمای سطح اقیانوس آرام در سال ۲۰۲۳ از دهه ۸۰ میلادی بالاتر رفته است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_14",
+    "difficulty": "Easy",
+    "question": "آیا هر مشاهده در آزمایش علمی به یک نتیجه مشخص منتهی می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_370",
+    "difficulty": "Medium",
+    "question": "آیا صحیح نیست که کشوری که تولیدکننده موز نیست و در آمریکای مرکزی قرار ندارد، صادرکننده موز نباشد؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_37",
+    "difficulty": "Easy",
+    "question": "کدام کشور آمریکای جنوبی شهر سانتیاگو را دارد و زبان رسمی آن اسپانیایی است؟",
+    "answer": "شیلی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_422",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان پذیرفت که سازمانی که آموزش بین‌المللی را ترویج نمی‌دهد و در پاریس نیست، یونسکو نباشد؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_301",
+    "difficulty": "Medium",
+    "question": "آیا بیشتر تمرین کردن همیشه نتیجه بهتری می‌دهد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_258",
+    "difficulty": "Medium",
+    "question": "آیا صنعت گردشگری در ایتالیا سهم بزرگی در اقتصاد این کشور دارد و شهرهایی مانند رم و ونیز مقصد گردشگری هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_485",
+    "difficulty": "Hard",
+    "question": "کدام یک از اصطلاحات فلسفی در عرفان نظری ایرانی با اصطلاحات مابعدالطبیعه غربی هم‌پوشانی ندارد؟",
+    "options": [
+      "نور حضوری",
+      "تجلی اسماء",
+      "صادر اول",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_149",
+    "difficulty": "Easy",
+    "question": "آیا نمی‌توان انکار کرد که فردی که هیچ‌گاه سفر نرفته و پاسپورت ندارد، مسافر بین‌المللی نیست؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_47",
+    "difficulty": "Easy",
+    "question": "آیا شتر که در مناطق بیابانی زندگی می‌کند، می‌تواند بال بزند و پرواز کند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_546",
+    "difficulty": "Hard",
+    "question": "چهار ابزار تحلیل داده که در علوم انسانی مدرن کاربرد دارند را نام ببرید.",
+    "answer": [
+      "پایتون",
+      "آر",
+      "NVivo",
+      "Gephi"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_305",
+    "difficulty": "Medium",
+    "question": "اگر همه فلزات رسانا هستند ولی این ماده نارساناست، آیا فلز است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_555",
+    "difficulty": "Hard",
+    "question": "اگر هیچ عدد اولی زوج نباشد جز ۲ و عددی زوج و اول باشد، آن عدد چیست؟",
+    "options": [
+      "۳",
+      "۲",
+      "۵",
+      "هیچ‌کدام"
+    ],
+    "answer": "۲",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_582",
+    "difficulty": "Hard",
+    "question": "آیا صحیح نیست که کشوری که با اقیانوس اطلس مرز ندارد و در غرب اروپا نیست، پرتغال نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_338",
+    "difficulty": "Medium",
+    "question": "اگر x + y = 10 و x = 6، آیا y = 4؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_277",
+    "difficulty": "Medium",
+    "question": "آیا اشتباه نیست که تصور کنیم کسی که در صحنه تئاتر حاضر نشده و نقش نداشته، بازیگر صحنه است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_305",
+    "difficulty": "Medium",
+    "question": "اگر هیچ معادله‌ای بدون داشتن دو طرف مساوی معتبر نباشد، آیا ۳=۳ معتبر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_599",
+    "difficulty": "Hard",
+    "question": "در معادله خطی y = mx + b، اگر m=۰ باشد، گراف چگونه است؟",
+    "options": [
+      "خط افقی",
+      "شیب صفر",
+      "تابع ثابت",
+      "خط عمودی"
+    ],
+    "answer": [
+      "خط افقی",
+      "شیب صفر",
+      "تابع ثابت"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_392",
+    "difficulty": "Medium",
+    "question": "سه فیلمساز غربی که آثارشان با مضامین فلسفی شناخته می‌شود را نام ببرید.",
+    "answer": [
+      "کریستوفر نولان",
+      "استنلی کوبریک",
+      "تارکوفسکی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_222",
+    "difficulty": "Medium",
+    "question": "کدام کشورها دارای آتشفشان‌های فعال‌اند؟",
+    "options": [
+      "مصر",
+      "ایتالیا",
+      "اندونزی",
+      "ژاپن"
+    ],
+    "answer": [
+      "ژاپن",
+      "اندونزی",
+      "ایتالیا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_255",
+    "difficulty": "Medium",
+    "question": "در زمان تأسیس نخستین کارخانه فولاد ایران، کدام یک از این صنایع سبک هنوز در کشور فعال نبودند؟",
+    "options": [
+      "هیچ‌کدام",
+      "صنعت غذایی",
+      "صنعت خودروسازی",
+      "صنعت چوب"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_219",
+    "difficulty": "Medium",
+    "question": "آیا عملکرد خوب در تمرین تضمین‌کننده موفقیت در مسابقه است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_454",
+    "difficulty": "Hard",
+    "question": "پنج عامل را نام ببرید که چرخه فقر را در یک جامعه بازتولید می‌کنند.",
+    "answer": [
+      "کمبود آموزش",
+      "بیکاری",
+      "ضعف نهادها",
+      "سلامت پایین",
+      "وابستگی اقتصادی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_161",
+    "difficulty": "Easy",
+    "question": "چه کشوری بزرگ‌ترین صادرکننده نفت در جهان است و ریاض پایتخت آن است؟",
+    "answer": "عربستان سعودی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_464",
+    "difficulty": "Hard",
+    "question": "پژوهشگری که درباره ساختار معماری کلاس‌های سنتی ایرانی تحقیق کرد، در چه پروژه‌ای برای طراحی حسگرهای فرهنگی در مالت مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_282",
+    "difficulty": "Medium",
+    "question": "آیا درست است که کشوری که برنامه فضایی فعال ندارد و ایستگاه فضایی ندارد، روسیه باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_245",
+    "difficulty": "Medium",
+    "question": "آیا تولید زعفران در ایران بیشتر از افغانستان است و هر دو از صادرکنندگان عمده‌اند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_71",
+    "difficulty": "Easy",
+    "question": "اگر یک مربع چهار ضلع مساوی دارد، چه نوع چندضلعی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "منظم",
+      "نامنظم",
+      "مثلث"
+    ],
+    "answer": "منظم",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_254",
+    "difficulty": "Medium",
+    "question": "اگر کودک مداد را اشتباه بگیرد، نوشتنش چگونه خواهد بود؟",
+    "answer": "سخت یا نامنظم",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_40",
+    "difficulty": "Easy",
+    "question": "در فرهنگ تعارف ایرانی، کدام رفتار کمتر در مراسم رسمی دیپلماتیک پذیرفته شده و بیشتر محاوره‌ای است؟",
+    "options": [
+      "اصرار بر خوردن دوباره",
+      "تعارف صوری با لبخند",
+      "هیچ‌کدام",
+      "پیش‌دستی در پذیرایی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_74",
+    "difficulty": "Easy",
+    "question": "چه رابطه‌ای بین عدد ۳ و حرف 'س' می‌تواند استدلال ناپذیر باشد؟",
+    "options": [
+      "نسبت هندسی",
+      "حروف تکراری",
+      "شکل مبهم",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_500",
+    "difficulty": "Hard",
+    "question": "چهار کشور آسیایی که دارای اکثریت جمعیت شیعه هستند را نام ببرید.",
+    "answer": [
+      "ایران",
+      "عراق",
+      "بحرین",
+      "آذربایجان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_453",
+    "difficulty": "Hard",
+    "question": "آیا درآمد سرانه کشورهای اسکاندیناوی در سال ۲۰۲۳ از مجموع ایران، عراق و افغانستان بیشتر بوده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_97",
+    "difficulty": "Easy",
+    "question": "اگر هر عدد زوج بر ۲ بخش‌پذیر باشد، عدد ۱۴ چه ویژگی دارد؟",
+    "options": [
+      "اول است",
+      "بر ۲ بخش‌پذیر است",
+      "هیچ‌کدام",
+      "بر ۳ بخش‌پذیر است"
+    ],
+    "answer": "بر ۲ بخش‌پذیر است",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_367",
+    "difficulty": "Medium",
+    "question": "آیا تعداد تماشاگران فینال جام جهانی فوتبال بیشتر از فینال سوپربول آمریکاست و هر دو رویدادهای مهم ورزشی هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_262",
+    "difficulty": "Medium",
+    "question": "اگر سلسله سلجوقیان پس از غزنویان قدرت گرفتند، جایگاه تاریخی سلجوقیان چیست؟",
+    "answer": "میان‌دوره اسلامی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_532",
+    "difficulty": "Hard",
+    "question": "اگر هیچ رابطه‌ای بین قدرمطلق‌ها بدون تقارن ممکن نباشد، آیا |x|=|−x| متقارن است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_26",
+    "difficulty": "Easy",
+    "question": "اگر ساعت ۳ باشد و ۲ ساعت دیگر بگذرد، ساعت چند می‌شود؟",
+    "options": [
+      "۴",
+      "۵",
+      "هیچ‌کدام",
+      "۶"
+    ],
+    "answer": "۵",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_237",
+    "difficulty": "Medium",
+    "question": "چه کسی خالق کاراکتر شرلوک هولمز است و اهل بریتانیا بود؟",
+    "answer": "آرتور کانن دویل",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_588",
+    "difficulty": "Hard",
+    "question": "اگر دونده‌ای رکورد جهانی بشکند، چرا ستارگان جهت حرکتشان را تغییر نمی‌دهند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_172",
+    "difficulty": "Easy",
+    "question": "آیا درست است که ناحیه‌ای بدون یخچال طبیعی و سرمای زیر صفر، منطقه قطبی باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_34",
+    "difficulty": "Easy",
+    "question": "فردی که برای اولین بار فینگر فود ایرانی را ثبت جهانی کرد، در کدام پروژه مدل‌سازی سیستم‌های حمل‌ونقل در نپال دخیل بوده است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_466",
+    "difficulty": "Hard",
+    "question": "آیا میانگین تعداد دانش‌آموزان در هر کلاس در مدارس ایران بیشتر از فرانسه و ایتالیاست؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_111",
+    "difficulty": "Easy",
+    "question": "اگر قانون اساسی در سال ۱۳۵۸ تصویب شد، چه بخشی از اصول آن در متون درسی آموزش‌وپرورش تا سال ۱۳۷۵ به‌صورت مستقیم تدریس شده‌اند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_276",
+    "difficulty": "Medium",
+    "question": "اگر جسمی در حال حرکت باشد اما شتابش صفر باشد، آیا سرعت آن ثابت است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_67",
+    "difficulty": "Easy",
+    "question": "آیا همیشه اولین عدد در دنباله نقش کلیدی در تعیین الگو دارد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_399",
+    "difficulty": "Medium",
+    "question": "اگر هر ماه دارای ۳۰ روز باشد، ۳ ماه چند روز دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱۰۰",
+      "۹۰",
+      "۹۲"
+    ],
+    "answer": "۹۰",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_188",
+    "difficulty": "Easy",
+    "question": "کدام مواد معدنی هستند؟",
+    "options": [
+      "چوب",
+      "آهن",
+      "نمک",
+      "مس"
+    ],
+    "answer": [
+      "آهن",
+      "نمک",
+      "مس"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_431",
+    "difficulty": "Hard",
+    "question": "بازیکنی که در دهه ۶۰ برای ایران در والیبال ساحلی بازی کرد، چگونه در توسعه سامانه‌های هوش مصنوعی برای درمان اضطراب در لیبریا مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_301",
+    "difficulty": "Medium",
+    "question": "کدام نویسندگان هم در ژانر داستان کوتاه فعال بوده‌اند و هم آثارشان به فارسی ترجمه شده است؟",
+    "options": [
+      "همینگوی",
+      "بالزاک",
+      "بورخس",
+      "چخوف"
+    ],
+    "answer": [
+      "همینگوی",
+      "بورخس",
+      "چخوف"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_205",
+    "difficulty": "Medium",
+    "question": "کدام مکتب فلسفی بر تعادل و میانه‌روی تأکید دارد و توسط ارسطو شکل گرفته؟",
+    "options": [
+      "اعتدال",
+      "شکاکیت",
+      "هیچ‌کدام",
+      "افلاطونی"
+    ],
+    "answer": "اعتدال",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_359",
+    "difficulty": "Medium",
+    "question": "آیا خرس‌های قطبی در قطب جنوب زندگی می‌کنند و با پنگوئن‌ها هم‌زیستی دارند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.731Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_89",
+    "difficulty": "Easy",
+    "question": "در کدام ورزش‌ها هدف عبور توپ از دروازه یا سبد است؟",
+    "options": [
+      "هندبال",
+      "والیبال",
+      "بسکتبال",
+      "فوتبال"
+    ],
+    "answer": [
+      "فوتبال",
+      "بسکتبال",
+      "هندبال"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_209",
+    "difficulty": "Medium",
+    "question": "چه کسی بنیان‌گذار شرکت آمازون است؟",
+    "answer": "جف بزوس",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_227",
+    "difficulty": "Medium",
+    "question": "کدام کشور دارای شهر معروف مراکش است و به‌خاطر بازارهای سنتی‌اش مشهور است؟",
+    "answer": "مراکش",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_433",
+    "difficulty": "Hard",
+    "question": "آیا بررسی مفهوم آزادی در دو فرهنگ با پیشینه دینی مشابه ساده‌تر از دو فرهنگ ناهمسان است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_156",
+    "difficulty": "Easy",
+    "question": "کدام ورزش‌ها نیاز به همکاری تیمی دارند و با توپ بازی می‌شوند؟",
+    "options": [
+      "فوتبال",
+      "بسکتبال",
+      "والیبال",
+      "شنا"
+    ],
+    "answer": [
+      "فوتبال",
+      "بسکتبال",
+      "والیبال"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_365",
+    "difficulty": "Medium",
+    "question": "اگر خوزستان دارای منابع نفتی عظیم باشد، نقش اقتصادی آن چیست؟",
+    "answer": "قطب نفتی کشور",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_11",
+    "difficulty": "Easy",
+    "question": "اگر همه وسایل نقلیه حرکت می‌کنند و دوچرخه وسیله نقلیه است، آیا حرکت می‌کند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_345",
+    "difficulty": "Medium",
+    "question": "اگر ۰ < a < b، کدام نابرابری‌ها برقرار است؟",
+    "options": [
+      "1/a > 1/b",
+      "a^2 < b^2",
+      "b−a < b",
+      "a−b > 0"
+    ],
+    "answer": [
+      "1/a > 1/b",
+      "a^2 < b^2"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_510",
+    "difficulty": "Hard",
+    "question": "آیا کشوری که در آن انقلاب صنعتی آغاز شد، با کشور محل پیدایش سیستم فئودالی یکسان است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_19",
+    "difficulty": "Easy",
+    "question": "کدام تیم‌های باشگاهی فوتبال در اروپا سابقه قهرمانی در لیگ قهرمانان دارند؟",
+    "options": [
+      "رئال مادرید",
+      "آژاکس",
+      "بایرن مونیخ",
+      "لیورپول"
+    ],
+    "answer": [
+      "رئال مادرید",
+      "آژاکس",
+      "بایرن مونیخ",
+      "لیورپول"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_193",
+    "difficulty": "Easy",
+    "question": "دو کشور همسایه دریای خزر که دارای ذخایر نفتی هستند را نام ببرید.",
+    "answer": [
+      "ایران",
+      "قزاقستان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_435",
+    "difficulty": "Hard",
+    "question": "اگر باران می‌بارد و رودخانه بالا آمده، وقوع کدام حادثه محتمل است؟",
+    "answer": "سیلاب",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_15",
+    "difficulty": "Easy",
+    "question": "کدام مکان‌ها برای نمایش تئاتر طراحی شده‌اند و در تهران قرار دارند؟",
+    "options": [
+      "خانه هنرمندان",
+      "تالار وحدت",
+      "برج میلاد",
+      "تئاتر شهر"
+    ],
+    "answer": [
+      "خانه هنرمندان",
+      "تالار وحدت",
+      "تئاتر شهر"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_171",
+    "difficulty": "Easy",
+    "question": "اگر هیچ شکل هندسی در پرچم ایران بدون تقارن نباشد، آیا طرح متقارن در آن منطقی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_comparative_137",
+    "difficulty": "Easy",
+    "question": "آیا طول روز در تابستان بلندتر از زمستان است و این پدیده به چرخش زمین مربوط است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_384",
+    "difficulty": "Medium",
+    "question": "کدام رودخانه‌ها در آسیا قرار دارند و از چند کشور عبور می‌کنند؟",
+    "options": [
+      "رود سند",
+      "رود گنگ",
+      "رود نیل",
+      "رود فرات"
+    ],
+    "answer": [
+      "رود سند",
+      "رود گنگ",
+      "رود فرات"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_390",
+    "difficulty": "Medium",
+    "question": "کدام فیلسوف آلمانی در قرن ۱۹ میلادی کتاب «فراسوی نیک و بد» را نوشت؟",
+    "answer": "فریدریش نیچه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_156",
+    "difficulty": "Easy",
+    "question": "آیا کشور چین که دیوار بزرگ چین در آن قرار دارد، در شرق آسیا واقع شده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_578",
+    "difficulty": "Hard",
+    "question": "آیا موتورسیکلت‌هایی با ظرفیت بالای ۱۰۰۰ سی‌سی، معمولاً در مسابقات جاده‌ای حرفه‌ای شرکت می‌کنند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_587",
+    "difficulty": "Hard",
+    "question": "پژوهشگری که درباره تأثیر زرتشتی‌گری بر حقوق باستان تحقیق کرد، در چه پروژه‌ای درباره تحلیل شبکه‌های عصبی در بروندی دخیل بوده است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_363",
+    "difficulty": "Medium",
+    "question": "وزیری که در دوران ناصرالدین شاه مسئول امور پستی بوده، در کدام مسابقه اسب‌سواری در ایسلند شرکت کرده است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_444",
+    "difficulty": "Hard",
+    "question": "اگر قلب خون را پمپاژ می‌کند و مغز برای فعالیت به خون نیاز دارد، چرا قلب برای مغز حیاتی است؟",
+    "answer": "برای رساندن خون به مغز",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_284",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که کسی که نه در کلاس زبان شرکت کرده و نه مدرک زبانی دارد، مدرس زبان خارجی نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_327",
+    "difficulty": "Medium",
+    "question": "سه کشور که به دلیل فناوری فضایی شهرت دارند را نام ببرید.",
+    "answer": [
+      "آمریکا",
+      "روسیه",
+      "چین"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_28",
+    "difficulty": "Easy",
+    "question": "آیا مقایسه دو سبک هنری از دو فرهنگ مشابه سخت‌تر از دو فرهنگ متفاوت است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_40",
+    "difficulty": "Easy",
+    "question": "کدام ساز ایرانی به‌صورت عمودی گرفته می‌شود و با نفس نواخته می‌شود؟",
+    "options": [
+      "هیچ‌کدام",
+      "تار",
+      "سنتور",
+      "نی"
+    ],
+    "answer": "نی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_177",
+    "difficulty": "Easy",
+    "question": "وقتی که کوه بلند باشد، کدام پرنده بلندتر آواز می‌خواند؟",
+    "options": [
+      "گنجشک",
+      "هیچ‌کدام",
+      "عقاب",
+      "قمری"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_94",
+    "difficulty": "Easy",
+    "question": "کدام ورزش توپی در فضای باز با ۱۱ بازیکن انجام می‌شود و جام جهانی دارد؟",
+    "options": [
+      "بسکتبال",
+      "والیبال",
+      "فوتبال",
+      "هیچ‌کدام"
+    ],
+    "answer": "فوتبال",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_382",
+    "difficulty": "Medium",
+    "question": "اگر هیچ عددی بدون علامت مشخص نباشد، آیا عدد دارای علامت تعریف‌شده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_188",
+    "difficulty": "Easy",
+    "question": "اگر طول هر ضلع مربع برابر باشد، کدام عدد بیشتر متغیر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۵",
+      "۰",
+      "۲"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_269",
+    "difficulty": "Medium",
+    "question": "اگر چراغ روشن باشد برق جریان دارد. برق قطع است، آیا چراغ روشن است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_537",
+    "difficulty": "Hard",
+    "question": "اگر حروف عربی در فارسی استفاده شوند، چرا اشکال هندسی نمی‌توانند خواب ببینند؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_28",
+    "difficulty": "Easy",
+    "question": "کدام‌یک از وسایل نقلیه به سوخت فسیلی نیاز دارند؟",
+    "options": [
+      "اتوبوس",
+      "موتور",
+      "اتومبیل",
+      "دوچرخه"
+    ],
+    "answer": [
+      "اتوبوس",
+      "موتور",
+      "اتومبیل"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_490",
+    "difficulty": "Hard",
+    "question": "کسی که نحوه‌ی پاک‌کردن لک چای از فرش را آموزش داد، چگونه در پروژه‌ای برای تشخیص لکه‌های معنایی در سیستم‌های تصویری در چاد مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_523",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان گفت کشوری که هیچ مرز دریایی ندارد و پایگاه دریایی ندارد، قدرت دریایی جهانی نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_293",
+    "difficulty": "Medium",
+    "question": "اگر پیام در پیام‌رسان حذف شود، چه کسی آن را نمی‌بیند؟",
+    "options": [
+      "سرور",
+      "گیرنده",
+      "فرستنده",
+      "هیچ‌کدام"
+    ],
+    "answer": "گیرنده",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_364",
+    "difficulty": "Medium",
+    "question": "آیا در علوم رایانه، مرورگر وب ابزاری برای مشاهده صفحات اینترنتی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_455",
+    "difficulty": "Hard",
+    "question": "آیا کشوری که تنها با یک کشور دیگر مرز زمینی دارد، می‌تواند جزیره‌ای نباشد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_476",
+    "difficulty": "Hard",
+    "question": "کدام‌یک از الگوریتم‌ها از روش بازگشتی استفاده می‌کنند؟",
+    "options": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "Binary Search"
+    ],
+    "answer": [
+      "Merge Sort",
+      "Quick Sort",
+      "Binary Search"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_541",
+    "difficulty": "Hard",
+    "question": "کدام نهادهای جهانی در حفاظت از حقوق دیجیتال فعال هستند؟",
+    "options": [
+      "EFF",
+      "Access Now",
+      "Privacy International",
+      "NASA"
+    ],
+    "answer": [
+      "EFF",
+      "Access Now",
+      "Privacy International"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_10",
+    "difficulty": "Easy",
+    "question": "اگر چای داغ باشد و دست زدن به چیز داغ خطرناک است، چای داغ را باید با چه چیزی برداشت؟",
+    "answer": "دسته یا لیوان",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_202",
+    "difficulty": "Medium",
+    "question": "آیا کشوری که آتشفشان فعال اتنا در آن واقع شده، در قاره اروپا قرار دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_multi_31",
+    "difficulty": "Easy",
+    "question": "کدام یک از موارد زمان را اندازه‌گیری می‌کنند؟",
+    "options": [
+      "دقیقه",
+      "کیلوگرم",
+      "ساعت",
+      "ثانیه"
+    ],
+    "answer": [
+      "دقیقه",
+      "ساعت",
+      "ثانیه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_409",
+    "difficulty": "Hard",
+    "question": "چهار شخصیت علمی اسلامی که در ریاضیات کلاسیک نوآوری داشتند را نام ببرید.",
+    "answer": [
+      "خوارزمی",
+      "عمر خیام",
+      "کاشی",
+      "ابن یونس"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_531",
+    "difficulty": "Hard",
+    "question": "کدام نویسنده ایتالیایی کتاب 'نام گل' را نوشت؟",
+    "options": [
+      "پازولینی",
+      "ایتالو کالوینو",
+      "امبرتو اکو",
+      "هیچ‌کدام"
+    ],
+    "answer": "امبرتو اکو",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_83",
+    "difficulty": "Easy",
+    "question": "نام کاوشگری که بر سطح مریخ فرود آمد و توسط ناسا اداره می‌شود چیست؟",
+    "answer": "پرسِورَنس",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_512",
+    "difficulty": "Hard",
+    "question": "اگر تعریف اولیه گم شده باشد، کدام نتیجه بنیادی‌تر است؟",
+    "options": [
+      "قضیه",
+      "قانون",
+      "هیچ‌کدام",
+      "تعریف"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_430",
+    "difficulty": "Hard",
+    "question": "کدام امپراتوری باستانی در ترکیه امروزی قرار داشت و شهر هاتوسا را پایتخت خود کرد؟",
+    "answer": "هیتی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_86",
+    "difficulty": "Easy",
+    "question": "اگر ساعت به‌جای جلو رفتن، ایستا باشد، کدام زمان محتمل‌تر است؟",
+    "options": [
+      "۹",
+      "هیچ‌کدام",
+      "۳",
+      "۶"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_576",
+    "difficulty": "Hard",
+    "question": "اگر هیچ بازیکنی بدون ثبت حداقل ۵ لمس موثر در آمار فنی نباشد، آیا کسی با ۲ لمس موثر فنی محسوب می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_595",
+    "difficulty": "Hard",
+    "question": "اگر مورچه‌ها بتوانند شعر بگویند، چرا رودخانه‌ها خسته نمی‌شوند؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_581",
+    "difficulty": "Hard",
+    "question": "در صورتی که هر فردی که زبان فارسی بلد است می‌تواند این جمله را بخواند، رضا هم این جمله را می‌خواند، چه نتیجه‌ای می‌گیریم؟",
+    "options": [
+      "هیچ‌کدام",
+      "رضا زبان فارسی بلد است",
+      "رضا زبان انگلیسی بلد است",
+      "نتیجه‌گیری ممکن نیست"
+    ],
+    "answer": "رضا زبان فارسی بلد است",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_119",
+    "difficulty": "Easy",
+    "question": "آیا نمی‌توان پذیرفت که کسی که در کشور دیگری زندگی نکرده و پاسپورت ندارد، مهاجر نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_60",
+    "difficulty": "Easy",
+    "question": "آیا هیچ‌کس تاکنون به ماه نرفته است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_439",
+    "difficulty": "Hard",
+    "question": "آیا مجموعه‌ای که زیرمجموعه خودش نیست می‌تواند وجود داشته باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_non_answerable_301",
+    "difficulty": "Medium",
+    "question": "کدام یک از رفتارهای آیینی در فرهنگ ایرانی دارای الگویی است که در آیین‌های هندویی وجود ندارد و در فرهنگ بودایی نیز دیده نمی‌شود؟",
+    "options": [
+      "هیچ‌کدام",
+      "زیارت‌نامه‌خوانی جمعی",
+      "آیین سبزپوشی در محراب",
+      "آب‌پاشی قبل از اذان"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_356",
+    "difficulty": "Medium",
+    "question": "کدام قضیه‌ها در ریاضیات محض پایه‌ساز تحلیل ریاضی‌اند؟",
+    "options": [
+      "قضیه حد",
+      "اصل ارشمیدس",
+      "قضیه مشتق",
+      "قضیه پیوستگی"
+    ],
+    "answer": [
+      "قضیه حد",
+      "قضیه مشتق",
+      "قضیه پیوستگی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_listbased_345",
+    "difficulty": "Medium",
+    "question": "سه عامل را نام ببرید که در شکل‌گیری سوگیری شناختی مؤثرند.",
+    "answer": [
+      "تجربه گذشته",
+      "عقاید شخصی",
+      "هیجانات لحظه‌ای"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_nonanswerable_523",
+    "difficulty": "Hard",
+    "question": "چرا اگر فردوسی در توس دفن شده، اعداد کسری از راست به چپ خوانده نمی‌شوند؟",
+    "answer": null,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_simple_149",
+    "difficulty": "Easy",
+    "question": "آیا فیلمی که اسکار بهترین فیلم را دریافت کرده، همیشه توسط کارگردان ایرانی ساخته شده؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_multihop_negation_48",
+    "difficulty": "Easy",
+    "question": "آیا صحیح نیست که کشوری که دارای منابع نفتی گسترده نیست و عضو اوپک نیست، صادرکننده عمده نفت نباشد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_non_answerable_547",
+    "difficulty": "Hard",
+    "question": "اگر هیچ چیز نتابد، کدام نور بهتر می‌درخشد؟",
+    "options": [
+      "شعله شمع",
+      "هیچ‌کدام",
+      "مهتاب",
+      "چراغ مطالعه"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_316",
+    "difficulty": "Medium",
+    "question": "اگر تنها نمایندگان پارلمان حق تصویب قانون داشته باشند و فردی قانونی را تصویب کرده، نقش او چیست؟",
+    "options": [
+      "فعال مدنی",
+      "هیچ‌کدام",
+      "نماینده پارلمان",
+      "وزیر"
+    ],
+    "answer": "نماینده پارلمان",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_473",
+    "difficulty": "Hard",
+    "question": "اگر A ⇔ ¬A، آیا منطقی است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_468",
+    "difficulty": "Hard",
+    "question": "اگر دمای بدن بسیار افزایش یابد، اصطلاح پزشکی آن چیست؟",
+    "answer": "تب",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_566",
+    "difficulty": "Hard",
+    "question": "چهار تمدن که دارای خط نوشتاری منحصر به فرد در دوران باستان بودند را نام ببرید.",
+    "answer": [
+      "میان‌رودان",
+      "مصر باستان",
+      "چین باستان",
+      "مایا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_133",
+    "difficulty": "Easy",
+    "question": "اگر پرنده‌ای در آب شیرجه بزند و ماهی بگیرد، نوع تغذیه آن چیست؟",
+    "answer": "گوشت‌خواری",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_451",
+    "difficulty": "Hard",
+    "question": "چهار تمدن که به دلیل شبکه‌های آبیاری پیشرفته شناخته می‌شوند را نام ببرید.",
+    "answer": [
+      "میان‌رودان",
+      "مصر",
+      "چین باستان",
+      "پارس"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_simple_4",
+    "difficulty": "Easy",
+    "question": "کدام کشور اروپایی به برج کج معروف است و شهر پیزا در آن قرار دارد؟",
+    "answer": "ایتالیا",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_117",
+    "difficulty": "Easy",
+    "question": "اگر سال کبیسه ۳۶۶ روز داشته باشد و سال معمولی ۳۶۵، سال ۱۴۰۳ چند روز دارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "۳۶۷",
+      "۳۶۵",
+      "۳۶۴"
+    ],
+    "answer": "۳۶۵",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_193",
+    "difficulty": "Easy",
+    "question": "اگر در هر چهار سال یک بار سال کبیسه باشد، سال ۱۴۰۳ کبیسه نیست، سال بعدی کبیسه کدام است؟",
+    "options": [
+      "۱۴۰۶",
+      "هیچ‌کدام",
+      "۱۴۰۲",
+      "۱۴۰۴"
+    ],
+    "answer": "۱۴۰۴",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_reasoning_simple_514",
+    "difficulty": "Hard",
+    "question": "اگر شخصی دائماً نتیجه مشابه بگیرد اما روش را تغییر ندهد، چه ایرادی وجود دارد؟",
+    "answer": "عدم تغییر مؤثر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_multi_571",
+    "difficulty": "Hard",
+    "question": "کدام پروژه‌های علمی منجر به درک بهتر ساختار DNA شده‌اند؟",
+    "options": [
+      "نظریه نسبیت",
+      "تحقیقات فرانکلین",
+      "پروژه ژنوم انسان",
+      "تحقیقات واتسون و کریک"
+    ],
+    "answer": [
+      "تحقیقات فرانکلین",
+      "پروژه ژنوم انسان",
+      "تحقیقات واتسون و کریک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_547",
+    "difficulty": "Hard",
+    "question": "اگر هیچ بازیکنی که تعویض نشده و مصدوم شده به تیم بازنگردد، آیا بازیکن تعویض‌نشده مصدوم بازمی‌گردد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_listbased_40",
+    "difficulty": "Easy",
+    "question": "دو ادیب ایرانی که آثار ادبیات عرفانی خلق کرده‌اند را نام ببرید.",
+    "answer": [
+      "مولوی",
+      "عطار"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_simple_523",
+    "difficulty": "Hard",
+    "question": "آیا (A ∧ B) → A همیشه برقرار است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_comparative_137",
+    "difficulty": "Easy",
+    "question": "آیا اگر دو نفر هم‌سطح باشند ولی یکی بازخورد بگیرد، پیشرفت بیشتری خواهد کرد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "boolean_reasoning_negation_328",
+    "difficulty": "Medium",
+    "question": "اگر هیچ یک از اعضای مجموعه A در مجموعه B نباشند، آیا عضو مشترکی بین A و B وجود دارد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "factoid_multihop_nonanswerable_453",
+    "difficulty": "Hard",
+    "question": "مترجمی که متون طب ایرانی را به فنلاندی ترجمه کرد، در چه همکاری پژوهشی درباره نانوربات‌ها در گینه بیسائو مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_multihop_single_369",
+    "difficulty": "Medium",
+    "question": "کدام نوع شعر فارسی دارای قالب پنج‌مصراعی است و معمولاً لحنی ساده و عامیانه دارد؟",
+    "options": [
+      "غزل",
+      "ترانه",
+      "هیچ‌کدام",
+      "چهاربیتی"
+    ],
+    "answer": "ترانه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-27T17:04:47.732Z",
+    "annotator_id": "m593",
+    "annotator_name": "Maryam Yousefi",
+    "id": "multichoice_reasoning_single_473",
+    "difficulty": "Hard",
+    "question": "اگر هر مربع یک چهارضلعی باشد اما برخی چهارضلعی‌ها مربع نباشند، کدام درست است؟",
+    "options": [
+      "همه چهارضلعی‌ها مربع‌اند",
+      "چهارضلعی عمومی‌تر از مربع است",
+      "هیچ‌کدام",
+      "مربع بزرگ‌تر است"
+    ],
+    "answer": "چهارضلعی عمومی‌تر از مربع است",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  }
+]

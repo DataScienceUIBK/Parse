@@ -1,0 +1,4014 @@
+[
+  {
+    "submission_ts": "2025-08-23T23:17:56.680Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_346",
+    "difficulty": "Medium",
+    "question": "اگر مهاباد شهری کردنشین است، چرا اعداد اعشاری حافظه موسیقیایی ندارند؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_101",
+    "difficulty": "Easy",
+    "question": "اگر عدد صفر وجود نداشته باشد، کدام حیوان بهتر تقسیم می‌کند؟",
+    "options": [
+      "هیچ‌کدام",
+      "خرگوش",
+      "میمون",
+      "شتر"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_247",
+    "difficulty": "Medium",
+    "question": "ترکیب معنا در جمله‌ای با دو مفعول، با کدام مدل ریاضی ناهمخوان است؟",
+    "options": [
+      "بردار",
+      "هیچ‌کدام",
+      "تابع ثابت",
+      "ماتریس"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_579",
+    "difficulty": "Hard",
+    "question": "آیا انتشار گاز دی‌اکسید کربن خودروهای بنزینی بیشتر از هیبریدی و برقی به‌صورت ترکیبی است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_470",
+    "difficulty": "Hard",
+    "question": "چهار کشور دارای اقتصاد مبتنی بر صادرات الکترونیک و فناوری پیشرفته را نام ببرید.",
+    "answer": [
+      "ژاپن",
+      "کره جنوبی",
+      "تایوان",
+      "آلمان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_465",
+    "difficulty": "Hard",
+    "question": "آیا درست است که کشوری که در قاره اروپا قرار ندارد و منطقه اسکاندیناوی نیست، سوئد است؟",
+    "answer": false,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_60",
+    "difficulty": "Easy",
+    "question": "دو ساز زهی که در موسیقی غربی استفاده می‌شوند را نام ببرید.",
+    "answer": [
+      "ویولن",
+      "گیتار"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_426",
+    "difficulty": "Hard",
+    "question": "چه سیستم کشاورزی‌ای به استفاده از کود و سم‌های شیمیایی وابسته نیست و پایدار است؟",
+    "answer": "کشاورزی ارگانیک",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_462",
+    "difficulty": "Hard",
+    "question": "کدام عبارات نقیض هم محسوب می‌شوند؟",
+    "options": [
+      "هیچ A ای B نیست - برخی A ها B هستند",
+      "برخی A ها B نیستند - همه A ها B هستند",
+      "A هست - A نیست",
+      "همه A ها B هستند - برخی A ها B نیستند"
+    ],
+    "answer": [
+      "هیچ A ای B نیست - برخی A ها B هستند",
+      "برخی A ها B نیستند - همه A ها B هستند",
+      "همه A ها B هستند - برخی A ها B نیستند"
+    ],
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_154",
+    "difficulty": "Easy",
+    "question": "کدام شخصیت‌ها در اساطیر یونان قدرت‌های خاص داشتند و نیمه‌خدا بودند؟",
+    "options": [
+      "آشیل",
+      "پرسئوس",
+      "سقراط",
+      "هرکول"
+    ],
+    "answer": [
+      "آشیل",
+      "پرسئوس",
+      "هرکول"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_54",
+    "difficulty": "Easy",
+    "question": "کدام ماده معدنی برای تشکیل دندان‌ها و استخوان‌ها ضروری است؟",
+    "options": [
+      "فسفر",
+      "روی",
+      "کلسیم",
+      "هیچ‌کدام"
+    ],
+    "answer": "کلسیم",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_311",
+    "difficulty": "Medium",
+    "question": "اگر هیچ عدد طبیعی‌ای منفی نباشد، آیا −۷ طبیعی است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_550",
+    "difficulty": "Hard",
+    "question": "کدام فیزیک‌دان اصل هم‌ارزی جرم و انرژی را در قالب فرمول E=mc² معرفی کرد؟",
+    "options": [
+      "اینشتین",
+      "هیچ‌کدام",
+      "فاینمن",
+      "نیوتن"
+    ],
+    "answer": "اینشتین",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_482",
+    "difficulty": "Hard",
+    "question": "کدام مکاتب فلسفی در قرون جدید شکل گرفته‌اند و با انسان‌گرایی پیوند دارند؟",
+    "options": [
+      "اگزیستانسیالیسم",
+      "رواقی‌گری",
+      "پراگماتیسم",
+      "اومانیسم"
+    ],
+    "answer": [
+      "اگزیستانسیالیسم",
+      "پراگماتیسم",
+      "اومانیسم"
+    ],
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_398",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان گفت کشوری که پایتخت آن اتاوا نیست و زبان رسمی آن انگلیسی یا فرانسوی نیست، کانادا نیست؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_35",
+    "difficulty": "Easy",
+    "question": "دو وسیله را نام ببرید که به‌خودی خود حرکت نمی‌کنند ولی بدون حرکت آن‌ها بی‌معنا هستند.",
+    "answer": [
+      "ماشین",
+      "دوچرخه"
+    ],
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_495",
+    "difficulty": "Hard",
+    "question": "کدام یک از اصطلاحات فقهی شیعه با معنایی به کار می‌رود که در مذاهب سنی مشابه ندارد و در حقوق تطبیقی غرب نیز کاربرد ندارد؟",
+    "options": [
+      "اصالة الحظر تعبدی مقید",
+      "هیچ‌کدام",
+      "قاعده تعدد اسباب معنوی",
+      "استصحاب شک تطبیقی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_492",
+    "difficulty": "Hard",
+    "question": "سه مدل ذهنی را نام ببرید که در تصمیم‌گیری انسان اثر می‌گذارند ولی ممکن است ناخودآگاه باشند.",
+    "answer": [
+      "سوگیری تاییدی",
+      "اثر چارچوب",
+      "تفکر گروهی"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_525",
+    "difficulty": "Hard",
+    "question": "کدام مدل زبانی بازتاب‌گر رفتار چرخه‌ای در ساختار داده‌هاست؟",
+    "options": [
+      "مدل توزیعی",
+      "مدل زنجیره‌ای",
+      "هیچ‌کدام",
+      "شبکه معنا"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_93",
+    "difficulty": "Easy",
+    "question": "کدام‌یک از جانوران زیر مهره‌دار هستند؟",
+    "options": [
+      "مرغ",
+      "اسب",
+      "گاو",
+      "کرم خاکی"
+    ],
+    "answer": [
+      "مرغ",
+      "اسب",
+      "گاو"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_69",
+    "difficulty": "Easy",
+    "question": "دو قانون محدودکننده در بازی بسکتبال را نام ببرید.",
+    "answer": [
+      "قانون ۲۴ ثانیه",
+      "قانون ۸ ثانیه"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_75",
+    "difficulty": "Easy",
+    "question": "اگر ساعت مچی زمان را نشان می‌دهد، کارکرد آن چیست؟",
+    "answer": "نمایش زمان",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_68",
+    "difficulty": "Easy",
+    "question": "اگر زمین گرد باشد، پس چه نوع شکلی دارد؟",
+    "options": [
+      "بی‌فرم",
+      "هیچ‌کدام",
+      "مثلثی",
+      "کروی"
+    ],
+    "answer": "کروی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_49",
+    "difficulty": "Easy",
+    "question": "کدام شرکت سازنده سیستم‌عامل ویندوز است؟",
+    "answer": "مایکروسافت",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_583",
+    "difficulty": "Hard",
+    "question": "اگر هیچ موجی در محیطی ایستا پیشروی نکند، آیا موج ایستا می‌تواند پیشروی کند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_124",
+    "difficulty": "Easy",
+    "question": "اگر پرندگان تخم می‌گذارند و اردک پرنده باشد، رفتار تولید مثل اردک چیست؟",
+    "options": [
+      "نگهداری نوزاد",
+      "تخم‌گذاری",
+      "شیر دادن",
+      "هیچ‌کدام"
+    ],
+    "answer": "تخم‌گذاری",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_572",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان گفت کسی که در هیچ برنامه آموزشی تدریس نکرده و مدرک رسمی ندارد، معلم نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_131",
+    "difficulty": "Easy",
+    "question": "کدام یک از انواع تغذیه ورزشکاران ایرانی دارای ترکیبی است که در رژیم بدنسازان غربی وجود ندارد و در شرق آسیا نیز رایج نیست؟",
+    "options": [
+      "ترکیب خرما و تخم‌مرغ",
+      "هیچ‌کدام",
+      "نوشیدنی نعناع-شیر",
+      "سالاد پسته و سیب"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_134",
+    "difficulty": "Easy",
+    "question": "آیا حالت چهره منفی در هنگام صحبت، موجب سوءبرداشت بیشتر می‌شود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_342",
+    "difficulty": "Medium",
+    "question": "اگر آلمان در جنگ جهانی دوم شکست خورده باشد، نتیجه آن چیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "آلمان بی‌طرف بوده",
+      "آلمان پیروز جنگ نیست",
+      "آلمان جنگ‌طلب نبود"
+    ],
+    "answer": "آلمان پیروز جنگ نیست",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_46",
+    "difficulty": "Easy",
+    "question": "کشوری که شهر بانکوک در آن است و بودیسم دین غالب آن است چیست؟",
+    "answer": "تایلند",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_570",
+    "difficulty": "Hard",
+    "question": "آیا میانگین تماشاگران فصل لیگ NFL بیشتر از مجموع تماشاگران NBA و NHL است و هر سه در ایالات متحده برگزار می‌شوند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_533",
+    "difficulty": "Hard",
+    "question": "در مثلث قائم‌الزاویه، کدام مجموعه اضلاع بر اساس قضیه فیثاغورس معتبر است؟",
+    "options": [
+      "۷، ۲۴، ۲۵",
+      "۵، ۱۲، ۱۳",
+      "۹، ۴۰، ۴۱",
+      "۶، ۸، ۱۰"
+    ],
+    "answer": [
+      "۶، ۸، ۱۰",
+      "۵، ۱۲، ۱۳",
+      "۷، ۲۴، ۲۵",
+      "۹، ۴۰، ۴۱"
+    ],
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_164",
+    "difficulty": "Easy",
+    "question": "اگر زمستان سرد است و بهمن در زمستان قرار دارد، دمای هوای بهمن چگونه است؟",
+    "answer": "سرد",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_326",
+    "difficulty": "Medium",
+    "question": "آیا هزینه زندگی در پاریس بیشتر از تهران است و هر دو پایتخت‌های مهم فرهنگی هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_373",
+    "difficulty": "Medium",
+    "question": "کدام اعداد طبیعی هستند؟",
+    "options": [
+      "-۳",
+      "۰",
+      "۲",
+      "۱"
+    ],
+    "answer": [
+      "۱",
+      "۲"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_196",
+    "difficulty": "Easy",
+    "question": "کدام میوه گرمسیری به داشتن پتاسیم فراوان مشهور است؟",
+    "options": [
+      "انبه",
+      "هیچ‌کدام",
+      "موز",
+      "نارگیل"
+    ],
+    "answer": "موز",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_454",
+    "difficulty": "Hard",
+    "question": "چهار کار T1,T2,T3,T4 با قیود: T1 قبل از T3؛ T2 پس از T1؛ T4 آخر. کدام ترتیب‌ها مجازند؟",
+    "options": [
+      "T1 T2 T3 T4",
+      "T2 T1 T3 T4",
+      "T1 T3 T2 T4",
+      "T3 T1 T2 T4"
+    ],
+    "answer": [
+      "T1 T2 T3 T4",
+      "T1 T3 T2 T4"
+    ],
+    "ambiguity": 1,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_353",
+    "difficulty": "Medium",
+    "question": "فردی که تصویرسازی‌های اسطوره‌ای برای کتب دبستان انجام داده، در طراحی الگوریتم‌های بازنمایی بصری برای سالمندان در لیبریا دخیل بوده است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_401",
+    "difficulty": "Hard",
+    "question": "اگر ژیمناستیک به انعطاف بدنی نیاز دارد، چرا زبان ارمنی در تحلیل مسابقات لیگ قهرمانان اروپا به کار نمی‌رود؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_82",
+    "difficulty": "Easy",
+    "question": "اگر عدد ۲ همیشه قبل از عدد ۳ بیاید، کدام شکل از ترتیب پیروی نمی‌کند؟",
+    "options": [
+      "دایره",
+      "هیچ‌کدام",
+      "مثلث",
+      "پنج‌ضلعی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_460",
+    "difficulty": "Hard",
+    "question": "آیا منطقی است که فردی که بدون مدرک پزشکی و بدون تجربه کلینیکی، جراح مغز و اعصاب باشد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_11",
+    "difficulty": "Easy",
+    "question": "کدام ماده غذایی با پختن برنج و سبزیجات به‌همراه گوشت قرمز تهیه می‌شود؟",
+    "options": [
+      "سبزی‌پلو با گوشت",
+      "هیچ‌کدام",
+      "قیمه",
+      "زرشک‌پلو"
+    ],
+    "answer": "سبزی‌پلو با گوشت",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_93",
+    "difficulty": "Easy",
+    "question": "آیا مردم کشورهای مختلف نمی‌توانند همکاری مؤثر داشته باشند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_333",
+    "difficulty": "Medium",
+    "question": "آیا نادرست نیست که بگوییم فردی که در هیچ حزب سیاسی عضو نیست و رأی نداده، فعال سیاسی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_30",
+    "difficulty": "Easy",
+    "question": "اگر هر دایره یک مرکز داشته باشد و این شکل دو مرکز دارد، آیا دایره است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_51",
+    "difficulty": "Easy",
+    "question": "آیا تهران پرجمعیت‌ترین شهر ایران است و پایتخت کشور محسوب می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_332",
+    "difficulty": "Medium",
+    "question": "اگر هیچ معادله‌ای با مجهول در مخرج، بدون تعیین دامنه معتبر نباشد، آیا x/(x−1)=2 معتبر است؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_49",
+    "difficulty": "Easy",
+    "question": "کدام ورزش شامل حرکات نمایشی با چوب اسکی روی برف است؟",
+    "options": [
+      "هاکی روی یخ",
+      "هیچ‌کدام",
+      "اسنوبرد",
+      "اسکی آزاد"
+    ],
+    "answer": "اسکی آزاد",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_299",
+    "difficulty": "Medium",
+    "question": "سه نماد معماری را نام ببرید که نشانگر مفهوم هویت ملی یا دینی هستند.",
+    "answer": [
+      "گنبد",
+      "طاق",
+      "ستون مقرنس"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_198",
+    "difficulty": "Easy",
+    "question": "آیا هواپیماهایی که برای مسافربری استفاده می‌شوند، معمولاً از دوچرخه‌های بزرگ‌تر ساخته شده‌اند؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_245",
+    "difficulty": "Medium",
+    "question": "کدام یک از عناصر فرهنگ غذایی ایران در طب سنتی هم نقش دارویی دارد و هم در فرهنگ غربی کاربرد مستقیم ندارد؟",
+    "options": [
+      "عرق نعناع",
+      "زردچوبه",
+      "هیچ‌کدام",
+      "چای سبز"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_38",
+    "difficulty": "Easy",
+    "question": "اگر بیشترین مهاجرت داخلی از روستاها به شهرهای بزرگ انجام می‌شود، دقیقاً چه میزان از این مهاجرت با استناد به تغییر در نظام آموزش زبان انجام گرفته؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_464",
+    "difficulty": "Hard",
+    "question": "کدام عنصر در جدول تناوبی با نماد Fe نشان داده می‌شود و در ساخت فولاد کاربرد دارد؟",
+    "options": [
+      "کبالت",
+      "کروم",
+      "هیچ‌کدام",
+      "آهن"
+    ],
+    "answer": "آهن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_505",
+    "difficulty": "Hard",
+    "question": "اگر نیم‌ساعت برابر ۳۰ دقیقه باشد، چند نیم‌ساعت در ۶ ساعت وجود دارد؟",
+    "options": [
+      "۱۰",
+      "۱۲",
+      "هیچ‌کدام",
+      "۱۴"
+    ],
+    "answer": "۱۲",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_524",
+    "difficulty": "Hard",
+    "question": "آیا تعداد ایستگاه‌های شارژ خودرو برقی در آلمان بیشتر از فرانسه و ایتالیا به‌صورت ترکیبی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_542",
+    "difficulty": "Hard",
+    "question": "کدام نظریه‌پردازان فلسفه هم در قرن بیستم تأثیرگذار بودند و هم در حوزه زبان فعالیت داشته‌اند؟",
+    "options": [
+      "فوکو",
+      "راسل",
+      "دریدا",
+      "لودویگ ویتگنشتاین"
+    ],
+    "answer": [
+      "راسل",
+      "دریدا",
+      "لودویگ ویتگنشتاین"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_155",
+    "difficulty": "Easy",
+    "question": "اگر دریای خزر بزرگ‌ترین دریاچه جهان است، چرا هیچ‌کدام از پروژه‌های سنجش عمق آن به زبان شعر انجام نشده است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_310",
+    "difficulty": "Medium",
+    "question": "شهر محل برگزاری کنفرانس تغییرات اقلیمی سازمان ملل در سال ۲۰۱۵ چه بود؟",
+    "answer": "پاریس",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_51",
+    "difficulty": "Easy",
+    "question": "اگر تمام پرندگان پر دارند و گنجشک یک پرنده است، پس گنجشک چه دارد؟",
+    "options": [
+      "نوک",
+      "هیچ‌کدام",
+      "پر",
+      "بال"
+    ],
+    "answer": "پر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_350",
+    "difficulty": "Medium",
+    "question": "کدام کشورها در خشکی محصورند؟",
+    "options": [
+      "افغانستان",
+      "نپال",
+      "تایلند",
+      "اتریش"
+    ],
+    "answer": [
+      "افغانستان",
+      "نپال",
+      "اتریش"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_374",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که کشوری که در خاورمیانه نیست و واحد پول آن ریال نیست، عربستان سعودی نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_296",
+    "difficulty": "Medium",
+    "question": "بازیگری که در فیلم 'تایتانیک' نقش جک را بازی کرد و جایزه اسکار را برای فیلم 'بازگشته' گرفت، کیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "لئوناردو دی‌کاپریو",
+      "برد پیت",
+      "مت دیمون"
+    ],
+    "answer": "لئوناردو دی‌کاپریو",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_323",
+    "difficulty": "Medium",
+    "question": "کدام حیوانات دارای اسکلت داخلی هستند؟",
+    "options": [
+      "حلزون",
+      "ماهی",
+      "گربه",
+      "مار"
+    ],
+    "answer": [
+      "حلزون",
+      "ماهی",
+      "مار"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_400",
+    "difficulty": "Medium",
+    "question": "کدام یک از تکنیک‌های بدنسازی در ایران با الگویی انجام می‌شود که در باشگاه‌های حرفه‌ای آمریکا استفاده نمی‌شود و در اروپا نیز نیست؟",
+    "options": [
+      "پرس زیرزمینی چوبی",
+      "هیچ‌کدام",
+      "دویدن با وزنه پشت",
+      "خم شدن روی آجر"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_394",
+    "difficulty": "Medium",
+    "question": "شخصی که رنگ‌بندی جلد کتاب‌های درسی دهه ۵۰ را طراحی کرد، در چه پروژه‌ای برای طبقه‌بندی رنگی مفاهیم آموزشی در ماداگاسکار حضور داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_426",
+    "difficulty": "Hard",
+    "question": "اگر تاریخ میلادی ۲۸ فوریه باشد و سال کبیسه باشد، فردا چه تاریخی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱ مارس",
+      "۲۹ فوریه",
+      "۳۰ فوریه"
+    ],
+    "answer": "۲۹ فوریه",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_354",
+    "difficulty": "Medium",
+    "question": "اگر تلویزیون دیداری و رادیو شنیداری است، کدام ابزار ترکیبی است؟",
+    "answer": "تلفن تصویری",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_189",
+    "difficulty": "Easy",
+    "question": "سه نهاد رسمی را نام ببرید که در یک نظام سیاسی دموکراتیک نقش دارند.",
+    "answer": [
+      "قوه مجریه",
+      "قوه مقننه",
+      "قوه قضائیه"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_71",
+    "difficulty": "Easy",
+    "question": "کدام اشکال تقارن محوری دارند؟",
+    "options": [
+      "مربع",
+      "دایره",
+      "مثلث متساوی‌الساقین",
+      "ذوزنقه نامتقارن"
+    ],
+    "answer": [
+      "مربع",
+      "دایره",
+      "مثلث متساوی‌الساقین"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_485",
+    "difficulty": "Hard",
+    "question": "آیا انتخاب بین دو فرض متضاد آسان‌تر از فرض‌های هم‌جهت است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_581",
+    "difficulty": "Hard",
+    "question": "پژوهشگری که درباره تأثیر آیین‌های مذهبی بر حافظه جمعی در ایران تحقیق کرده، چگونه در پروژه تحلیل شناختی واکنش‌های غیرکلامی در پالائو همکاری داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_54",
+    "difficulty": "Easy",
+    "question": "دو بازی رایانه‌ای مشهور که طرفداران جهانی دارند را نام ببرید.",
+    "answer": [
+      "Fortnite",
+      "Minecraft"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_232",
+    "difficulty": "Medium",
+    "question": "آیا معادله x(x - 2) = x² - 2x درست است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_82",
+    "difficulty": "Easy",
+    "question": "کدام یک از غذاهای سنتی ایرانی از ماده‌ای ساخته می‌شود که در صحرای مرکزی ایران نمی‌روید و در آیین‌های محلی کُردی سرو نمی‌شود؟",
+    "options": [
+      "فسنجان",
+      "هیچ‌کدام",
+      "خورشت قیمه",
+      "اشکنه"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_475",
+    "difficulty": "Hard",
+    "question": "آیا بررسی تفاوت در دقت نتایج مدل‌های تکرارشونده آسان‌تر از مدل‌های اتفاقی است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_546",
+    "difficulty": "Hard",
+    "question": "اگر دمای انجماد آب ۰ درجه سانتی‌گراد باشد، آب در دمای −۵ درجه در چه حالتی است؟",
+    "options": [
+      "هیچ‌کدام",
+      "مایع",
+      "بخار",
+      "جامد"
+    ],
+    "answer": "جامد",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_369",
+    "difficulty": "Medium",
+    "question": "آیا کامیون وسیله‌ای سنگین برای حمل بارهای بزرگ است و در جاده‌ها تردد می‌کند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_555",
+    "difficulty": "Hard",
+    "question": "فردی که فرم ساخت قفل‌های قدیمی را مستندسازی کرد، چگونه در طراحی امنیت فیزیکی مبتنی بر سنت در گینه جدید نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_378",
+    "difficulty": "Medium",
+    "question": "آیا اگر همه می‌دانند x درست نیست، ممکن است کسی فکر کند x درست است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_564",
+    "difficulty": "Hard",
+    "question": "چهار زبان باستانی که پایه‌گذار خط نوشتاری جدید شدند را نام ببرید.",
+    "answer": [
+      "اکدی",
+      "سومری",
+      "آرامی",
+      "یونانی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_465",
+    "difficulty": "Hard",
+    "question": "چه تعداد از بازی‌های تولید داخل از ساختار زبانی هم‌پوشان با زبان ارمنی غربی برای دیالوگ استفاده کرده‌اند؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_439",
+    "difficulty": "Hard",
+    "question": "اگر هیچ ترکیب دروغینی نتواند حقیقت تولید کند، آیا ترکیب چند دروغ می‌تواند واقعیت بسازد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_409",
+    "difficulty": "Hard",
+    "question": "اگر در دوره صفویه هنر کاشی‌کاری رونق گرفت، یکی از جلوه‌های فرهنگی آن چه بود؟",
+    "answer": "مساجد کاشی‌کاری‌شده",
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_259",
+    "difficulty": "Medium",
+    "question": "سه حوزه مهم علوم شناختی را نام ببرید.",
+    "answer": [
+      "زبان‌شناسی شناختی",
+      "عصب‌شناسی",
+      "روان‌شناسی شناختی"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_245",
+    "difficulty": "Medium",
+    "question": "آیا کشورهایی که تمرکز اقتصادی در یک منطقه دارند، تعادل توسعه‌ای کمتری نسبت به کشورهای متوازن دارند؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_506",
+    "difficulty": "Hard",
+    "question": "اگر کامپیوتر با الگوریتم کار می‌کند و الگوریتم ناقص باشد، خروجی چگونه است؟",
+    "answer": "غیرقابل اعتماد",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_579",
+    "difficulty": "Hard",
+    "question": "چه کسی نخستین تلسکوپ بازتابی را ساخت و نظریه جاذبه جهانی را ارائه کرد؟",
+    "answer": "ایزاک نیوتن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_386",
+    "difficulty": "Medium",
+    "question": "اگر فردی بخواهد زودتر بخوابد، کدام رفتار منطقی است؟",
+    "answer": "خاموش کردن وسایل دیجیتال",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_266",
+    "difficulty": "Medium",
+    "question": "اگر هیچ تعطیلی عمومی بدون ارتباط با فرهنگ رسمی برقرار نباشد، آیا تعطیلی نوروزی با فرهنگ رسمی مرتبط است؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_55",
+    "difficulty": "Easy",
+    "question": "اگر هیچ معادله‌ای بدون دو طرف مساوی برقرار نباشد، آیا ۵ = ۵ برقرار است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_435",
+    "difficulty": "Hard",
+    "question": "اگر هرکسی که در قرن نوزدهم زندگی کرده اکنون در قید حیات نباشد، ناپلئون اکنون زنده است؟",
+    "options": [
+      "هیچ‌کدام",
+      "خیر",
+      "در موارد خاص",
+      "بله"
+    ],
+    "answer": "خیر",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_159",
+    "difficulty": "Easy",
+    "question": "آیا سرعت دویدن یوزپلنگ بیشتر از اسب است و هر دو حیوانات خشکی‌زی هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_522",
+    "difficulty": "Hard",
+    "question": "چهار تمدن که در قاره آمریکا قبل از ورود اروپاییان وجود داشتند را نام ببرید.",
+    "answer": [
+      "مایا",
+      "آزتک",
+      "اینکا",
+      "اولمک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_587",
+    "difficulty": "Hard",
+    "question": "اگر حافظه کوتاه‌مدت در مغز انسان محدود است، چرا تقسیم‌بندی سطوح معناشناسی در زبان‌شناسی نتوانسته آن را افزایش دهد؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_77",
+    "difficulty": "Easy",
+    "question": "اگر عددی بر ۲ بخش‌پذیر باشد زوج است و عدد ۴ بر ۲ بخش‌پذیر است، آیا ۴ زوج است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_263",
+    "difficulty": "Medium",
+    "question": "آیا مقایسه دو دنباله با طول مشابه ساده‌تر از دنباله‌هایی با طول متفاوت است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_231",
+    "difficulty": "Medium",
+    "question": "سه رشته تحصیلی که بین مهندسی و زیست‌شناسی ارتباط برقرار می‌کنند را نام ببرید.",
+    "answer": [
+      "مهندسی پزشکی",
+      "زیست‌فناوری",
+      "مهندسی بافت"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_431",
+    "difficulty": "Hard",
+    "question": "اگر هیچ حس بینایی وجود نداشته باشد، کدام رنگ روشن‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "زرد",
+      "صورتی",
+      "نقره‌ای"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_2",
+    "difficulty": "Easy",
+    "question": "کدام یک از ویژگی‌های اذان شیعی در مقایسه با اذان اهل سنت ساختاری دارد که در متون فقهی قرون اولیه دیده نمی‌شود؟",
+    "options": [
+      "اشهد ان علی ولی‌الله",
+      "اذان در گوش نوزاد",
+      "هیچ‌کدام",
+      "دعای بعد از اذان"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_10",
+    "difficulty": "Easy",
+    "question": "کشوری که تیم فوتبال بارسلونا در آن بازی می‌کند، در کدام قاره قرار دارد؟",
+    "answer": "اروپا",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_79",
+    "difficulty": "Easy",
+    "question": "آیا شهر اصفهان به عنوان پایتخت فرهنگی ایران شناخته می‌شود و پل خواجو یکی از جاذبه‌های آن است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_147",
+    "difficulty": "Easy",
+    "question": "دو کشور با جنگل‌های بارانی گرمسیری در نیم‌کره جنوبی را نام ببرید.",
+    "answer": [
+      "برزیل",
+      "اندونزی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_404",
+    "difficulty": "Hard",
+    "question": "اگر میزان چربی شیر افزایش یابد، محصول حاصل مانند خامه چه حالتی پیدا می‌کند؟",
+    "answer": "غلیظ‌تر و چرب‌تر",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_355",
+    "difficulty": "Medium",
+    "question": "چند درصد از مقالات دانشگاهی رشته علوم اجتماعی تا سال ۱۳۹۰ از مفاهیم نشانه‌شناسی ارتباطات بیولوژیکی الهام گرفته‌اند؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_562",
+    "difficulty": "Hard",
+    "question": "اگر هیچ بازیکنی بدون رعایت ترکیب تیم مجاز به بازی نباشد، آیا بازیکن خارج از ترکیب بازی کرده؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_280",
+    "difficulty": "Medium",
+    "question": "اگر a = ۴ و b = ۵، مقدار ab − b² چیست؟",
+    "options": [
+      "-۵",
+      "۰",
+      "هیچ‌کدام",
+      "-۹"
+    ],
+    "answer": "-۵",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_587",
+    "difficulty": "Hard",
+    "question": "کدام شاخص‌ها در ارزیابی سلامت تغذیه‌ای کاربرد دارند؟",
+    "options": [
+      "سطح قند خون",
+      "سطح کلسترول",
+      "BMI",
+      "قد بلند"
+    ],
+    "answer": [
+      "سطح قند خون",
+      "سطح کلسترول",
+      "BMI"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_416",
+    "difficulty": "Hard",
+    "question": "در صورتی که زبان فارسی از راست به چپ نوشته شود، کدام عدد مفهومی معکوس‌تر دارد؟",
+    "options": [
+      "۱۲۱",
+      "۲۳۴",
+      "هیچ‌کدام",
+      "۷۸۹"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_348",
+    "difficulty": "Medium",
+    "question": "اگر ایران در کمربند زلزله قرار دارد، چه تعداد از خانه‌های خشتی مناطق روستایی در دهه ۵۰ شمسی مقاوم‌سازی شده‌اند؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_571",
+    "difficulty": "Hard",
+    "question": "چهار شاعر یا نویسنده بزرگ جهان که برنده جایزه نوبل ادبیات شده‌اند را نام ببرید.",
+    "answer": [
+      "گابریل گارسیا مارکز",
+      "پابلو نرودا",
+      "هرمان هسه",
+      "ارنست همینگوی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_28",
+    "difficulty": "Easy",
+    "question": "آیا x = 2 پاسخ معادله x² = 4 است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_434",
+    "difficulty": "Hard",
+    "question": "دو کشور را نام ببرید که با وجود همسایگی جغرافیایی، در دو پیمان نظامی متضاد قرار دارند.",
+    "answer": [
+      "لهستان",
+      "بلاروس"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_563",
+    "difficulty": "Hard",
+    "question": "آیا مغزی که لوب پیش‌پیشانی در آن قرار دارد، فقط مسئول شنوایی است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_478",
+    "difficulty": "Hard",
+    "question": "اگر فردی همزمان چند وظیفه را انجام دهد، تأثیر آن بر کیفیت کار چیست؟",
+    "answer": "کاهش کیفیت",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_142",
+    "difficulty": "Easy",
+    "question": "آیا صحیح است که ویتامینی که محلول در چربی نیست و در نور خورشید تولید نمی‌شود، ویتامین D باشد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_329",
+    "difficulty": "Medium",
+    "question": "اگر زاویه بین دو عقربه ساعت در ساعت ۶:۰۰ چقدر است؟",
+    "options": [
+      "۱۵۰",
+      "۱۸۰",
+      "هیچ‌کدام",
+      "۱۲۰"
+    ],
+    "answer": "۱۸۰",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_475",
+    "difficulty": "Hard",
+    "question": "مهندسی که اولین بار پل خواجو را بازسازی کرد، در کدام پروژه انرژی‌های تجدیدپذیر در آرژانتین تأثیرگذار بوده است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_399",
+    "difficulty": "Medium",
+    "question": "در الگوریتم‌های مرتب‌سازی، کدام روش‌ها تطبیقی (adaptive) هستند؟",
+    "options": [
+      "سریع",
+      "ادغامی",
+      "درج مستقیم",
+      "حبابی"
+    ],
+    "answer": [
+      "درج مستقیم",
+      "حبابی"
+    ],
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_523",
+    "difficulty": "Hard",
+    "question": "اگر انسان تنها باشد، کدام نماد بیشتر اجتماعی عمل می‌کند؟",
+    "options": [
+      "@",
+      "#",
+      "هیچ‌کدام",
+      "%"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_132",
+    "difficulty": "Easy",
+    "question": "کدام گزینه نشان‌دهنده‌ی یک ترکیب ناتمام از حروف و اشکال است؟",
+    "options": [
+      "ش-د",
+      "ب-ل",
+      "ن-ک",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_589",
+    "difficulty": "Hard",
+    "question": "در چه سطحی می‌توان ساختارهای نحوی اخبار اقتصادی ایران را با گرامرهای استنتاجی زبان‌های منطقی غیرکلاسیک تطبیق داد؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 1,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_241",
+    "difficulty": "Medium",
+    "question": "در والیبال، بازیکن لیبرو اجازه‌ی آبشار زدن ندارد؛ کدام نقش بی‌ارتباط با این قانون است؟",
+    "options": [
+      "دروازه‌بان",
+      "هیچ‌کدام",
+      "هافبک هجومی",
+      "مهاجم"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_196",
+    "difficulty": "Easy",
+    "question": "اگر هیچ توان دومی منفی نباشد، آیا (−۳)² می‌تواند منفی باشد؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_331",
+    "difficulty": "Medium",
+    "question": "آیا اگر میزان مطالعه دو دانش‌آموز یکسان باشد، نتایج امتحان نیز مشابه خواهد بود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_437",
+    "difficulty": "Hard",
+    "question": "اگر هیچ هم‌زیستی ملی بدون توازن هویتی دوام نیاورد، آیا سلطه فرهنگی موجب ناپایداری است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_478",
+    "difficulty": "Hard",
+    "question": "آیا ورزشکاری که بیشترین مدال المپیک زمستانی را دارد، در رشته اسکی سرعت فعالیت می‌کرد و نروژی بود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_458",
+    "difficulty": "Hard",
+    "question": "کدام بناها مربوط به دوره صفویه‌اند؟",
+    "options": [
+      "برج میلاد",
+      "مسجد شیخ لطف‌الله",
+      "سی‌وسه پل",
+      "عمارت عالی‌قاپو"
+    ],
+    "answer": [
+      "مسجد شیخ لطف‌الله",
+      "سی‌وسه پل",
+      "عمارت عالی‌قاپو"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_432",
+    "difficulty": "Hard",
+    "question": "کدام شاعر انگلیسی در قرن نوزدهم اثر «بهشت گمشده» را نوشت؟",
+    "answer": "جان میلتون",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_120",
+    "difficulty": "Easy",
+    "question": "کدام ویژگی‌ها در مدارس موفق دیده می‌شوند؟",
+    "options": [
+      "مدیریت کارآمد",
+      "نرخ ترک تحصیل بالا",
+      "برنامه‌ریزی دقیق",
+      "معلم باتجربه"
+    ],
+    "answer": [
+      "مدیریت کارآمد",
+      "برنامه‌ریزی دقیق",
+      "معلم باتجربه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_486",
+    "difficulty": "Hard",
+    "question": "آیا سطح انرژی بالا در آغاز مسابقه همواره منجر به نتیجه بهتر می‌شود؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_154",
+    "difficulty": "Easy",
+    "question": "اگر شعر وزن نداشته باشد، کدام حرف سنگین‌تر است؟",
+    "options": [
+      "الف",
+      "ب",
+      "ک",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_436",
+    "difficulty": "Hard",
+    "question": "آیا درک دو مسئله انتزاعی که با واژگان مشابه توصیف شده‌اند، آسان‌تر از مسائل با واژگان متفاوت است؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_66",
+    "difficulty": "Easy",
+    "question": "کدام ورزش‌ها در آب انجام می‌شوند؟",
+    "options": [
+      "قایق‌رانی",
+      "واترپلو",
+      "دوچرخه‌سواری",
+      "شنا"
+    ],
+    "answer": [
+      "شنا",
+      "واترپلو",
+      "قایق‌رانی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_466",
+    "difficulty": "Hard",
+    "question": "کدام یک از سبک‌های روایت در متون حکمی ایرانی الگویی دارد که در آثار فلسفی یونان باستان یا چین کلاسیک مشاهده نمی‌شود؟",
+    "options": [
+      "نقل تک‌گویی تمثیلی",
+      "هیچ‌کدام",
+      "روایت نمادین با جملات کوتاه",
+      "خطابه متناوب داستانی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 1,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_221",
+    "difficulty": "Medium",
+    "question": "آیا هزینه تحصیل در دانشگاه‌های عمومی آلمان بیشتر از کانادا است و هر دو مقاصد مهاجرت تحصیلی‌اند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_173",
+    "difficulty": "Easy",
+    "question": "آیا صحیح است که فردی که نه در حوزه فرهنگ فعالیت داشته و نه مقاله فرهنگی نوشته، فعال فرهنگی باشد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_217",
+    "difficulty": "Medium",
+    "question": "کسی که نحوه استفاده از چرخ خیاطی‌های دستی را آموزش داد، در چه پروژه‌ای برای ارتقاء تعامل ابزارهای مکانیکی در مالی نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_323",
+    "difficulty": "Medium",
+    "question": "آیا اشتباه نیست که بگوییم فردی که دوره طراحی را نگذرانده و نرم‌افزار طراحی نمی‌داند، طراح گرافیک حرفه‌ای است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_360",
+    "difficulty": "Medium",
+    "question": "آیا تحلیل دلایل مهاجرت در دوران معاصر سخت‌تر از دوران قدیم است؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_420",
+    "difficulty": "Hard",
+    "question": "در مثلث قائم‌الزاویه با اضلاع ۵، ۱۲، مقدار وتر چیست؟",
+    "options": [
+      "۱۳",
+      "۱۱",
+      "۱۵",
+      "هیچ‌کدام"
+    ],
+    "answer": "۱۳",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_526",
+    "difficulty": "Hard",
+    "question": "کدام یک از گونه‌های پرندگان بومی ایران رفتاری دارد که در نظریه‌های پرنده‌شناسی مناطق گرمسیری دیده نمی‌شود و در زیستگاه تالابی حضور ندارد؟",
+    "options": [
+      "هوبره",
+      "درنا خاکستری",
+      "کبود پره",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_251",
+    "difficulty": "Medium",
+    "question": "آیا کسی که در هند زندگی می‌کند، می‌تواند در منطقه‌ای باشد که زبان هندی و انگلیسی هر دو رسمی هستند؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_320",
+    "difficulty": "Medium",
+    "question": "اگر پرندگان در فصل خاصی مهاجرت کنند، عامل اصلی تعیین‌کننده چیست؟",
+    "answer": "تغییر فصل و دما",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_3",
+    "difficulty": "Easy",
+    "question": "اگر درختان در پاییز برگ می‌ریزند، در بهار چه می‌کنند؟",
+    "options": [
+      "می‌ریزند",
+      "هیچ‌کدام",
+      "ساکن می‌مانند",
+      "برگ می‌دهند"
+    ],
+    "answer": "برگ می‌دهند",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_301",
+    "difficulty": "Medium",
+    "question": "اگر همه معلمان کتاب می‌خوانند و علی معلمی است که نمی‌خواند، آیا علی کتاب می‌خواند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_271",
+    "difficulty": "Medium",
+    "question": "کدام سازندگان موتورهای دیزلی در صنایع حمل‌ونقل سنگین معروف‌اند؟",
+    "options": [
+      "کاترپیلار",
+      "ولوو",
+      "کامینز",
+      "یاماها"
+    ],
+    "answer": [
+      "کاترپیلار",
+      "ولوو",
+      "کامینز"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_238",
+    "difficulty": "Medium",
+    "question": "آیا دانشمندی که نظریه تکامل را ارائه داد، آهنگ معروف «Imagine» را خوانده است؟",
+    "options": [
+      "چارلز داروین",
+      "هیچ‌کدام",
+      "استیون هاوکینگ",
+      "آیزاک آسیموف"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_107",
+    "difficulty": "Easy",
+    "question": "نقاشی که اولین تصویر رنگی از دربار قاجار را کشید، در کدام همکاری برای توسعه سیستم‌های نظارت شهری در بوتان مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_359",
+    "difficulty": "Medium",
+    "question": "دو سازوکار دفاعی بدن را نام ببرید که به‌طور غیرارادی فعال می‌شوند.",
+    "answer": [
+      "سرفه",
+      "اشک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_590",
+    "difficulty": "Hard",
+    "question": "اگر هر A باعث B شود و B رخ نداده باشد، آیا A نیز رخ نداده؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_567",
+    "difficulty": "Hard",
+    "question": "آیا معادله 2x + 1 = 2x - 1 بی‌جواب است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_249",
+    "difficulty": "Medium",
+    "question": "چه کشوری میزبان نخل طلای جشنواره کن است و شهر کن در آن قرار دارد؟",
+    "answer": "فرانسه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_490",
+    "difficulty": "Hard",
+    "question": "کدام کارگردان زن ایرانی فیلم «نفس» و «شبی که ماه کامل شد» را ساخته است؟",
+    "answer": "نرگس آبیار",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_548",
+    "difficulty": "Hard",
+    "question": "کدام کشورها سیاست‌های پیشرو زیست‌محیطی دارند و در حوزه انرژی تجدیدپذیر موفق هستند؟",
+    "options": [
+      "آلمان",
+      "سوئد",
+      "عربستان",
+      "دانمارک"
+    ],
+    "answer": [
+      "آلمان",
+      "سوئد",
+      "دانمارک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_411",
+    "difficulty": "Hard",
+    "question": "آیا کشوری که شهروندان آن به زبان فرانسوی صحبت می‌کنند، می‌تواند در قاره‌ای قرار داشته باشد که زبان رسمی آن انگلیسی است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_169",
+    "difficulty": "Easy",
+    "question": "اگر قطب‌نما جهت شمال را نشان می‌دهد، کاربرد آن چیست؟",
+    "answer": "یافتن جهت",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_244",
+    "difficulty": "Medium",
+    "question": "کدام عنصر شیمیایی عدد اتمی ۱ دارد و در ترکیب آب وجود دارد؟",
+    "options": [
+      "هیدروژن",
+      "هیچ‌کدام",
+      "کربن",
+      "اکسیژن"
+    ],
+    "answer": "هیدروژن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_157",
+    "difficulty": "Easy",
+    "question": "زبان رسمی کشوری که در آن شهر 'سیدنی' قرار دارد و واحد پول آن دلار استرالیاست، چیست؟",
+    "options": [
+      "آلمانی",
+      "هیچ‌کدام",
+      "فرانسوی",
+      "انگلیسی"
+    ],
+    "answer": "انگلیسی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_279",
+    "difficulty": "Medium",
+    "question": "خطاطی که نسخه‌ای از کلیله و دمنه را در دوران تیموری کتابت کرد، در چه طرحی برای مدل‌سازی تعامل انسان و ماشین در نامیبیا مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_165",
+    "difficulty": "Easy",
+    "question": "اگر کلمات سیاسی در شعرهای حافظ استفاده شوند، چرا ساعت‌ها از کار می‌افتند؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_390",
+    "difficulty": "Medium",
+    "question": "کدام کشورها در غرب آسیا قرار دارند و به دریای مدیترانه دسترسی دارند؟",
+    "options": [
+      "لبنان",
+      "عراق",
+      "ترکیه",
+      "سوریه"
+    ],
+    "answer": [
+      "لبنان",
+      "ترکیه",
+      "سوریه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_39",
+    "difficulty": "Easy",
+    "question": "اگر همه دانش‌آموزان به مدرسه می‌روند و علی دانش‌آموز است، علی به کجا می‌رود؟",
+    "answer": "مدرسه",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_327",
+    "difficulty": "Medium",
+    "question": "رودخانه‌ای که از چندین کشور اروپایی عبور می‌کند و به دریای سیاه می‌ریزد، چیست؟",
+    "options": [
+      "دانوب",
+      "راین",
+      "سن",
+      "هیچ‌کدام"
+    ],
+    "answer": "دانوب",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_460",
+    "difficulty": "Hard",
+    "question": "دو سیستم عددنویسی را نام ببرید که مبنای عددی متفاوت دارند ولی می‌توانند به هم تبدیل شوند.",
+    "answer": [
+      "ده‌دهی",
+      "دودویی"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_583",
+    "difficulty": "Hard",
+    "question": "اگر تفاضل دو عدد برابر صفر باشد، آن دو عدد برابرند. اگر a-b=0، آیا a=b؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_531",
+    "difficulty": "Hard",
+    "question": "کدام یک از مفاهیم معرفت‌شناسی در فلسفه اسلامی دارای هم‌پوشانی با روان‌شناسی مدرن است ولی در فقه نقشی ندارد؟",
+    "options": [
+      "هیچ‌کدام",
+      "معقولات ثانیه",
+      "ذهن فعال",
+      "نفس ناطقه"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_206",
+    "difficulty": "Medium",
+    "question": "کدام زبان باستانی در منطقه بین‌النهرین استفاده می‌شد و با خط میخی نوشته می‌شد؟",
+    "options": [
+      "یونانی",
+      "لاتین",
+      "اکدی",
+      "هیچ‌کدام"
+    ],
+    "answer": "اکدی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_406",
+    "difficulty": "Hard",
+    "question": "اگر در بیابان دمای روز بسیار بالا و شب بسیار پایین باشد، چه نوع نوسان دارد؟",
+    "answer": "نوسان حرارتی شدید",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_249",
+    "difficulty": "Medium",
+    "question": "کدام مفاهیم سیاسی در دموکراسی وجود دارند و با رأی مردم مرتبط‌اند؟",
+    "options": [
+      "رفراندوم",
+      "انتخابات",
+      "پارلمان",
+      "انتصاب"
+    ],
+    "answer": [
+      "رفراندوم",
+      "انتخابات",
+      "پارلمان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_167",
+    "difficulty": "Easy",
+    "question": "آیا مسیحیت دینی است که حضرت عیسی به آن تعلق دارد و کلیسا مکان عبادت آن است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_110",
+    "difficulty": "Easy",
+    "question": "دو قله بلند ایران که جزو ۵ قله مرتفع کشور هستند را نام ببرید.",
+    "answer": [
+      "دماوند",
+      "سبلان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_457",
+    "difficulty": "Hard",
+    "question": "کدام اندیشمند فرانسوی قرارداد اجتماعی را نوشت و نظریه اراده عمومی را مطرح کرد؟",
+    "answer": "ژان ژاک روسو",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_378",
+    "difficulty": "Medium",
+    "question": "اگر همه انسان‌ها نفس می‌کشند و نوزاد هم انسان است، نوزاد چه می‌کند؟",
+    "answer": "نفس می‌کشد",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_531",
+    "difficulty": "Hard",
+    "question": "در گراف جهت‌دار، کدام ویژگی‌ها معتبرند؟",
+    "options": [
+      "تقارن یال",
+      "حلقه ممکن",
+      "یال دارای جهت",
+      "درجه ورودی و خروجی"
+    ],
+    "answer": [
+      "یال دارای جهت",
+      "درجه ورودی و خروجی",
+      "حلقه ممکن"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_240",
+    "difficulty": "Medium",
+    "question": "سه بیماری غیرواگیر شایع در ایران که نیاز به مراقبت طولانی‌مدت دارند را نام ببرید.",
+    "answer": [
+      "دیابت",
+      "فشار خون بالا",
+      "سرطان"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_598",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان پذیرفت که جانوری که مهره ندارد و در خاک زندگی نمی‌کند، کرم خاکی نباشد؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_169",
+    "difficulty": "Easy",
+    "question": "آیا نمره آیلتس مورد نیاز برای دانشگاه‌های انگلستان بیشتر از حداقل نمره مورد نیاز در برخی دانشگاه‌های ایران است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_202",
+    "difficulty": "Medium",
+    "question": "دو نظریه را نام ببرید که یکی در روان‌شناسی و دیگری در اقتصاد به تصمیم‌گیری می‌پردازد.",
+    "answer": [
+      "رفتارگرایی",
+      "نظریه انتخاب عقلانی"
+    ],
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_349",
+    "difficulty": "Medium",
+    "question": "کدام کشور آسیایی در حاشیه دریای خزر قرار دارد و پایتخت آن باکو است؟",
+    "answer": "آذربایجان",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_18",
+    "difficulty": "Easy",
+    "question": "اگر هیچ کتابی نمی‌تواند آواز بخواند و این یک کتاب است، آیا این کتاب می‌تواند آواز بخواند؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_598",
+    "difficulty": "Hard",
+    "question": "آیا x = 2 یکی از جواب‌های x³ - 8 = 0 است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_189",
+    "difficulty": "Easy",
+    "question": "دو شهر که رودخانه‌های معروف از میان آن‌ها عبور می‌کند را نام ببرید.",
+    "answer": [
+      "پاریس",
+      "قاهره"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_241",
+    "difficulty": "Medium",
+    "question": "سه رود یا دریاچه معروف جهان که در مرز چند کشور قرار دارند را نام ببرید.",
+    "answer": [
+      "دانوب",
+      "دریاچه ویکتوریا",
+      "رود آمازون"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_327",
+    "difficulty": "Medium",
+    "question": "اگر هیچ تیمی با سه باخت متوالی در جدول باقی نماند، آیا تیمی با سه باخت حذف نمی‌شود؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_438",
+    "difficulty": "Hard",
+    "question": "کدام اخترفیزیکدان انگلیسی نظریه تابش سیاهچاله را ارائه کرد؟",
+    "options": [
+      "فرمی",
+      "استیون هاوکینگ",
+      "شرودینگر",
+      "هیچ‌کدام"
+    ],
+    "answer": "استیون هاوکینگ",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_229",
+    "difficulty": "Medium",
+    "question": "اگر آب در دمای ۱۰۰ درجه به جوش می‌آید، در کدام بخش از ایران بین سال‌های ۱۳۵۰ تا ۱۳۷۰ نقطه جوش به دلیل ارتفاع تغییر خاص داشته است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_145",
+    "difficulty": "Easy",
+    "question": "ارز رایج کشوری که پایتختش توکیو است چیست؟",
+    "answer": "ین",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_158",
+    "difficulty": "Easy",
+    "question": "کدام یک از پوشش‌های سنتی مردانه ایران از موادی ساخته شده که در نواحی ساحلی یافت نمی‌شود و در اقوام عرب کاربرد ندارد؟",
+    "options": [
+      "کلاه نمدی",
+      "پالتو پشمی لری",
+      "کفش گیوه‌ای",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_267",
+    "difficulty": "Medium",
+    "question": "در واکنش شیمیایی گرمازا، کدام ویژگی‌ها رخ می‌دهد؟",
+    "options": [
+      "افزایش دما",
+      "تولید نور",
+      "انتشار انرژی",
+      "جذب گرما"
+    ],
+    "answer": [
+      "افزایش دما",
+      "انتشار انرژی",
+      "تولید نور"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_546",
+    "difficulty": "Hard",
+    "question": "اگر E = mc² و c = 0، آیا E = 0؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_448",
+    "difficulty": "Hard",
+    "question": "آیا کسی که اولین واکسن ویروس کرونا را تولید کرد، از شرکت فایزر و اهل آلمان بود؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_175",
+    "difficulty": "Easy",
+    "question": "آیا اگر یک شیء سنگین‌تر از شیء دیگر باشد، افتادن آن با صدای بلندتری همراه است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_542",
+    "difficulty": "Hard",
+    "question": "کدام ساز غربی از خانواده زهی-آرشه‌ای است و بزرگ‌ترین عضو این خانواده است؟",
+    "options": [
+      "ویولا",
+      "کنترباس",
+      "هیچ‌کدام",
+      "ویولنسل"
+    ],
+    "answer": "کنترباس",
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_80",
+    "difficulty": "Easy",
+    "question": "دو کشور را نام ببرید که هر دو هم‌زمان در آسیا و اروپا قرار دارند.",
+    "answer": [
+      "ترکیه",
+      "روسیه"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_87",
+    "difficulty": "Easy",
+    "question": "کدام روش‌ها در تحلیل آماری داده‌ها کاربرد دارند؟",
+    "options": [
+      "رگرسیون",
+      "تحلیل عاملی",
+      "نقاشی با مداد",
+      "تحلیل خوشه‌ای"
+    ],
+    "answer": [
+      "رگرسیون",
+      "تحلیل عاملی",
+      "تحلیل خوشه‌ای"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_575",
+    "difficulty": "Hard",
+    "question": "چهار زبان که در چندین کشور به‌عنوان زبان رسمی یا اداری به‌کار می‌روند را نام ببرید.",
+    "answer": [
+      "انگلیسی",
+      "فرانسوی",
+      "عربی",
+      "اسپانیایی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_321",
+    "difficulty": "Medium",
+    "question": "چگونه اعداد فیبوناچی می‌توانند ساختار یک شعر را تقلید کنند؟",
+    "options": [
+      "ریتم",
+      "هیچ‌کدام",
+      "تکرار",
+      "بحر طویل"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_556",
+    "difficulty": "Hard",
+    "question": "نقاشی که مینیاتورهای نسخه خطی خمسه نظامی را ترسیم کرده، در چه برنامه‌ریزی شهری در نروژ نقش داشته است؟",
+    "answer": null,
+    "ambiguity": 1,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_281",
+    "difficulty": "Medium",
+    "question": "اگر هر اثر هنری نیازمند خلاقیت باشد و فیلمی فاقد خلاقیت باشد، آیا آن اثر هنری است؟",
+    "options": [
+      "خیر",
+      "شاید",
+      "هیچ‌کدام",
+      "نامشخص"
+    ],
+    "answer": "خیر",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_161",
+    "difficulty": "Easy",
+    "question": "آیا نمی‌توان نتیجه گرفت که کشوری که شبکه برق‌رسانی ندارد و نیروگاه ندارد، تولیدکننده انرژی نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_176",
+    "difficulty": "Easy",
+    "question": "چهار فعالیت روزمره را نام ببرید که بر مصرف انرژی اثر مستقیم دارند.",
+    "answer": [
+      "روشنایی",
+      "گرمایش",
+      "پخت‌وپز",
+      "استفاده از وسایل برقی"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_69",
+    "difficulty": "Easy",
+    "question": "کارگردانی که فیلم کودکانه درباره زبان‌های محلی ساخت، در چه طرحی برای پردازش زبان‌های کم‌منبع در لیبریا همکاری کرده است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_445",
+    "difficulty": "Hard",
+    "question": "اگر تنگه هرمز یکی از نقاط راهبردی جهان است، چرا نظریه‌های فیزیک کوانتوم در نقشه‌های آب‌وهوایی ناپدید می‌شوند؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_316",
+    "difficulty": "Medium",
+    "question": "اگر عدد مبنا در سیستم عددی تعریف نشود، کدام عدد واقعی‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۱۶",
+      "۲",
+      "۸"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_261",
+    "difficulty": "Medium",
+    "question": "آیا میزان مصرف روزانه نمک در ایران بیشتر از استاندارد جهانی است و باعث بیماری‌های قلبی می‌شود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_486",
+    "difficulty": "Hard",
+    "question": "بازیکنی که اولین گل تاریخ لیگ قهرمانان آسیا برای ایران را زد، در چه طرحی برای شبیه‌سازی مسابقات دیجیتال در مالی همکاری کرده است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_207",
+    "difficulty": "Medium",
+    "question": "اگر همه قرارها لغو شده باشند و جلسه‌ای برگزار شود، آیا آن جلسه لغو شده؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_345",
+    "difficulty": "Medium",
+    "question": "آیا پیش‌بینی رفتار دو پدیده ساده‌تر از پیش‌بینی رفتار دو پدیده با ساختار پیچیده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_560",
+    "difficulty": "Hard",
+    "question": "آیا کشوری که زبان رسمی آن اسپانیایی است، می‌تواند در قاره‌ای قرار داشته باشد که انگلیسی زبان اصلی آن نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_298",
+    "difficulty": "Medium",
+    "question": "کدام یک از تجهیزات ایمنی خودرو در ایران الگویی دارد که در خودروهای آسیایی استاندارد نیست؟",
+    "options": [
+      "کمربند ایمنی تزئینی",
+      "کیسه‌هوا با پارچه محلی",
+      "آینه کوچک متحرک دستی",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_80",
+    "difficulty": "Easy",
+    "question": "اگر گوشی هوشمند دوربین دارد، از چه برای عکس گرفتن استفاده می‌کند؟",
+    "options": [
+      "بلندگو",
+      "لنز",
+      "هیچ‌کدام",
+      "آنتن"
+    ],
+    "answer": "لنز",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_327",
+    "difficulty": "Medium",
+    "question": "کدام فلاسفه غربی در قرون اخیر نظریه‌های ذهن را مطرح کردند؟",
+    "options": [
+      "سقراط",
+      "کانت",
+      "لاک",
+      "دکارت"
+    ],
+    "answer": [
+      "کانت",
+      "لاک",
+      "دکارت"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_223",
+    "difficulty": "Medium",
+    "question": "کدام خطاط ایرانی در دوره تیموریان سبک نستعلیق را به کمال رساند؟",
+    "options": [
+      "احمد نیریزی",
+      "میرعلی تبریزی",
+      "هیچ‌کدام",
+      "یاقوت مستعصمی"
+    ],
+    "answer": "میرعلی تبریزی",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_428",
+    "difficulty": "Hard",
+    "question": "آیا جمعیت مسلمانان در نیجریه از اندونزی کمتر است و هر دو کشور با اکثریت مسلمان هستند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 1
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_listbased_284",
+    "difficulty": "Medium",
+    "question": "سه کشور که بیشترین تولیدکننده گاز طبیعی در جهان هستند را نام ببرید.",
+    "answer": [
+      "روسیه",
+      "ایران",
+      "آمریکا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_204",
+    "difficulty": "Medium",
+    "question": "اگر ساعت معکوس بچرخد و مبدا نداشته باشد، کدام زمان واقعی‌تر است؟",
+    "options": [
+      "۶",
+      "۹",
+      "هیچ‌کدام",
+      "۱۲"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_120",
+    "difficulty": "Easy",
+    "question": "اگر هیچ نقش متقارن در مرکز طرح نباشد، آیا نقشی که تقارن ندارد می‌تواند مرکزی باشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_145",
+    "difficulty": "Easy",
+    "question": "شخصی که درباره موسیقی در دوره ساسانی کتاب نوشته، در چه فستیوال تصویربرداری پزشکی در گینه بیسائو حضور داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_197",
+    "difficulty": "Easy",
+    "question": "اگر مساحت مستطیل حاصل ضرب طول و عرض باشد و طول و عرض هر دو ۵ باشند، آیا مساحت ۲۵ است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_534",
+    "difficulty": "Hard",
+    "question": "کدام یک از مفاهیم در زبان‌شناسی سنتی فارسی با تحلیل بلاغی پیوند دارد ولی در نحو عربی کلاسیک قابل تطبیق نیست؟",
+    "options": [
+      "هیچ‌کدام",
+      "تقدیم و تأخیر",
+      "جناس تام",
+      "تشبیه مفصل"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 2,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_7",
+    "difficulty": "Easy",
+    "question": "آیا صحیح نیست که کشوری که پایتخت آن توکیو نیست و واحد پول آن ین نیست، ژاپن نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_296",
+    "difficulty": "Medium",
+    "question": "اگر تیم ملی والیبال ایران به فینال برسد، چرا دستور زبان فارسی در کشورهای دیگر تغییر نمی‌کند؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_279",
+    "difficulty": "Medium",
+    "question": "سه مفهوم فلسفی را نام ببرید که در حکمت اشراق سهروردی دیده می‌شود.",
+    "answer": [
+      "نور",
+      "اشراق",
+      "وجود ذهنی"
+    ],
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_177",
+    "difficulty": "Easy",
+    "question": "اگر بازی‌های آسیایی هر ۴ سال برگزار می‌شود، چرا هنوز تعداد رکوردهای شکسته‌شده در شنای پروانه در قالب شعر کهن نوشته نشده؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_154",
+    "difficulty": "Easy",
+    "question": "آیا مقایسه دو جنگ داخلی در یک کشور آسان‌تر از مقایسه یک جنگ داخلی با جنگ جهانی است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_47",
+    "difficulty": "Easy",
+    "question": "رنگ مورد علاقه کوروش بزرگ در مراسم نوروز، چه تأثیری بر صنعت خودرو در کره جنوبی داشته است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_556",
+    "difficulty": "Hard",
+    "question": "کدام چالش‌ها در دموکراسی‌های مدرن برای رسانه مطرح‌اند؟",
+    "options": [
+      "قطبی‌سازی محتوا",
+      "پخت و پز",
+      "تمرکز مالکیت",
+      "سوگیری خبری"
+    ],
+    "answer": [
+      "قطبی‌سازی محتوا",
+      "تمرکز مالکیت",
+      "سوگیری خبری"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_158",
+    "difficulty": "Easy",
+    "question": "کدام گزینه‌ها نیاز به قضاوت رسمی دارند؟",
+    "options": [
+      "دو میدانی پرتاب دیسک",
+      "دوچرخه‌سواری",
+      "بوکس",
+      "ژیمناستیک"
+    ],
+    "answer": [
+      "ژیمناستیک",
+      "بوکس",
+      "دو میدانی پرتاب دیسک"
+    ],
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_503",
+    "difficulty": "Hard",
+    "question": "چهار عنصر مشترک میان طراحی لباس و معماری را نام ببرید.",
+    "answer": [
+      "نسبت",
+      "الگو",
+      "تناسب",
+      "کارکرد"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_491",
+    "difficulty": "Hard",
+    "question": "آیا درآمد گردشگری فرانسه بیشتر از مجموع اسپانیا و ایتالیا است و هر سه مقصدهای محبوب هستند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_186",
+    "difficulty": "Easy",
+    "question": "کدام کشور خاستگاه اصلی موسیقی کلاسیک غربی است و شهر وین در آن قرار دارد؟",
+    "answer": "اتریش",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_multi_168",
+    "difficulty": "Easy",
+    "question": "کدام جشن‌ها ریشه در تقویم باستانی ایرانی دارند؟",
+    "options": [
+      "عاشورا",
+      "سده",
+      "نوروز",
+      "یلدا"
+    ],
+    "answer": [
+      "نوروز",
+      "یلدا",
+      "سده"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_205",
+    "difficulty": "Medium",
+    "question": "آیا تعداد خودروهای تولید شده در ایران بیشتر از ترکیه در سال گذشته بوده است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_67",
+    "difficulty": "Easy",
+    "question": "اگر نور شمع کم است و نور خورشید زیاد، نور مهتاب چگونه است؟",
+    "answer": "متوسط",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_nonanswerable_45",
+    "difficulty": "Easy",
+    "question": "اگر حوزه‌های علمیه قم و مشهد تأثیرگذارترین مراکز علوم دینی‌اند، چه درصدی از متون منتشرشده در دهه ۶۰ شمسی حاوی اصطلاحات مشترک این دو حوزه است؟",
+    "answer": null,
+    "ambiguity": 3,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_248",
+    "difficulty": "Medium",
+    "question": "آیا DNA ماده‌ای است که اطلاعات ژنتیکی را منتقل می‌کند و فقط در ویروس‌ها وجود دارد؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_165",
+    "difficulty": "Easy",
+    "question": "دریانوردی که از بندرعباس به هند سفر کرد، در چه سمیناری درباره علم داده در نیوزیلند شرکت کرده است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_90",
+    "difficulty": "Easy",
+    "question": "آیا مقایسه دو تصمیم مشابه در موقعیت‌های اخلاقی مختلف پیچیده‌تر از مقایسه در شرایط یکسان است؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_single_537",
+    "difficulty": "Hard",
+    "question": "کدام شاعر اروپایی در قرن ۱۴ میلادی کتاب 'کمدی الهی' را نوشت؟",
+    "options": [
+      "شکسپیر",
+      "هیچ‌کدام",
+      "گوته",
+      "دانته"
+    ],
+    "answer": "دانته",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_299",
+    "difficulty": "Medium",
+    "question": "کدام نهادها در تحقیقات فضایی بین‌المللی نقش دارند؟",
+    "options": [
+      "فدراسیون فوتبال",
+      "روسکوسموس",
+      "ناسا",
+      "اسا"
+    ],
+    "answer": [
+      "روسکوسموس",
+      "ناسا",
+      "اسا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_595",
+    "difficulty": "Hard",
+    "question": "دو شاخه زیست‌شناسی را نام ببرید که برای درک بیماری‌های ژنتیکی ضروری‌اند.",
+    "answer": [
+      "ژنتیک",
+      "بیوانفورماتیک"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_82",
+    "difficulty": "Easy",
+    "question": "کدام هنرها هم نمایشی محسوب می‌شوند و هم روی صحنه اجرا دارند؟",
+    "options": [
+      "رقص",
+      "عکاسی",
+      "تئاتر",
+      "اپرا"
+    ],
+    "answer": [
+      "رقص",
+      "تئاتر",
+      "اپرا"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_274",
+    "difficulty": "Medium",
+    "question": "اگر نتیجه بازی وابسته به گل باشد و هیچ گلی زده نشود، آیا نتیجه صفر - صفر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_271",
+    "difficulty": "Medium",
+    "question": "آیا انرژی باد با استفاده از توربین‌های بادی تولید می‌شود و در مناطق کوهستانی مؤثر است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 2
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_303",
+    "difficulty": "Medium",
+    "question": "کدام یک از تکنیک‌های سوزن‌دوزی ایرانی دارای الگویی است که در آسیای شرقی یافت نمی‌شود و در قفقاز هم دیده نمی‌شود؟",
+    "options": [
+      "بافت زرشک‌دوزی",
+      "نقش‌دوزی با ریسمان",
+      "سوزن‌دوزی لایه‌ای بلوچ",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 2,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_483",
+    "difficulty": "Hard",
+    "question": "در غیاب تابع توزیع، کدام انحراف معیار واقعی‌تر است؟",
+    "options": [
+      "هیچ‌کدام",
+      "۲",
+      "۳",
+      "۴"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_213",
+    "difficulty": "Medium",
+    "question": "آیا نمی‌توان پذیرفت که عنصری که رسانای الکتریسیته نیست و عدد اتمی پایین ندارد، فلز قلیایی نباشد؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_non_answerable_154",
+    "difficulty": "Easy",
+    "question": "کدام یک از ضرب‌المثل‌های ایرانی ساختاری دارد که در زبان ارمنی استفاده نمی‌شود و در مثل‌های ترکیه‌ای نیز مشابه ندارد؟",
+    "options": [
+      "آب که از سر گذشت...",
+      "چو دزدی با چراغ آید...",
+      "دیگ به دیگ می‌گوید...",
+      "هیچ‌کدام"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_147",
+    "difficulty": "Easy",
+    "question": "آیا قیمت کتاب در ایران معمولاً بیشتر از قیمت بلیط سینما است و هر دو جزو سرگرمی‌های فرهنگی محسوب می‌شوند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_simple_253",
+    "difficulty": "Medium",
+    "question": "اگر هدفون به گوشی وصل باشد ولی صدا از بلندگو بیاید، دلیل چیست؟",
+    "answer": "اتصال ناقص یا قطع بودن هدفون",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_170",
+    "difficulty": "Easy",
+    "question": "آیا در آموزش مجازی دانش‌آموزان با معلمان در یک مکان فیزیکی حضور دارند؟",
+    "answer": false,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_comparative_434",
+    "difficulty": "Hard",
+    "question": "آیا تطبیق بین مدل نظری و داده تجربی نیازمند استدلال مقایسه‌ای است؟",
+    "answer": true,
+    "ambiguity": 3,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_316",
+    "difficulty": "Medium",
+    "question": "کدام شهر به داشتن کانال‌های آبی مشهور است و در کشور هلند قرار دارد؟",
+    "answer": "آمستردام",
+    "ambiguity": 4,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_non_answerable_61",
+    "difficulty": "Easy",
+    "question": "اگر هدفون خراب باشد، کدام کتاب بیشتر شنیده می‌شود؟",
+    "options": [
+      "جنگ و صلح",
+      "بوف کور",
+      "هیچ‌کدام",
+      "صد سال تنهایی"
+    ],
+    "answer": "هیچ‌کدام",
+    "ambiguity": 2,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_505",
+    "difficulty": "Hard",
+    "question": "آیا نمی‌توان نتیجه گرفت که شهری که در حاشیه کوه قرار ندارد و دامنه ندارد، شهر کوهپایه‌ای نیست؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_63",
+    "difficulty": "Easy",
+    "question": "اگر هیچ شکل سه‌بعدی دو بعد نداشته باشد، آیا جسمی دوبعدی می‌تواند مکعب باشد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 4,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_negation_113",
+    "difficulty": "Easy",
+    "question": "آیا درست است که کشوری که در قاره آفریقا قرار ندارد و پایتخت آن قاهره نیست، مصر باشد؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_nonanswerable_375",
+    "difficulty": "Medium",
+    "question": "فردی که اولین بار از عبارات فارسی در تابلوهای تبلیغاتی شهری استفاده کرد، در چه طرحی برای تحلیل بصری زبان در چاد مشارکت داشته است؟",
+    "answer": null,
+    "ambiguity": 2,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_simple_256",
+    "difficulty": "Medium",
+    "question": "اگر همه A ها B باشند و x ∈ A، آیا x ∈ B؟",
+    "answer": true,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_388",
+    "difficulty": "Medium",
+    "question": "آیا کشوری که کریکت یکی از ورزش‌های اصلی آن است، انگلیس است و در بسیاری از کشورهای مستعمره رواج دارد؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_reasoning_single_237",
+    "difficulty": "Medium",
+    "question": "اگر جرم جسمی ۱۰ کیلوگرم و شتاب آن ۲ m/s² باشد، نیروی واردشده چقدر است؟",
+    "options": [
+      "۲۰ نیوتن",
+      "۵",
+      "هیچ‌کدام",
+      "۱۵"
+    ],
+    "answer": "۲۰ نیوتن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 4
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_186",
+    "difficulty": "Easy",
+    "question": "آیا موتور سیکلت بدون فرمان و چرخ ساخته می‌شود و نمی‌توان آن را هدایت کرد؟",
+    "answer": false,
+    "ambiguity": 3,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_multihop_simple_334",
+    "difficulty": "Medium",
+    "question": "کدام کشور اولین بار قطار سریع‌السیر را معرفی کرد؟",
+    "answer": "ژاپن",
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "multichoice_multihop_multi_106",
+    "difficulty": "Easy",
+    "question": "کدام دستگاه‌ها در تحلیل داده‌های آماری ساده به‌کار می‌روند؟",
+    "options": [
+      "ماشین‌حساب",
+      "گوگل‌شیت",
+      "تلویزیون",
+      "اکسل"
+    ],
+    "answer": [
+      "ماشین‌حساب",
+      "گوگل‌شیت",
+      "اکسل"
+    ],
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_comparative_206",
+    "difficulty": "Medium",
+    "question": "آیا میانگین بارندگی در شمال اروپا بیشتر از جنوب اروپاست و این به شرایط جغرافیایی مرتبط است؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 5,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_multihop_simple_61",
+    "difficulty": "Easy",
+    "question": "آیا کسی که نظریه مثل افلاطونی را مطرح کرد، هم‌دوره ارسطو بود؟",
+    "answer": true,
+    "ambiguity": 2,
+    "readability": 5,
+    "correctness": 3
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_134",
+    "difficulty": "Easy",
+    "question": "اگر هیچ حاصل‌ضرب عدد در ۱ تغییر نکند، آیا ۷ × ۱ برابر ۷ خواهد بود؟",
+    "answer": true,
+    "ambiguity": 5,
+    "readability": 3,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "factoid_reasoning_listbased_365",
+    "difficulty": "Medium",
+    "question": "سه کاربرد متفاوت از مفهوم «شبکه» را در علوم مختلف نام ببرید.",
+    "answer": [
+      "شبکه عصبی",
+      "شبکه اجتماعی",
+      "شبکه الکتریکی"
+    ],
+    "ambiguity": 5,
+    "readability": 4,
+    "correctness": 5
+  },
+  {
+    "submission_ts": "2025-08-23T23:17:56.681Z",
+    "annotator_id": "melo",
+    "annotator_name": "ali abbasi",
+    "id": "boolean_reasoning_negation_524",
+    "difficulty": "Hard",
+    "question": "اگر هیچ برنامه‌ای بدون تست واحد معتبر نباشد، آیا برنامه‌ی تست‌نشده معتبر است؟",
+    "answer": false,
+    "ambiguity": 4,
+    "readability": 3,
+    "correctness": 3
+  }
+]

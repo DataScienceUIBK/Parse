@@ -1,0 +1,47 @@
+Answer the following question with a list of short factoid answers that should be in Persian. There may be no ,one or multi-answers (at most 4 answers). Leave the list of answers empty if there is no answer.
+Return the short factoid answers only in one JSON List format.
+
+Output format:
+
+{
+  "answers": [<short factoid answers (at most 4 short factoid answers)>]
+}
+
+Question: دو پرنده که توانایی تقلید صدای انسان را دارند را نام ببرید.
+Answer:
+{
+  "answers": ["طوطی", "مرغ مینا"]
+}
+
+Question: خواننده‌ای که در دهه ۴۰ خورشیدی موسیقی سنتی اجرا می‌کرد، در چه طرحی درباره آموزش ریاضی در تانزانیا همکاری داشته است؟
+Answer:
+{
+  "answers": []
+}
+
+Question: نام کشوری که آمازون بزرگ‌ترین جنگل آن است چیست؟
+Answer:
+{
+  "answers": ["برزیل"]
+}
+
+Question: چهار بخش از یک خانه سنتی ایرانی را نام ببرید که کارکردهای مختلفی دارند.
+Answer:
+{
+  "answers": ["حیاط", "هشتی", "ایوان", "بادگیر"]
+}
+
+Question: کدام‌یک از واژگان رایج در زبان خیابانی تهران دارای ریشه ساختاری مشترک با زبان سومری هستند؟
+Answer:
+{
+  "answers": []
+}
+
+Question: اگر احمد از رضا بزرگتر باشد و رضا از ناصر بزرگتر باشد، چه کسی از همه کوچکتر است؟
+Answer:
+{
+  "answers": ["ناصر"]
+}
+
+Question: <Question>
+Answer:

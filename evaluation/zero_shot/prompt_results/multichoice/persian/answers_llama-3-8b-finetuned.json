@@ -1,0 +1,4733 @@
+[
+    {
+        "id": "multichoice_multihop_multi_152",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_121",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_136",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_114",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_165",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_25",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_27",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_127",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_94",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_10",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_91",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_12",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_148",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_104",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_74",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_57",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_192",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_191",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_153",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_22",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_320",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_277",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_373",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_382",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_233",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_396",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_324",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_218",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_298",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_236",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_265",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_296",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_391",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_256",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_219",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_333",
+        "predicted_answer": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_319",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_349",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_374",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_372",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_532",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_566",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_403",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_511",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_472",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_437",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_483",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_492",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_513",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_471",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_528",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_461",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_497",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_426",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_444",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_481",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_416",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_446",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_459",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_469",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_154",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_482",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_542",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_587",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_120",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_271",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_548",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_390",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_249",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_87",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_327",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_556",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_299",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_82",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_106",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_518",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_169",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_5",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_350",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_442",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_339",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_467",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_301",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_156",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_19",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_15",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_384",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_541",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_356",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_571",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_88",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_116",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_13",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_251",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_307",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_375",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_312",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_456",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_335",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_51",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_520",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_581",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_159",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_457",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_430",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_238",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_69",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_562",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_573",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_247",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_531",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_73",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_264",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_173",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_137",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_549",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_76",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_348",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_297",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_multi_499",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_123",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_157",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_5",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_114",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_148",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_165",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_46",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_155",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_110",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_61",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_175",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_171",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_20",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_78",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_182",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_32",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_50",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_176",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_10",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_7",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_302",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_232",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_370",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_308",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_226",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_221",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_277",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_275",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_241",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_296",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_257",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_321",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_327",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_389",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_317",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_382",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_251",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_236",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_306",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_330",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_403",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_540",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_552",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_569",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_402",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_581",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_491",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_521",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_553",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_407",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_459",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_493",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_482",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_446",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_532",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_511",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_506",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_456",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_416",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_525",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_495",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_131",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_245",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_400",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_82",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_2",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_466",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_526",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_238",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_531",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_158",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_298",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_534",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_303",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_154",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_508",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_248",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_346",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_547",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_365",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_555",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_41",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_99",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_573",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_15",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_94",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_485",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_255",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_40",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_301",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_404",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_297",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_591",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_28",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_441",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_229",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_551",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_128",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_230",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_341",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_125",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_64",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_410",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_387",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_1",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_26",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_393",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_107",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_334",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_242",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_79",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_445",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_269",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_510",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_193",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_177",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_291",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_518",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_502",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_non_answerable_478",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_48",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_161",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_17",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_113",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_111",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_1",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_172",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_118",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_98",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_43",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_52",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_200",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_100",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_44",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_170",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_47",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_82",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_63",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_41",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_195",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_340",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_333",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_278",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_270",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_360",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_394",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_365",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_376",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_294",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_339",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_289",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_343",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_386",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_320",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_224",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_277",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_310",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_268",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_285",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_245",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_418",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_595",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_579",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_420",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_599",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_480",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_471",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_401",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_586",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_544",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_455",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_548",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_429",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_516",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_477",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_560",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_424",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_495",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_535",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_578",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_54",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_550",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_196",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_11",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_49",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_464",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_296",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_244",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_157",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_327",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_206",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_438",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_542",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_223",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_537",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_355",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_546",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_75",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_61",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_300",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_336",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_526",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_443",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_565",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_108",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_205",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_40",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_94",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_531",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_369",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_344",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_508",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_30",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_363",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_509",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_395",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_66",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_57",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_350",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_337",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_553",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_101",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_588",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_523",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_29",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_4",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_451",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_103",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_465",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_423",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_319",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_371",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_214",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_32",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_91",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_555",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_241",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_573",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_359",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_multihop_single_121",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_171",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_56",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_50",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_46",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_165",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_156",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_18",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_198",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_112",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_127",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_4",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_76",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_182",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_173",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_170",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_40",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_19",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_161",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_43",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_34",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_285",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_230",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_321",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_226",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_369",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_242",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_366",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_390",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_356",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_246",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_304",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_376",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_385",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_261",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_219",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_263",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_379",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_382",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_307",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_337",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_478",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_402",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_523",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_585",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_403",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_469",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_511",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_571",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_424",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_564",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_466",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_451",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_499",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_409",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_446",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_477",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_509",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_590",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_561",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_401",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_462",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_93",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_533",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_373",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_454",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_350",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_323",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_71",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_399",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_458",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_66",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_531",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_267",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_158",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_168",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_508",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_426",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_286",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_14",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_418",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_374",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_324",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_599",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_222",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_188",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_89",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_345",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_28",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_476",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_31",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_186",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_415",
+        "predicted_answer": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_317",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_79",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_493",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_419",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_191",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_199",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_207",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_16",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_305",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_417",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_381",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_254",
+        "predicted_answer": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_524",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_142",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_600",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_339",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_567",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_352",
+        "predicted_answer": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_259",
+        "predicted_answer": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_583",
+        "predicted_answer": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_252",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_178",
+        "predicted_answer": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_7",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_210",
+        "predicted_answer": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_592",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_428",
+        "predicted_answer": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_44",
+        "predicted_answer": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_multi_5",
+        "predicted_answer": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_79",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_14",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_7",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_120",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_78",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_144",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_152",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_102",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_184",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_166",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_163",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_195",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_190",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_40",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_198",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_107",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_193",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_187",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_70",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_50",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_318",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_337",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_224",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_340",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_215",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_220",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_354",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_322",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_305",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_352",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_234",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_216",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_294",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_232",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_382",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_396",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_267",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_339",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_264",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_210",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_425",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_548",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_458",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_496",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_511",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_499",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_410",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_501",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_557",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_411",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_485",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_514",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_492",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_521",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_541",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_515",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_507",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_594",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_480",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_470",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_101",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_247",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_525",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_82",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_431",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_416",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_523",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_132",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_241",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_154",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_321",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_316",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_204",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_483",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_61",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_324",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_535",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_80",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_403",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_289",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_217",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_538",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_332",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_273",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_74",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_177",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_188",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_512",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_86",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_547",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_192",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_516",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_401",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_239",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_285",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_128",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_254",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_55",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_420",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_281",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_274",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_28",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_415",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_503",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_108",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_201",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_134",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_292",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_135",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_527",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_288",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_421",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_520",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_97",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_252",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_47",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_355",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_2",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_509",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_non_answerable_469",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_49",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_192",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_33",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_61",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_120",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_189",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_20",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_119",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_187",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_196",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_134",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_63",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_109",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_59",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_28",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_65",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_184",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_121",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_185",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_154",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_309",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_264",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_229",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_218",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_225",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_203",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_205",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_398",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_214",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_335",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_363",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_257",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_221",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_223",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_331",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_239",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_375",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_314",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_347",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_243",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_543",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_575",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_429",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_561",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_594",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_559",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_458",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_508",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_469",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_419",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_530",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_453",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_519",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_462",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_407",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_455",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_569",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_480",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_499",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_520",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_68",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_124",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_342",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_505",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_51",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_426",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_546",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_435",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_280",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_329",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_420",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_3",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_281",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_80",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_237",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_255",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_312",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_537",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_515",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_555",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_71",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_97",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_26",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_399",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_293",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_581",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_316",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_117",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_193",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_473",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_55",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_234",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_161",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_29",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_64",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_504",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_440",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_510",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_554",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_321",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_186",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_245",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_310",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_404",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_388",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_579",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_298",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_274",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_58",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_431",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_30",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_250",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_397",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_290",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_414",
+        "predicted_answer": [
+            1
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_174",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_535",
+        "predicted_answer": [
+            3
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_169",
+        "predicted_answer": [
+            4
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_147",
+        "predicted_answer": [
+            2
+        ]
+    },
+    {
+        "id": "multichoice_reasoning_single_593",
+        "predicted_answer": [
+            3
+        ]
+    }
+]

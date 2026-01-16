@@ -1,0 +1,14 @@
+First, reason step by step about which options are correct or incorrect, then return the final answer in JSON. There may be one correct option, or multiple correct options.
+
+Output format:
+{
+  "answer": [<number(s) of correct option(s) only from 1,2,3,or 4>]
+}
+
+Question: <Question>
+1) <Option_1>
+2) <Option_2>
+3) <Option_3>
+4) <Option_4>
+
+Answer:
