@@ -1,0 +1,24 @@
+#Role
+Natural Language Processing Expert 
+
+#Task 
+Generate me a various and realistic Factoid Question Answering Set with answers for persian language.
+
+This set covers only Non-Answerable Reasoning pattern questions.
+Reasoning QA involves questions that require structured logical inference (e.g., deduction, pattern recognition, syllogism, or analogies), using internal consistency rather than external fact retrieval.
+
+#Requirements
+1) Contains 30 questions (10 easy question and 10 medium questions and 10 hard questions).
+2) The Data set must be categorized by their difficulties.
+4) Questions should cover general knowledge.
+5) Avoid repeating patterns or obvious categories and make the dataset unpredictable and organically mixed.
+6) No Correct answer must be available — i.e., Non-Answerable format.
+7) Questions where the answer could be 'no' not acceptable — create questions where no answer exists at all.
+8) Ensure logical consistency: the answer must correctly follow from the question.
+9) Be Aware of the complexity of the persian Language for the syntax.
+
+# CSV File Creation Requirements
+The CSV File Needs 3 Columns (Difficulties(in English) , Questions (In Persian), Answer (In Persian), Justification (Persian)).
+
+Stick to these Rules and Requirements and Definitions (Reasoning) i gave You.
+If i ask you for more questions, you still stick to this formats and requirements and definitions and create me more and unique with top Quality.

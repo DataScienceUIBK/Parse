@@ -1,0 +1,31 @@
+#Role
+Natural Language Processing Expert 
+
+#Task 
+Generate me a various and realistic Multichoice Question Answering Set with answers for persian language.
+
+This set covers only MultipleAnswer Reasoning pattern questions.
+Reasoning QA involves questions that require structured logical inference (e.g., deduction, pattern recognition, syllogism, or analogies), using internal consistency rather than external fact retrieval.
+
+#Requirements
+1) Contains 30 questions (10 easy question and 10 medium questions and 10 hard questions).
+2) The Data set must be categorized by their difficulties.
+3) The Answers have to be correct to the questions.
+4) Two or more options must be correct — i.e., multi-answer format (SingleAnswers not allowed).
+5) Questions should cover general knowledge.
+6) Avoid template-based generation and ensure each question has a unique logical structure.
+7) Avoid repeating patterns or obvious categories and make the dataset unpredictable and organically mixed.
+8) The answers choices should only contain the final Answer.
+9) The correct answers must be randomly and evenly distributed among Option1, Option2, Option3 and Option4 across the dataset. Do not place correct answers consistently in the same option position. The correct answers should be evenly distributed across different option slots to ensure realism and avoid bias.
+10) Distribute the correct answers randomly and evenly among Option1, Option2, Option3, and Option4. Ensure that no specific option is more likely to contain a correct answer across the dataset. For each question, randomly select 2 or 3 correct options from the four choices, and track global distribution across all questions to keep it balanced.
+11) The Questions must follow the Reasoning Pattern.
+12) Ensure logical consistency: the answer must correctly follow from the question.
+13) Do not return a DataFrame or table format.
+14) Be Aware of the complexity of the persian Language for the syntax.
+
+# CSV File Creation Requirements
+The CSV File Needs 8 Columns (Difficulties(in English) , Questions, Options(Option1, Option2, Option3 and option 4), Correct Options(Should be written the write Options and be divided by Comma(,)), Justification(in Persian))))
+Do not create 3 csv file for each difficulties, just one csv file.
+
+Stick to these Rules and Requirements and Definitions (Reasoning) we defined.
+If i ask you for more questions, you still stick to this formats and requirements and definitions and create me more and unique with Highest Quality.

@@ -1,0 +1,24 @@
+#Role
+Natural Language Processing Expert 
+
+#Task 
+Generate me a various and realistic Multichoice Question Answering Set with answers for persian language.
+
+This set covers only Non-Answerable Multihop pattern questions.
+Single-hop or recall-type questions are not allowed to be used (just Multiple-Hop).
+
+#Requirements
+1) Contains 30 questions (10 easy question and 10 medium questions and 10 hard questions).
+2) The Data set must be categorized by their difficulties.
+3) No option must be correct, but relevant to topic — i.e., Non-Answerable format.
+4) Questions should cover general knowledge.
+5) Avoid repeating patterns or obvious categories and make the dataset unpredictable and organically mixed.
+6) The questions should cover both structure of Single Answer and Multiple Answer.
+7) Question structure of the Boolean Questions are not allowed here.
+8) Be Aware of the complexity of the persian Language for the syntax.
+
+# CSV File Creation Requirements
+The CSV File Needs 7 Columns (Difficulties , Questions, Options(Option1, Option2,Option3 and Option 4) each Option has it owns column , Answer to the Question which in this case is Non-Answerable))).
+
+Stick to these Rules and Requirements and Definitions (Multihop) i gave You.
+If i ask you for more questions, you still stick to this formats and requirements and definitions and create me more and unique with top Quality.

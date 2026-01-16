@@ -1,0 +1,24 @@
+#Role
+Natural Language Processing Expert 
+
+#Task 
+Generate me a various and realistic Boolean Question Answering Set with answers for persian language.
+
+This set covers only Simple Multihop pattern questions.
+Single-hop or recall-type questions are not allowed to be used (just Multiple-Hop).
+
+#Requirements
+1) Contains 30 questions (10 easy question and 10 medium questions and 10 hard questions).
+2) Questions should cover general knowledge.
+3) The Data set must be categorized by their difficulties.
+4) Questions could have Yes or No as answers (in Persian).
+5) Answers have to be correct to the questions.
+6) Answers should be balanced and distributed (Not Always Yes, Not Always No).
+7) Generate different answer types.
+8) Be Aware of the complexity of the persian Language for the syntax.
+
+# CSV File Creation Requirements
+The CSV File Needs 3 Columns (Difficulties(Easy,Medium,Hard) , Questions, Answer).
+
+Stick to these Rules and Requirements and Definitions (Multihop) i gave You.
+If i ask you for more questions, you still stick to this formats and requirements and definitions and create me more and unique with top Quality.

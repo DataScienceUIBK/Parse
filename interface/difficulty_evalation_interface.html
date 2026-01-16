@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Persian QA — Human Answering Form</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root{
+      --bg:#0b0f1a; --panel:#11182a; --muted:#aab3c7; --text:#e9f1ff; --soft:#0e1430; --line:#1f2b4a; --accent:#4aa4ff; --chip:#0b1022; --warn:#ff7676;
+    }
+    *{box-sizing:border-box;font-family:system-ui,-apple-system,Segoe UI,Roboto,"Vazirmatn","Noto Naskh Arabic",Tahoma}
+    body{margin:0;background:linear-gradient(180deg,#0b0f1a 0%,#0c1124 35%,#0b0f1a 100%);color:var(--text)}
+    .wrap{max-width:1100px;margin:20px auto;padding:16px}
+    header{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+    .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:var(--chip);border:1px solid #213054;color:#cfe}
+    .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0}
+    select, input[type=text], textarea{background:#0d1530;color:var(--text);border:1px solid #23345a;border-radius:10px;padding:8px 10px}
+    textarea{width:100%;min-height:44px;resize:vertical}
+    button{background:#1a2950;color:#eaf2ff;border:1px solid #284072;border-radius:10px;padding:8px 12px;cursor:pointer}
+    button.primary{background:var(--accent);color:#04233e;border-color:#2f7dd3}
+    button.ghost{background:transparent}
+    .muted{color:var(--muted)}
+    .hint { color: var(--warn); margin-inline-start: 8px; font-size: .92rem; }
+    input.error, textarea.error { border-color: var(--warn) !important; box-shadow: 0 0 0 2px rgba(255,118,118,.15); }
+
+    /* Cards */
+    .cards{display:grid;gap:12px}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 10px 25px rgba(0,0,0,.35)}
+    .grid{display:grid;gap:14px;grid-template-columns:1fr 340px}
+    @media (max-width:900px){ .grid{grid-template-columns:1fr} }
+    .qbox{background:var(--soft);border:1px solid #1a2544;border-radius:10px;padding:10px;white-space:pre-wrap}
+    .meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:6px}
+    .meta .chip{background:var(--chip);border:1px solid #1f2b4a;border-radius:999px;padding:4px 8px;color:#cfe;font-size:.88rem}
+    .answer-area{margin-top:10px}
+    .options{margin:6px 0 0 0;padding:0;list-style:none;counter-reset:num}
+    .options li{counter-increment:num;display:flex;gap:8px;align-items:flex-start;padding:6px 8px;border:1px dashed #20305a;border-radius:10px;background:#0b1126;margin-bottom:6px}
+    .options li .num{font-weight:700;color:#bfe;min-width:28px;text-align:center}
+    .opt-line{display:flex;gap:10px;align-items:center;width:100%}
+    .opt-line label{display:flex;gap:8px;align-items:center;cursor:pointer}
+    .opt-line input[type=radio], .opt-line input[type=checkbox]{accent-color:#58b1ff; cursor:pointer}
+
+    .progress{height:10px;background:#0a1328;border:1px solid #1c2a4e;border-radius:999px;overflow:hidden}
+    .bar{height:100%;width:0%;background:linear-gradient(90deg,#2bc0ff,#58ffb5)}
+
+    /* Instruction modal */
+    .modal-backdrop{ position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; z-index:1000; }
+    .modal{
+      position:fixed; inset:40px 20px; background:var(--panel);
+      border:1px solid var(--line); border-radius:16px; z-index:1001;
+      display:none; box-shadow:0 18px 50px rgba(0,0,0,.5);
+      overflow:hidden;
+    }
+    .modal header{ display:flex; justify-content:space-between; align-items:center; padding:12px 16px; border-bottom:1px solid var(--line); background:#0f1730; }
+    .modal header h2{ margin:0; font-size:1.1rem }
+    .modal .close-x{ background:transparent; border:1px solid #2a3e6a; border-radius:10px; color:#dfe9ff; padding:6px 10px; cursor:pointer }
+    .modal .body{ padding:16px; height:calc(100% - 58px); overflow:auto; line-height:1.8; }
+    .modal .body h3{ margin:14px 0 6px; font-size:1rem }
+    .modal .callout{ background:#0b1126; border:1px solid #223461; border-radius:12px; padding:10px 12px; margin:10px 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1 style="margin:0 0 6px">Persian Question Answering Benchmark</h1>
+        <div class="muted">فرم ارزیابی پرسش‌ و پاسخ — پاسخ‌دهی انسانی</div>
+      </div>
+      <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+        <span id="groupPill" class="pill">Group 1</span>
+        <span class="pill"><button id="instrBtn" class="ghost">راهنما / دستورالعمل</button></span>
+      </div>
+    </header>
+
+    <!-- Annotator info -->
+    <div class="toolbar">
+      <div>شناسهٔ ارزیاب:
+        <input id="annotator" placeholder="مثلاً A12" />
+        <span id="annotHint" class="hint" style="display:none">لطفاً شناسهٔ ارزیاب را وارد کنید.</span>
+      </div>
+      <div>نام ارزیاب:
+        <input id="annotatorName" placeholder="نام و نام‌خانوادگی" />
+        <span id="nameHint" class="hint" style="display:none">لطفاً نام ارزیاب را وارد کنید.</span>
+      </div>
+    </div>
+
+    <!-- Actions -->
+    <div class="toolbar">
+      <button id="saveProgBtn" class="ghost">ذخیرهٔ پیشرفت (Backup)</button>
+      <button id="importProgBtn" class="ghost">بارگذاری پیشرفت از فایل</button>
+      <input type="file" id="importProgFile" accept="application/json,.json" style="display:none" />
+      <button id="autoBackupBtn" class="ghost">پشتیبان‌گیری خودکار به فایل</button>
+      <span id="autoBackupStatus" class="muted"></span>
+
+      <button id="exportBtn" class="primary">خروجی JSON</button>
+      <span id="restoreNote" class="muted"></span>
+    </div>
+
+    <!-- Paging -->
+    <div class="toolbar">
+      <div class="muted">اندازه صفحه:
+        <select id="pageSizeSel">
+          <option>10</option>
+          <option selected>20</option>
+          <option>30</option>
+          <option>50</option>
+        </select>
+        <button id="prevPage" class="ghost">صفحه قبل</button>
+        <button id="nextPage" class="ghost">صفحه بعد</button>
+        <span class="muted">— <span id="count">—</span></span>
+      </div>
+    </div>
+
+    <div class="progress" style="margin:8px 0 12px"><div id="progBar" class="bar"></div></div>
+    <div id="cards" class="cards"></div>
+  </div>
+
+  <!-- Instruction Modal -->
+  <div id="backdrop" class="modal-backdrop"></div>
+  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="instrTitle">
+    <header>
+      <h2 id="instrTitle">دستورالعمل پاسخ‌دهی</h2>
+      <button id="closeInstr" class="close-x">✕</button>
+    </header>
+    <div class="body">
+      <div class="callout">
+        این صفحه برای <b id="groupNameInline">Group 1</b> است. قبل از شروع، <b>شناسهٔ ارزیاب</b> و <b>نام ارزیاب</b> را حتماً وارد کنید.
+      </div>
+
+      <h3>۱) هدف</h3>
+      برای هر سؤال، پاسخ انسانی خود را ثبت کنید. پاسخ درست/نادرست بعداً بررسی می‌شود.
+
+      <h3>۲) انواع سؤال و نحوه پاسخ</h3>
+      <ul>
+        <li><b>Factoid:</b> پاسخ کوتاه را در کادر متن بنویسید.</li>
+        <li><b>Multi-choice (Single):</b> یک گزینه را انتخاب کنید.</li>
+        <li><b>Multi-choice (Multi):</b> یک یا چند گزینه را تیک بزنید.</li>
+        <li><b>Boolean:</b> یکی از <code>True</code> یا <code>False</code> را انتخاب کنید.</li>
+      </ul>
+
+      <h3>۳) ذخیره/بازیابی</h3>
+      <ul>
+        <li>هر چند ثانیه ذخیره محلی انجام می‌شود.</li>
+        <li>اگر قصد توقف دارید، روی <b>ذخیرهٔ پیشرفت (Backup)</b> کلیک کنید یا <b>پشتیبان‌گیری خودکار</b> را فعال کنید.</li>
+        <li>بعداً با «بارگذاری پیشرفت از فایل»، ادامه دهید.</li>
+      </ul>
+
+      <h3>۴) خروجی</h3>
+      <ul>
+        <li>پس از اتمام، «خروجی JSON» را بزنید.</li>
+        <li>اگر شناسه یا نام ارزیاب خالی باشد، خروجی انجام نمی‌شود.</li>
+        <li>در خروجی، برای هر آیتم فیلد <code>human_answer</code> ثبت می‌شود.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Paste your dataset array below -->
+  <script id="dataset" type="application/json">
+    [
+  {
+    "id": "factoid_multihop_simple_335",
+    "question": "چه کسی فلسفه شک‌گرایی را در قرون وسطی اروپا احیا کرد و اهل فرانسه بود؟",
+    "answer": "رنه دکارت",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "multichoice_reasoning_non_answerable_247",
+    "question": "ترکیب معنا در جمله‌ای با دو مفعول، با کدام مدل ریاضی ناهمخوان است؟",
+    "options": [
+      "بردار",
+      "هیچ‌کدام",
+      "تابع ثابت",
+      "ماتریس"
+    ],
+    "answer": "هیچ‌کدام",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "boolean_reasoning_negation_59",
+    "question": "اگر هیچ تیمی که کمتر از ۵ امتیاز دارد صعود نکند، آیا تیمی با ۳ امتیاز می‌تواند صعود کند؟",
+    "answer": false,
+    "difficulty": "Easy"
+  }
+]
+  </script>
+
+  <script>
+    // ===== Config =====
+    const GROUP_NAME = 'Group 1';
+
+    // ===== State & elements =====
+    let data = [];
+    try {
+      const raw = document.getElementById('dataset').textContent.trim();
+      data = raw ? (JSON.parse(raw) || []) : [];
+      if (!Array.isArray(data)) data = [];
+    } catch(e){ data = []; }
+
+    const annotEl = document.getElementById('annotator');
+    const annotNameEl = document.getElementById('annotatorName');
+    const cards = document.getElementById('cards');
+    const progBar = document.getElementById('progBar');
+    document.getElementById('groupPill').textContent = GROUP_NAME;
+    document.getElementById('groupNameInline').textContent = GROUP_NAME;
+
+    let answers = {}; // { id: { type:'factoid'|'boolean'|'mc_single'|'mc_multi', value:string|boolean|string[] } }
+    let page = 1, pageSize = 20;
+    let fileHandle = null; // for auto-backup
+    let writeTimer = null;
+
+    // dataset fingerprint for storage separation
+    const idsStr = (data||[]).map(it=>it.id||'').join('|');
+    let _h=0; for (let i=0;i<idsStr.length;i++){ _h=((_h<<5)-_h)+idsStr.charCodeAt(i); _h|=0; }
+    const STORAGE_PREFIX = 'qa-fa-answercards-v1:';
+    const STORAGE_ANS = STORAGE_PREFIX + Math.abs(_h) + ':answers';
+    const STORAGE_ANN = STORAGE_PREFIX + Math.abs(_h) + ':annotator';
+    const STORAGE_ANN_NAME = STORAGE_PREFIX + Math.abs(_h) + ':annotator_name';
+
+    function slug(s){return String(s||'').replace(/[^\w\-]+/g,'_');}
+
+    // Order: boolean -> MC -> factoid (prevents mis-detect if a boolean happens to carry an options-like shape)
+    function detectType(it){
+      const id = String(it.id||'');
+      if (typeof it.answer === 'boolean' || id.startsWith('boolean_')) {
+        return { type:'boolean' };
+      }
+      if (Array.isArray(it.options) && /_multi_/.test(id)) {
+        return { type:'mc_multi', allowMulti:true };
+      }
+      if (Array.isArray(it.options)) {
+        return { type:'mc_single', allowMulti:false };
+      }
+      return { type:'factoid' };
+    }
+
+    function isFilled(id, meta){
+      const r = answers[id];
+      if(!r) return false;
+      const v = r.value;
+      switch(meta.type){
+        case 'factoid': return typeof v === 'string' && v.trim().length>0;
+        case 'boolean': return typeof v === 'boolean';
+        case 'mc_single': return typeof v === 'string' && v.length>0;
+        case 'mc_multi': return Array.isArray(v) && v.length>0;
+        default: return false;
+      }
+    }
+
+    function updateProgress(){
+      const total = data.length;
+      let filled = 0;
+      for(const it of data){
+        const meta=detectType(it);
+        if(isFilled(it.id, meta)) filled++;
+      }
+      const pct = total? Math.round((filled/total)*100) : 0;
+      progBar.style.width = pct + '%';
+    }
+
+    function saveProgress(){
+      try{
+        localStorage.setItem(STORAGE_ANS, JSON.stringify(answers));
+        localStorage.setItem(STORAGE_ANN, annotEl.value.trim()||'');
+        localStorage.setItem(STORAGE_ANN_NAME, annotNameEl.value.trim()||'');
+      }catch(e){}
+      scheduleAutoBackup();
+    }
+
+    function loadProgress(){
+      try{
+        const a = localStorage.getItem(STORAGE_ANS); if(a) answers = JSON.parse(a)||{};
+        const id = localStorage.getItem(STORAGE_ANN); if(id){ annotEl.value=id; document.getElementById('restoreNote').textContent='— پیشرفت قبلی بازیابی شد'; }
+        const nm = localStorage.getItem(STORAGE_ANN_NAME); if(nm) annotNameEl.value=nm;
+      }catch(e){ answers={}; }
+    }
+
+    function render(){
+      cards.innerHTML='';
+      const frag = document.createDocumentFragment();
+      const startIdx=(page-1)*pageSize, endIdx=Math.min(startIdx+pageSize,data.length);
+
+      data.slice(startIdx,endIdx).forEach((it)=>{
+        const meta = detectType(it);
+        const card = document.createElement('div'); card.className='card';
+        const grid = document.createElement('div'); grid.className='grid'; card.append(grid);
+
+        // LEFT: meta + question
+        const left = document.createElement('div');
+
+        const metaBar = document.createElement('div'); metaBar.className='meta';
+
+        const q = document.createElement('div'); q.className='qbox'; q.textContent = it.question || '';
+        left.append(q);
+
+        // RIGHT: answer UI
+        const right = document.createElement('div'); right.className='answer-area';
+
+        if(meta.type==='factoid'){
+          const ta = document.createElement('textarea');
+          ta.placeholder = 'پاسخ کوتاه را اینجا بنویسید…';
+          ta.value = (answers[it.id]?.value || '');
+          ta.addEventListener('input', ()=>{
+            answers[it.id] = {type:'factoid', value: ta.value};
+            saveProgress(); updateProgress();
+          });
+          right.append(ta);
+        }
+        else if(meta.type==='boolean'){
+          const wrap = document.createElement('div'); wrap.className='options';
+          const setVal = (val)=>{ answers[it.id] = {type:'boolean', value: val}; saveProgress(); updateProgress(); };
+
+          ['True','False'].forEach((lab)=>{
+            const li=document.createElement('li');
+            const line=document.createElement('div'); line.className='opt-line';
+            const radio=document.createElement('input'); radio.type='radio'; radio.name='bool-'+slug(it.id); radio.value=(lab==='True'?'true':'false');
+            const current = answers[it.id]?.value;
+            if (typeof current==='boolean' && current === (lab==='True')) radio.checked=true;
+            radio.addEventListener('change', ()=> setVal(lab==='True'));
+            const label=document.createElement('label'); label.append(radio, document.createTextNode(lab + (lab==='True'?' (درست)':' (نادرست)')));
+            line.append(label); li.append(line); wrap.append(li);
+          });
+          right.append(wrap);
+        }
+        else if(meta.type==='mc_single'){
+          const wrap = document.createElement('div'); wrap.className='options';
+          const name='mc1-'+slug(it.id);
+          const cur = answers[it.id]?.value || '';
+          (it.options||[]).forEach((o,i)=>{
+            const li=document.createElement('li');
+            const num=document.createElement('span'); num.className='num'; num.textContent=(i+1)+')';
+            const line=document.createElement('div'); line.className='opt-line';
+            const inp=document.createElement('input'); inp.type='radio'; inp.name=name; inp.value=o; if(cur===o) inp.checked=true;
+            inp.addEventListener('change', ()=>{ answers[it.id]={type:'mc_single', value:o}; saveProgress(); updateProgress(); });
+            const lab=document.createElement('label'); lab.append(inp, document.createTextNode(o));
+            line.append(lab); li.append(num, line); wrap.append(li);
+          });
+          right.append(wrap);
+        }
+        else if(meta.type==='mc_multi'){
+          const wrap = document.createElement('div'); wrap.className='options';
+          const cur = Array.isArray(answers[it.id]?.value)? answers[it.id].value.slice() : [];
+          const setMulti = (opt, checked)=>{
+            let arr = Array.isArray(answers[it.id]?.value)? answers[it.id].value.slice() : [];
+            if(checked){ if(!arr.includes(opt)) arr.push(opt); }
+            else { arr = arr.filter(x=>x!==opt); }
+            answers[it.id] = {type:'mc_multi', value: arr};
+            saveProgress(); updateProgress();
+          };
+          (it.options||[]).forEach((o,i)=>{
+            const li=document.createElement('li');
+            const num=document.createElement('span'); num.className='num'; num.textContent=(i+1)+')';
+            const line=document.createElement('div'); line.className='opt-line';
+            const inp=document.createElement('input'); inp.type='checkbox'; inp.value=o; inp.checked = cur.includes(o);
+            inp.addEventListener('change', ()=> setMulti(o, inp.checked));
+            const lab=document.createElement('label'); lab.append(inp, document.createTextNode(o));
+            line.append(lab); li.append(num, line); wrap.append(li);
+          });
+          right.append(wrap);
+        }
+
+        grid.append(left, right);
+        frag.append(card);
+      });
+
+      cards.append(frag);
+      document.getElementById('count').textContent = `${data.length} (نمایش ${startIdx+1}–${endIdx})`;
+      updateProgress();
+    }
+
+    function buildProgressPayload(){
+      return {
+        annotator_id: annotEl.value.trim()||'',
+        annotator_name: annotNameEl.value.trim()||'',
+        group: GROUP_NAME,
+        answers,
+        dataset_ids: (data||[]).map(x=>x.id||'')
+      };
+    }
+
+    function exportProgress(){
+      const payload = buildProgressPayload();
+      const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});
+      const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`progress_${payload.annotator_id||'NA'}.json`; a.click();
+    }
+
+    function importProgress(file){
+      if(!file) return;
+      file.text().then(t=>{
+        try{
+          const obj=JSON.parse(t);
+          const same = Array.isArray(obj.dataset_ids) && obj.dataset_ids.join('|')=== (data||[]).map(x=>x.id||'').join('|');
+          if(!same){ alert('این فایل پیشرفت با همین مجموعهٔ داده ساخته نشده است.'); return; }
+          answers = obj.answers||{};
+          if(obj.annotator_id) annotEl.value=obj.annotator_id;
+          if(obj.annotator_name) annotNameEl.value=obj.annotator_name;
+          saveProgress(); render();
+          const rn=document.getElementById('restoreNote'); if(rn) rn.textContent='— پیشرفت از فایل بارگذاری شد';
+        }catch(e){ alert('فایل پیشرفت نامعتبر است'); }
+      });
+    }
+
+    function exportJSON(){
+      const annId=annotEl.value.trim();
+      const annName=annotNameEl.value.trim();
+
+      // Validate annotator fields
+      const idHint=document.getElementById('annotHint');
+      const nmHint=document.getElementById('nameHint');
+      if(!annId){ idHint.style.display='inline'; annotEl.classList.add('error'); } else { idHint.style.display='none'; annotEl.classList.remove('error'); }
+      if(!annName){ nmHint.style.display='inline'; annotNameEl.classList.add('error'); } else { nmHint.style.display='none'; annotNameEl.classList.remove('error'); }
+      if(!annId || !annName){ alert('لطفاً شناسه و نام ارزیاب را وارد کنید.'); return; }
+
+      // Warn if some unanswered
+      const total=data.length;
+      let filled=0;
+      data.forEach(it=>{ if(isFilled(it.id, detectType(it))) filled++; });
+      if(filled<total){
+        const cont = confirm(`تعداد ${total-filled} سؤال بی‌پاسخ است. آیا می‌خواهید با همین وضعیت خروجی بگیرید؟`);
+        if(!cont) return;
+      }
+
+      const out = data.map(it=>{
+        const meta=detectType(it);
+        return {
+          submission_ts: new Date().toISOString(),
+          group: GROUP_NAME,
+          annotator_id: annId,
+          annotator_name: annName,
+          id: it.id,
+          question: it.question,
+          options: Array.isArray(it.options)? it.options : undefined,
+          question_type: meta.type,
+          allow_multi: meta.type==='mc_multi' ? true : undefined,
+          human_answer: (answers[it.id]?.value !== undefined ? answers[it.id].value : null)
+        };
+      });
+
+      const blob=new Blob([JSON.stringify(out,null,2)],{type:'application/json'});
+      const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`human_answers_${annId}.json`; a.click();
+    }
+
+    // ===== Auto-backup helpers (File System Access API) =====
+    async function writeAutoBackup(){
+      if(!fileHandle) return;
+      try{
+        const payload = buildProgressPayload();
+        const writable = await fileHandle.createWritable();
+        await writable.write(new Blob([JSON.stringify(payload, null, 2)], {type:'application/json'}));
+        await writable.close();
+        const s = document.getElementById('autoBackupStatus'); if(s) s.textContent = '— ذخیره شد';
+      }catch(e){
+        const s=document.getElementById('autoBackupStatus'); if(s) s.textContent='— خطا در ذخیره خودکار';
+        console.error(e);
+      }
+    }
+    function scheduleAutoBackup(){
+      if(!fileHandle) return;
+      clearTimeout(writeTimer);
+      writeTimer = setTimeout(writeAutoBackup, 500);
+    }
+    async function enableAutoBackup(){
+      if(!('showSaveFilePicker' in window)){
+        alert('مرورگر از ذخیرهٔ خودکار به فایل پشتیبانی نمی‌کند. از دکمهٔ «ذخیرهٔ پیشرفت (Backup)» استفاده کنید.');
+        return;
+      }
+      try{
+        const suggested = `progress_${(annotEl.value.trim()||'NA')}.json`;
+        fileHandle = await window.showSaveFilePicker({
+          suggestedName: suggested,
+          types:[{description:'JSON', accept:{'application/json':['.json']}}]
+        });
+        const s = document.getElementById('autoBackupStatus'); if(s) s.textContent='— خودکار فعال شد';
+        await writeAutoBackup();
+      }catch(e){
+        if(e?.name!=='AbortError') alert('نتوانستم فایل پشتیبان را بسازم.');
+      }
+    }
+
+    // ===== Init & events =====
+    loadProgress();
+    render();
+    setInterval(saveProgress, 3000);
+
+    document.getElementById('exportBtn').addEventListener('click', exportJSON);
+    document.getElementById('saveProgBtn').addEventListener('click', exportProgress);
+    document.getElementById('importProgBtn').addEventListener('click', ()=> document.getElementById('importProgFile').click());
+    document.getElementById('importProgFile').addEventListener('change', e=> importProgress(e.target.files?.[0]||null));
+    document.getElementById('autoBackupBtn').addEventListener('click', enableAutoBackup);
+    annotEl.addEventListener('input', saveProgress);
+    annotNameEl.addEventListener('input', saveProgress);
+
+    document.getElementById('prevPage').addEventListener('click', ()=>{ if(page>1){ page--; render(); window.scrollTo({top:0,behavior:'smooth'}); } });
+    document.getElementById('nextPage').addEventListener('click', ()=>{ if(page*pageSize < data.length){ page++; render(); window.scrollTo({top:0,behavior:'smooth'}); } });
+    document.getElementById('pageSizeSel').addEventListener('change', e=>{ pageSize=parseInt(e.target.value,10)||20; page=1; render(); window.scrollTo({top:0}); });
+
+    // Instruction modal
+    const backdrop=document.getElementById('backdrop'), modal=document.getElementById('modal');
+    function openModal(){ backdrop.style.display='block'; modal.style.display='block'; }
+    function closeModal(){ backdrop.style.display='none'; modal.style.display='none'; }
+    document.getElementById('instrBtn').addEventListener('click', openModal);
+    document.getElementById('closeInstr').addEventListener('click', closeModal);
+    backdrop.addEventListener('click', closeModal);
+  </script>
+</body>
+</html>
