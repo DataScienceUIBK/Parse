@@ -9,7 +9,7 @@
 **A reasoning-focused open-domain Question Answering benchmark for Persian (FA)**  
 covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reasoning** + **Multi-hop** settings.
 
-<a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Models&message=HuggingFace&color=yellow&logo=huggingface"></a>
+<a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow&logo=huggingface"></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Unpublished&color=green&logo=arXiv"></a>
 <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
@@ -43,6 +43,76 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 | **Reasoning Types** | Reasoning, Multihop |
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
+
+---
+
+## 📈 Benchmark Statistics
+
+Parse contains **10,800 questions**, designed with a balanced and fully-controlled taxonomy. fileciteturn0file0
+
+### Dataset Size & Balance
+
+- **Total questions:** 10,800 fileciteturn0file0  
+- **Uniform coverage:** **18 configuration families**, each with **600 questions** fileciteturn0file0  
+- Difficulty is balanced inside each configuration: **200 Easy / 200 Medium / 200 Hard** fileciteturn0file0  
+
+### Taxonomy Breakdown (Table 2 in the paper)
+
+| QA Type | Dimension | Subtypes | # per subtype | Total |
+|---|---|---|---:|---:|
+| Boolean | Reasoning | Simple / Negation / Comparative | 600 | 1,800 |
+| Boolean | Multihop | Simple / Negation / Comparative | 600 | 1,800 |
+| Multiple-choice | Reasoning | Single-Ans / Multi-Ans / Non-Ans | 600 | 1,800 |
+| Multiple-choice | Multihop | Single-Ans / Multi-Ans / Non-Ans | 600 | 1,800 |
+| Factoid | Reasoning | Simple / List-based / Non-Ans | 600 | 1,800 |
+| Factoid | Multihop | Simple / List-based / Non-Ans | 600 | 1,800 |
+
+> Overall: 6 blocks × 1,800 = **10,800 questions**. fileciteturn0file0
+
+---
+
+## 👥 Human Evaluation Summary
+
+We conducted two human evaluation studies to validate benchmark quality and difficulty labels. fileciteturn0file0
+
+### ✅ Quality Evaluation (1–5 rating)
+
+Annotators evaluated:
+- **Ambiguity**
+- **Readability**
+- **Correctness**
+
+Average scores across groups:
+
+| Metric | Avg. Score (1–5) |
+|---|---:|
+| Ambiguity | **4.404** |
+| Readability | **4.669** |
+| Correctness | **4.389** |
+
+These results indicate high linguistic quality and strong factual correctness. fileciteturn0file0
+
+### ✅ Difficulty Validation
+
+Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. fileciteturn0file0
+
+---
+
+## 🧪 Benchmarking Results (Paper Summary)
+
+We benchmark multilingual and Persian LLMs under:
+- **Zero-shot**
+- **Few-shot**
+- **Chain-of-Thought (CoT)**
+
+Key findings:
+- **Persian prompts** generally improve results compared to English prompts.
+- **Structured prompting** helps:
+  - **CoT** is most effective for **Boolean** and **Multiple-choice**
+  - **Few-shot** is most effective for **Factoid**
+- **Fine-tuning improves performance**, particularly for Persian-specialized models. fileciteturn0file0
+
+> Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). fileciteturn0file0
 
 ---
 
