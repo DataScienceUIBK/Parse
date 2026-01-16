@@ -9,13 +9,13 @@
 **A reasoning-focused open-domain Question Answering benchmark for Persian (FA)**  
 covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reasoning** + **Multi-hop** settings.
 
-<a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Benchmark&message=HuggingFace&color=yellow&logo=huggingface"></a>
+<a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Models&message=HuggingFace&color=yellow&logo=huggingface"></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Unpublished&color=green&logo=arXiv"></a>
 <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
 </div>
 
-
+---
 
 ## ✨ Highlights
 
@@ -24,16 +24,34 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
 
-
+---
 
 ## 📌 Task Coverage
 
+### Question Types & Subtypes
+
+| Question Type | Subtypes (Categories) |
+|---|---|
+| **Boolean** | Reasoning: *Simple, Negation, Comparative*  <br> Multihop: *Simple, Negation, Comparative* |
+| **Factoid** | Reasoning: *Simple, NonAnswerable, ListBased* <br> Multihop: *Simple, NonAnswerable, ListBased* |
+| **Multiple-choice** | Reasoning: *SingleAnswer, MultiAnswer, NonAnswerable* <br> Multihop: *SingleAnswer, MultiAnswer, NonAnswerable* |
+
+### Benchmark Dimensions
+
 | Dimension | Values |
-|-|--|
-| **Question Types** | Boolean, Factoid, Multiple-choice |
+|---|---|
 | **Reasoning Types** | Reasoning, Multihop |
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
+
+---
+
+## 🤗 Dataset
+
+Parse is publicly available on HuggingFace:
+
+- **Dataset:** `JamshidJDMY/Parse`
+- Link: https://huggingface.co/datasets/JamshidJDMY/Parse
 
 ### Local dataset files (`dataset/`)
 
@@ -45,7 +63,7 @@ This repository also contains the dataset as JSON files under `dataset/`:
 
 > Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
 
-
+---
 
 ## 🚀 Quick Start
 
@@ -67,7 +85,7 @@ example = ds["train"][0]
 print(example)
 ```
 
-
+---
 
 ## 🧪 Evaluation (Zero-shot / Few-shot / Chain-of-Thought)
 
@@ -134,7 +152,7 @@ Example:
 evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
-
+---
 
 ## 📊 Scoring
 
@@ -149,7 +167,7 @@ Example:
 python evaluate_results.py
 ```
 
-
+---
 
 ## 🔧 Fine-tuning
 
@@ -167,7 +185,7 @@ Main script:
 Output example:
 - `finetune/together_ai_data_format/train_together.jsonl`
 
-
+---
 
 ## 👥 Human Evaluation
 
@@ -179,7 +197,7 @@ Human validation of **question difficulty**, including shuffled questions and co
 ### 2) Benchmark quality evaluation (`human_quality_evaluation/`)
 Human evaluation of benchmark **quality**, where annotators assess question-answer correctness and overall quality.
 
-
+---
 
 ## 🖥️ Annotation Interfaces & Guide
 
@@ -194,7 +212,7 @@ Includes:
 - `difficulty_evalation_interface.html`
 - `QA_Annotation_Guide.pdf`
 
-
+---
 
 ## 🧾 Prompts Used for Question Generation
 
@@ -209,7 +227,7 @@ They are organized by:
 - reasoning type (Reasoning / Multihop)
 - sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
 
-
+---
 
 ## 🔁 Reproducibility (Minimal Setup)
 
@@ -230,7 +248,7 @@ pip install prettytable termcolor together tenacity datasets
 
 > If you use API-based models, ensure you have your TogetherAI API key configured.
 
-
+---
 
 ## 📁 Repository Structure (Short)
 
@@ -245,7 +263,7 @@ pip install prettytable termcolor together tenacity datasets
 └── README.md
 ```
 
-
+---
 
 ## 📜 Citation
 
@@ -260,7 +278,7 @@ If you use Parse, please cite:
 }
 ```
 
-
+---
 
 ## 📄 License
 
