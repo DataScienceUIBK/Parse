@@ -311,7 +311,6 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 If you use Parse, please cite:
 
 ```bibtex
-}
 ```
 
 ---
