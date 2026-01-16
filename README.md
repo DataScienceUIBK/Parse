@@ -26,6 +26,25 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 ---
 
+## 🤗 Dataset
+
+Parse is publicly available on HuggingFace:
+
+- **Dataset:** `JamshidJDMY/Parse`
+- Link: https://huggingface.co/datasets/JamshidJDMY/Parse
+
+### Local dataset files (`dataset/`)
+
+This repository also contains the dataset as JSON files under `dataset/`:
+
+- `full.json` → the complete Parse benchmark
+- `train.json` → training split (used for fine-tuning experiments)
+- `test.json` → test split (used for fine-tuning evaluation)
+
+> Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
+
+---
+
 ## 📌 Task Coverage
 
 ### Question Types & Subtypes
@@ -48,13 +67,13 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 ## 📈 Benchmark Statistics
 
-Parse contains **10,800 questions**, designed with a balanced and fully-controlled taxonomy. 
+Parse contains **10,800 questions**, designed with a balanced and fully-controlled taxonomy. fileciteturn0file0
 
 ### Dataset Size & Balance
 
-- **Total questions:** 10,800
-- **Uniform coverage:** **18 configuration families**, each with **600 questions**
-- Difficulty is balanced inside each configuration: **200 Easy / 200 Medium / 200 Hard**
+- **Total questions:** 10,800 fileciteturn0file0  
+- **Uniform coverage:** **18 configuration families**, each with **600 questions** fileciteturn0file0  
+- Difficulty is balanced inside each configuration: **200 Easy / 200 Medium / 200 Hard** fileciteturn0file0  
 
 ### Taxonomy Breakdown (Table 2 in the paper)
 
@@ -67,34 +86,7 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 | Factoid | Reasoning | Simple / List-based / Non-Ans | 600 | 1,800 |
 | Factoid | Multihop | Simple / List-based / Non-Ans | 600 | 1,800 |
 
-> Overall: 6 blocks × 1,800 = **10,800 questions**. 
-
----
-
-## 👥 Human Evaluation Summary
-
-We conducted two human evaluation studies to validate benchmark quality and difficulty labels. 
-
-### ✅ Quality Evaluation (1–5 rating)
-
-Annotators evaluated:
-- **Ambiguity**
-- **Readability**
-- **Correctness**
-
-Average scores across groups:
-
-| Metric | Avg. Score (1–5) |
-|---|---:|
-| Ambiguity | **4.404** |
-| Readability | **4.669** |
-| Correctness | **4.389** |
-
-These results indicate high linguistic quality and strong factual correctness. 
-
-### ✅ Difficulty Validation
-
-Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. 
+> Overall: 6 blocks × 1,800 = **10,800 questions**. fileciteturn0file0
 
 ---
 
@@ -103,35 +95,16 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 We benchmark multilingual and Persian LLMs under:
 - **Zero-shot**
 - **Few-shot**
-- **Chain-of-Thought (CoT)**
+- **Chain-of-Thought (CoT)** fileciteturn0file0
 
 Key findings:
 - **Persian prompts** generally improve results compared to English prompts.
 - **Structured prompting** helps:
   - **CoT** is most effective for **Boolean** and **Multiple-choice**
   - **Few-shot** is most effective for **Factoid**
-- **Fine-tuning improves performance**, particularly for Persian-specialized models. 
+- **Fine-tuning improves performance**, particularly for Persian-specialized models. fileciteturn0file0
 
-> Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
-
----
-
-## 🤗 Dataset
-
-Parse is publicly available on HuggingFace:
-
-- **Dataset:** `JamshidJDMY/Parse`
-- Link: https://huggingface.co/datasets/JamshidJDMY/Parse
-
-### Local dataset files (`dataset/`)
-
-This repository also contains the dataset as JSON files under `dataset/`:
-
-- `full.json` → the complete Parse benchmark
-- `train.json` → training split (used for fine-tuning experiments)
-- `test.json` → test split (used for fine-tuning evaluation)
-
-> Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
+> Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). fileciteturn0file0
 
 ---
 
@@ -157,32 +130,68 @@ print(example)
 
 ---
 
-## 🧪 Evaluation (Zero-shot / Few-shot / Chain-of-Thought)
+## 📦 Repository Overview
 
-All automatic evaluation code is located under:
+### `prompts/`
+Contains all prompt templates used during benchmark creation (question generation), organized by:
+- question type (Boolean / Factoid / Multichoice)
+- reasoning type (Reasoning / Multihop)
+- sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
 
-```bash
-evaluation/
-```
-
-This directory includes implementations for evaluating different prompting approaches:
+### `evaluation/`
+Includes all automatic evaluation code:
 - `zero_shot/`
 - `few_shot/`
 - `chain_of_thought/`
 
-We use the **TogetherAI platform** for:
-- inference with LLMs
-- fine-tuning models
-
-### Running experiments
-
-Each evaluation setting includes three scripts (one per question type):
-
+Each evaluation setting contains:
 - `boolean_sh.sh`
 - `factoid_sh.sh`
 - `multichoice_sh.sh`
 
-You can reproduce experiments by running:
+### `finetune/`
+Utilities to convert Parse into TogetherAI fine-tuning format:
+- `to_together_ai.py`
+- output example: `finetune/together_ai_data_format/train_together.jsonl`
+
+### Human evaluation data
+- `evaluation/human_difficulty_validation/` → difficulty validation study
+- `evaluation/human_quality_evaluation/` → quality evaluation study
+
+### `interface/`
+Annotation interfaces and guide:
+- `quality_evaluation_interface.html`
+- `difficulty_evalation_interface.html`
+- `QA_Annotation_Guide.pdf`
+
+---
+
+## 🔁 Reproducibility (Minimal Setup)
+
+Recommended: **Python 3.10+**
+
+```bash
+python -m venv .venv
+source .venv/bin/activate   # Linux/Mac
+# .venv\Scripts\activate    # Windows
+```
+
+Install dependencies:
+
+```bash
+pip install -U pip
+pip install prettytable termcolor together tenacity datasets
+```
+
+> If you use API-based models, ensure you have your TogetherAI API key configured.
+
+---
+
+## 🧪 Evaluation (TogetherAI)
+
+All evaluation scripts follow the same structure and produce JSON predictions under `prompt_results/`.
+
+### Running experiments
 
 #### ✅ Zero-shot
 ```bash
@@ -208,12 +217,12 @@ bash factoid_sh.sh
 bash multichoice_sh.sh
 ```
 
-### Results storage
+### Output format
 
-All raw prediction outputs are stored under:
+Predictions are stored here:
 
 ```bash
-prompt_results/<task>/<language>/
+evaluation/<setting>/prompt_results/<task>/<language>/
 ```
 
 Example:
@@ -241,15 +250,13 @@ python evaluate_results.py
 
 ## 🔧 Fine-tuning
 
-Fine-tuning utilities are located under:
+Fine-tuning helper scripts and prompts are available in:
 
 ```bash
 finetune/
 ```
 
-This directory provides code to convert the benchmark into the format required by TogetherAI fine-tuning.
-
-Main script:
+Key script:
 - `to_together_ai.py` → converts Parse into TogetherAI-compatible JSONL
 
 Output example:
@@ -257,66 +264,30 @@ Output example:
 
 ---
 
-## 👥 Human Evaluation
+## 👥 Human Evaluation Summary
 
-In addition to automatic evaluation, the repository includes two human-based validation experiments:
+We conducted two human evaluation studies to validate benchmark quality and difficulty labels. fileciteturn0file0
 
-### 1) Difficulty validation (`human_difficulty_validation/`)
-Human validation of **question difficulty**, including shuffled questions and collected human answers.
+### ✅ Quality Evaluation (1–5 rating)
 
-### 2) Benchmark quality evaluation (`human_quality_evaluation/`)
-Human evaluation of benchmark **quality**, where annotators assess question-answer correctness and overall quality.
+Annotators evaluated:
+- **Ambiguity**
+- **Readability**
+- **Correctness**
 
----
+Average scores across groups:
 
-## 🖥️ Annotation Interfaces & Guide
+| Metric | Avg. Score (1–5) |
+|---|---:|
+| Ambiguity | **4.404** |
+| Readability | **4.669** |
+| Correctness | **4.389** |
 
-The human evaluation HTML interfaces and annotation guide are in:
+These results indicate high linguistic quality and strong factual correctness. fileciteturn0file0
 
-```bash
-interface/
-```
+### ✅ Difficulty Validation
 
-Includes:
-- `quality_evaluation_interface.html`
-- `difficulty_evalation_interface.html`
-- `QA_Annotation_Guide.pdf`
-
----
-
-## 🧾 Prompts Used for Question Generation
-
-All prompts used for generating questions are stored under:
-
-```bash
-prompts/
-```
-
-They are organized by:
-- question type (Boolean / Factoid / Multichoice)
-- reasoning type (Reasoning / Multihop)
-- sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
-
----
-
-## 🔁 Reproducibility (Minimal Setup)
-
-Recommended: **Python 3.10+**
-
-```bash
-python -m venv .venv
-source .venv/bin/activate   # Linux/Mac
-# .venv\Scripts\activate    # Windows
-```
-
-Install dependencies:
-
-```bash
-pip install -U pip
-pip install prettytable termcolor together tenacity datasets
-```
-
-> If you use API-based models, ensure you have your TogetherAI API key configured.
+Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. fileciteturn0file0
 
 ---
 
