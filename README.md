@@ -15,7 +15,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 </div>
 
----
+
 
 ## ✨ Highlights
 
@@ -24,7 +24,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
 
----
+
 
 ## 📌 Task Coverage
 
@@ -35,7 +35,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
 
----
+
 
 ## 🤗 Dataset
 
@@ -54,7 +54,7 @@ This repository also contains the dataset as JSON files under `dataset/`:
 
 > Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
 
----
+
 
 ## 🚀 Quick Start
 
@@ -76,7 +76,7 @@ example = ds["train"][0]
 print(example)
 ```
 
----
+
 
 ## 🧪 Evaluation (Zero-shot / Few-shot / Chain-of-Thought)
 
@@ -143,7 +143,7 @@ Example:
 evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
----
+
 
 ## 📊 Scoring
 
@@ -158,7 +158,7 @@ Example:
 python evaluate_results.py
 ```
 
----
+
 
 ## 🔧 Fine-tuning
 
@@ -176,7 +176,7 @@ Main script:
 Output example:
 - `finetune/together_ai_data_format/train_together.jsonl`
 
----
+
 
 ## 👥 Human Evaluation
 
@@ -188,7 +188,7 @@ Human validation of **question difficulty**, including shuffled questions and co
 ### 2) Benchmark quality evaluation (`human_quality_evaluation/`)
 Human evaluation of benchmark **quality**, where annotators assess question-answer correctness and overall quality.
 
----
+
 
 ## 🖥️ Annotation Interfaces & Guide
 
@@ -203,7 +203,7 @@ Includes:
 - `difficulty_evalation_interface.html`
 - `QA_Annotation_Guide.pdf`
 
----
+
 
 ## 🧾 Prompts Used for Question Generation
 
@@ -218,7 +218,7 @@ They are organized by:
 - reasoning type (Reasoning / Multihop)
 - sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
 
----
+
 
 ## 🔁 Reproducibility (Minimal Setup)
 
@@ -239,7 +239,7 @@ pip install prettytable termcolor together tenacity datasets
 
 > If you use API-based models, ensure you have your TogetherAI API key configured.
 
----
+
 
 ## 📁 Repository Structure (Short)
 
@@ -254,7 +254,7 @@ pip install prettytable termcolor together tenacity datasets
 └── README.md
 ```
 
----
+
 
 ## 📜 Citation
 
@@ -269,7 +269,7 @@ If you use Parse, please cite:
 }
 ```
 
----
+
 
 ## 📄 License
 
