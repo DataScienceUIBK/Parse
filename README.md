@@ -311,11 +311,6 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 If you use Parse, please cite:
 
 ```bibtex
-@inproceedings{mozafari2026parse,
-  title={Parse: An Open-Domain Reasoning Question Answering Benchmark for Persian},
-  author={Mozafari, Jamshid and Mousavinasab, Seyed Parsa and Jatowt, Adam},
-  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
-  year={2026}
 }
 ```
 
