@@ -71,9 +71,9 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 
 ### Dataset Size & Balance
 
-- **Total questions:** 10,800 fileciteturn0file0  
-- **Uniform coverage:** **18 configuration families**, each with **600 questions** fileciteturn0file0  
-- Difficulty is balanced inside each configuration: **200 Easy / 200 Medium / 200 Hard** fileciteturn0file0  
+- **Total questions:** 10,800 
+- **Uniform coverage:** **18 configuration families**, each with **600 questions** 
+- Difficulty is balanced inside each configuration: **200 Easy / 200 Medium / 200 Hard** 
 
 ### Taxonomy Breakdown (Table 2 in the paper)
 
