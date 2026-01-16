@@ -2,16 +2,16 @@
 <!--        PARSE          -->
 <!-- ===================== -->
 
-<div>
+<div align="center">
 
 # 🌟 Parse: An Open-Domain Reasoning QA Benchmark for Persian
 
 **A reasoning-focused open-domain Question Answering benchmark for Persian (FA)**  
 covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reasoning** + **Multi-hop** settings.
 
-[![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/JamshidJDMY/Parse)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/Language-Persian%20(FA)-informational)](#)
+<a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Models&message=HuggingFace&color=yellow&logo=huggingface"></a>
+<a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Unpublished&color=green&logo=arXiv"></a>
+<a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
 </div>
 
@@ -164,7 +164,7 @@ Install core requirements:
 
 ```bash
 pip install -U pip
-pip install datasets numpy tqdm pandas scikit-learn
+pip install prettytable termcolor together tenacity
 ```
 
 > If you use API-based models (Together / OpenAI / etc.), you may need extra SDKs and API keys depending on your setup.
