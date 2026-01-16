@@ -15,7 +15,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 </div>
 
----
+
 
 ## ✨ Highlights
 
@@ -24,7 +24,7 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
 
----
+
 
 ## 🚀 Quick Start
 
@@ -46,7 +46,7 @@ example = ds["train"][0]
 print(example)
 ```
 
----
+
 
 ## 📦 What’s Inside This Repository?
 
@@ -61,7 +61,7 @@ This directory includes three JSON files:
 
 > Note: `train.json` and `test.json` are mainly provided for reproducibility of fine-tuning experiments.
 
----
+
 
 ### `evaluation/`
 This directory contains all scripts required to reproduce our evaluation results under three settings:
@@ -89,7 +89,7 @@ To compute final scores and aggregate evaluation results, use:
 - `evaluate_results.py`
 - `evaluate_finetuned_results.py`
 
----
+
 
 ### 👥 Human Evaluations
 
@@ -101,7 +101,7 @@ Human validation of **question difficulty**, including shuffled evaluation quest
 #### `human_quality_evaluation/`
 Human-based assessment of benchmark **quality**, where participants evaluate question-answer correctness and overall quality.
 
----
+
 
 ### `finetune/`
 This directory includes scripts and prompts needed to fine-tune models on Parse using TogetherAI.
@@ -112,7 +112,7 @@ Main script:
 Output format example:
 - `together_ai_data_format/train_together.jsonl`
 
----
+
 
 ### `interface/`
 Contains the web interfaces used for human evaluation/validation, including the annotation guide:
@@ -121,7 +121,7 @@ Contains the web interfaces used for human evaluation/validation, including the 
 - `difficulty_evalation_interface.html`
 - `QA_Annotation_Guide.pdf`
 
----
+
 
 ### `prompts/`
 Contains all prompt templates used during benchmark creation (question generation), organized by:
@@ -130,18 +130,18 @@ Contains all prompt templates used during benchmark creation (question generatio
 - Reasoning type (Reasoning / Multihop)
 - Sub-category (e.g., Simple, Negation, Comparative, ListBased, NonAnswerable)
 
----
+
 
 ## 📌 Task Coverage
 
 | Dimension | Values |
-|----------|--------|
+|-|--|
 | **Question Types** | Boolean, Factoid, Multiple-choice |
 | **Reasoning Types** | Reasoning, Multihop |
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
 
----
+
 
 ## 🔁 Reproducibility (Minimal Setup)
 
@@ -169,7 +169,7 @@ pip install datasets numpy tqdm pandas scikit-learn
 
 > If you use API-based models (Together / OpenAI / etc.), you may need extra SDKs and API keys depending on your setup.
 
----
+
 
 ## 🧪 Evaluation
 
@@ -202,7 +202,7 @@ bash multichoice_sh.sh
 bash factoid_sh.sh
 ```
 
----
+
 
 ## 📊 Scoring
 
@@ -217,7 +217,7 @@ Example:
 python evaluate_results.py
 ```
 
----
+
 
 ## 🗂️ Output Format
 
@@ -233,7 +233,7 @@ Example:
 evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
----
+
 
 ## 🔧 Fine-tuning
 
@@ -252,7 +252,7 @@ Output example:
 finetune/together_ai_data_format/train_together.jsonl
 ```
 
----
+
 
 ## 👥 Human Evaluation Interfaces
 
@@ -265,7 +265,7 @@ Annotation guide:
 
 - `interface/QA_Annotation_Guide.pdf`
 
----
+
 
 ## 📁 Repository Structure (Short)
 
@@ -280,7 +280,7 @@ Annotation guide:
 └── README.md
 ```
 
----
+
 
 ## 📜 Citation
 
@@ -295,7 +295,7 @@ If you use Parse, please cite:
 }
 ```
 
----
+
 
 ## 📄 License
 
