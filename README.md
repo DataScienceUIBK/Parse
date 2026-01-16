@@ -35,15 +35,6 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
 
-
-
-## 🤗 Dataset
-
-Parse is publicly available on HuggingFace:
-
-- **Dataset:** `JamshidJDMY/Parse`
-- Link: https://huggingface.co/datasets/JamshidJDMY/Parse
-
 ### Local dataset files (`dataset/`)
 
 This repository also contains the dataset as JSON files under `dataset/`:
