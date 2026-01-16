@@ -15,16 +15,12 @@ covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reas
 
 </div>
 
----
-
 ## ✨ Highlights
 
 - 🧠 Designed to evaluate **reasoning capabilities** of LLMs in a **low-resource language**
 - ✅ Supports **Zero-shot**, **Few-shot**, and **Chain-of-Thought (CoT)** evaluation
 - 🧪 Includes scripts for **automatic evaluation** + **fine-tuning utilities**
 - 👥 Comes with **human evaluation interfaces** (quality + difficulty validation)
-
----
 
 ## 🤗 Dataset
 
@@ -43,7 +39,6 @@ This repository also contains the dataset as JSON files under `dataset/`:
 
 > Note: `train.json` and `test.json` are provided for reproducibility of fine-tuning experiments.
 
----
 
 ## 📌 Task Coverage
 
@@ -62,8 +57,6 @@ This repository also contains the dataset as JSON files under `dataset/`:
 | **Reasoning Types** | Reasoning, Multihop |
 | **Difficulty** | Easy, Medium, Hard |
 | **Languages** | Persian + English prompts supported |
-
----
 
 ## 📈 Benchmark Statistics
 
@@ -88,8 +81,6 @@ Parse contains **10,800 questions**, designed with a balanced and fully-controll
 
 > Overall: 6 blocks × 1,800 = **10,800 questions**. 
 
----
-
 ## 🧪 Benchmarking Results (Paper Summary)
 
 We benchmark multilingual and Persian LLMs under:
@@ -105,8 +96,6 @@ Key findings:
 - **Fine-tuning improves performance**, particularly for Persian-specialized models. 
 
 > Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
-
----
 
 ## 🚀 Quick Start
 
@@ -127,8 +116,6 @@ print(ds)
 example = ds["train"][0]
 print(example)
 ```
-
----
 
 ## 📦 Repository Overview
 
@@ -164,8 +151,6 @@ Annotation interfaces and guide:
 - `difficulty_evalation_interface.html`
 - `QA_Annotation_Guide.pdf`
 
----
-
 ## 🔁 Reproducibility (Minimal Setup)
 
 Recommended: **Python 3.10+**
@@ -185,7 +170,6 @@ pip install prettytable termcolor together tenacity datasets
 
 > If you use API-based models, ensure you have your TogetherAI API key configured.
 
----
 
 ## 🧪 Evaluation (TogetherAI)
 
@@ -231,8 +215,6 @@ Example:
 evaluation/chain_of_thought/prompt_results/boolean/persian/answers_llama-3-70b.json
 ```
 
----
-
 ## 📊 Scoring
 
 Each evaluation setting includes the scoring scripts:
@@ -245,8 +227,6 @@ Example:
 ```bash
 python evaluate_results.py
 ```
-
----
 
 ## 🔧 Fine-tuning
 
@@ -261,8 +241,6 @@ Key script:
 
 Output example:
 - `finetune/together_ai_data_format/train_together.jsonl`
-
----
 
 ## 👥 Human Evaluation Summary
 
@@ -289,8 +267,6 @@ These results indicate high linguistic quality and strong factual correctness.
 
 Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. 
 
----
-
 ## 📁 Repository Structure (Short)
 
 ```bash
@@ -304,7 +280,6 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 └── README.md
 ```
 
----
 
 ## 📜 Citation
 
@@ -312,8 +287,6 @@ If you use Parse, please cite:
 
 ```bibtex
 ```
-
----
 
 ## 📄 License
 
