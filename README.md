@@ -2,7 +2,7 @@
 <!--        PARSE          -->
 <!-- ===================== -->
 
-<div align="center">
+<div>
 
 # 🌟 Parse: An Open-Domain Reasoning QA Benchmark for Persian
 
