@@ -10,7 +10,7 @@
 covering **Boolean**, **Factoid**, and **Multiple-choice** questions with **Reasoning** + **Multi-hop** settings.
 
 <a href="https://huggingface.co/datasets/JamshidJDMY/Parse"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow&logo=huggingface"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Unpublished&color=green&logo=arXiv"></a>
+<a href="https://arxiv.org/pdf/2602.01246"><img src="https://img.shields.io/static/v1?label=Paper&message=ArXiv&color=green&logo=arXiv"></a>
 <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
 </div>
@@ -286,6 +286,12 @@ Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) cons
 If you use Parse, please cite:
 
 ```bibtex
+@article{mozafari2026parse,
+  title={PARSE: An Open-Domain Reasoning Question Answering Benchmark for Persian},
+  author={Mozafari, Jamshid and Mousavinasab, Seyed Parsa and Jatowt, Adam},
+  journal={arXiv preprint arXiv:2602.01246},
+  year={2026}
+}
 ```
 
 ## 📄 License
