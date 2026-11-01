@@ -97,7 +97,7 @@ Key findings:
 
 > Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
 
-## 🚀 Quick Start
+<!-- ## 🚀 Quick Start
 
 ### Install
 
@@ -115,7 +115,7 @@ print(ds)
 
 example = ds["train"][0]
 print(example)
-```
+``` -->
 
 ## 📦 Repository Overview
 
