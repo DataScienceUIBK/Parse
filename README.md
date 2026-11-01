@@ -89,11 +89,11 @@ We benchmark multilingual and Persian LLMs under:
 - **Chain-of-Thought (CoT)** 
 
 Key findings:
-- **Persian prompts** generally improve results compared to English prompts.
+- **Performance generally decreases with increasing difficulty**, particularly for **Factoid QA**.
 - **Structured prompting** helps:
-  - **CoT** is most effective for **Boolean** and **Multiple-choice**
-  - **Few-shot** is most effective for **Factoid**
-- **Fine-tuning improves performance**, particularly for Persian-specialized models. 
+  - **CoT** achieves the highest aggregate performance for **Boolean** and **Multiple-choice** QA.
+  - **Few-shot** achieves the highest aggregate performance for **Factoid** QA.
+- **Fine-tuning improves performance** for both **LLaMA-3 8B** and its Persian-specialized derivative, **Dorna**.
 
 > Full result tables are provided in the paper (e.g., Table 4 for Boolean and Table 5 for Multiple-choice). 
 
@@ -244,28 +244,31 @@ Output example:
 
 ## 👥 Human Evaluation Summary
 
-We conducted two human evaluation studies to validate benchmark quality and difficulty labels. 
+We conducted two human evaluation studies to assess benchmark quality and validate the assigned difficulty levels.
 
 ### ✅ Quality Evaluation (1–5 rating)
 
-Annotators evaluated:
-- **Ambiguity**
+We evaluated **2,160 unique QA pairs (20% of the benchmark)** with **12 native Persian speakers**. Each question was assessed using three criteria:
+
+- **Ambiguity** (higher scores indicate lower ambiguity)
 - **Readability**
 - **Correctness**
 
-Average scores across groups:
+The evaluation results are summarized below:
 
-| Metric | Avg. Score (1–5) |
-|---|---:|
-| Ambiguity | **4.404** |
-| Readability | **4.669** |
-| Correctness | **4.389** |
+| Metric | Mean ± SD | Mean ≥ 4 (%) |
+|---|---:|---:|
+| Ambiguity | **4.39 ± 0.86** | **80.0%** |
+| Readability | **4.67 ± 0.57** | **90.8%** |
+| Correctness | **4.37 ± 0.66** | **80.6%** |
 
-These results indicate high linguistic quality and strong factual correctness. 
+These results indicate generally favorable human assessments of the benchmark's linguistic clarity, readability, and factual correctness.
 
 ### ✅ Difficulty Validation
 
-Human accuracy aligns with our difficulty labels (**Easy > Medium > Hard**) consistently across Boolean, Multiple-choice, and Factoid. 
+Three annotators evaluated **270 unique QA pairs** (90 per annotator), covering all 18 benchmark configurations. Annotators were not shown the assigned difficulty labels.
+
+Human accuracy consistently decreased from **Easy → Medium → Hard** across **Boolean**, **Multiple-choice**, and **Factoid** QA, providing empirical support for the benchmark's difficulty labels.
 
 ## 📁 Repository Structure (Short)
 
